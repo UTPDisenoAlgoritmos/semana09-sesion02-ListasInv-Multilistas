@@ -1,0 +1,1001 @@
+id,nombre,marca,categoria,estado,almacen,precio,stock
+P0001,Producto TI 0001,Apple,Laptop,Disponible,Tienda Sur,1270.26,28
+P0002,Producto TI 0002,Lenovo,Servidor,Disponible,Tienda Sur,3344.67,69
+P0003,Producto TI 0003,HP,Impresora,En reparación,A01,177.75,27
+P0004,Producto TI 0004,Lenovo,Impresora,Disponible,Tienda Norte,930.82,83
+P0005,Producto TI 0005,Apple,Impresora,En reparación,A02,2046.23,35
+P0006,Producto TI 0006,HP,Router,Reservado,Tienda Sur,1927.75,35
+P0007,Producto TI 0007,Lenovo,Monitor,Agotado,A01,458.18,12
+P0008,Producto TI 0008,Dell,Router,Agotado,Tienda Norte,1223.44,5
+P0009,Producto TI 0009,Apple,Mouse,Disponible,LAB,396.05,37
+P0010,Producto TI 0010,Apple,Impresora,Agotado,Tienda Norte,901.65,8
+P0011,Producto TI 0011,HP,Servidor,Reservado,A03,4434.16,109
+P0012,Producto TI 0012,Lenovo,Router,Disponible,LAB,1283.37,81
+P0013,Producto TI 0013,Dell,Monitor,Agotado,A03,978.35,34
+P0014,Producto TI 0014,Apple,Servidor,Disponible,Tienda Norte,2873.83,68
+P0015,Producto TI 0015,Apple,Monitor,Reservado,LAB,1735.47,118
+P0016,Producto TI 0016,Apple,Servidor,Reservado,Tienda Sur,1489.68,98
+P0017,Producto TI 0017,HP,Monitor,Disponible,A03,1832.19,8
+P0018,Producto TI 0018,Lenovo,Impresora,Agotado,A02,2964.98,50
+P0019,Producto TI 0019,Apple,Mouse,Reservado,A03,667.05,95
+P0020,Producto TI 0020,Acer,Impresora,Agotado,Tienda Sur,2649.33,114
+P0021,Producto TI 0021,Acer,Mouse,Agotado,A02,4488.09,17
+P0022,Producto TI 0022,Acer,Mouse,Disponible,A01,3881.21,19
+P0023,Producto TI 0023,Apple,Monitor,En reparación,Tienda Norte,328.02,48
+P0024,Producto TI 0024,Acer,Mouse,Agotado,Tienda Norte,3879.77,1
+P0025,Producto TI 0025,Apple,Servidor,Disponible,Tienda Sur,3986.73,96
+P0026,Producto TI 0026,Dell,Router,Agotado,A01,1352.54,20
+P0027,Producto TI 0027,Asus,Laptop,Agotado,Tienda Norte,3439.54,64
+P0028,Producto TI 0028,HP,Router,Agotado,Tienda Sur,2306.64,25
+P0029,Producto TI 0029,Lenovo,Teclado,Reservado,Tienda Norte,4292.84,118
+P0030,Producto TI 0030,Acer,Laptop,Agotado,LAB,131.77,118
+P0031,Producto TI 0031,Dell,Router,Agotado,A02,303.06,112
+P0032,Producto TI 0032,Acer,Laptop,Disponible,Tienda Sur,2210.09,8
+P0033,Producto TI 0033,Acer,Router,Reservado,A02,2984.19,70
+P0034,Producto TI 0034,Lenovo,Teclado,En reparación,A02,4183.31,96
+P0035,Producto TI 0035,Apple,Servidor,Reservado,Tienda Sur,1433.7,85
+P0036,Producto TI 0036,Apple,Teclado,En reparación,Tienda Norte,2056.37,31
+P0037,Producto TI 0037,Lenovo,Laptop,Agotado,A01,2665.92,29
+P0038,Producto TI 0038,Acer,Monitor,Disponible,A01,3198.43,7
+P0039,Producto TI 0039,Lenovo,Laptop,Disponible,A03,360.67,30
+P0040,Producto TI 0040,Dell,Servidor,En reparación,A02,2447.29,92
+P0041,Producto TI 0041,Acer,Impresora,En reparación,A02,3540.48,103
+P0042,Producto TI 0042,Asus,Monitor,Disponible,A01,2980.77,45
+P0043,Producto TI 0043,Asus,Mouse,En reparación,Tienda Sur,286.33,83
+P0044,Producto TI 0044,Apple,Laptop,Disponible,LAB,3289.19,102
+P0045,Producto TI 0045,HP,Monitor,Reservado,A02,2434.15,17
+P0046,Producto TI 0046,Asus,Monitor,Agotado,LAB,1157.89,118
+P0047,Producto TI 0047,HP,Mouse,Disponible,A01,2950.31,69
+P0048,Producto TI 0048,HP,Laptop,Reservado,A02,1855.57,61
+P0049,Producto TI 0049,Lenovo,Router,En reparación,A01,778.46,0
+P0050,Producto TI 0050,Asus,Teclado,En reparación,A03,1929.5,93
+P0051,Producto TI 0051,Acer,Servidor,En reparación,A02,890.99,27
+P0052,Producto TI 0052,HP,Impresora,Disponible,Tienda Sur,1442.11,6
+P0053,Producto TI 0053,Acer,Mouse,Reservado,A01,4325.27,10
+P0054,Producto TI 0054,Lenovo,Laptop,Disponible,Tienda Sur,3884.4,51
+P0055,Producto TI 0055,HP,Impresora,Reservado,Tienda Norte,2693.58,79
+P0056,Producto TI 0056,HP,Mouse,Agotado,A03,954.97,91
+P0057,Producto TI 0057,Dell,Monitor,Agotado,LAB,628.06,82
+P0058,Producto TI 0058,Dell,Mouse,Agotado,A01,86.5,79
+P0059,Producto TI 0059,Acer,Laptop,Disponible,Tienda Norte,994.6,33
+P0060,Producto TI 0060,Lenovo,Teclado,Disponible,A02,1691.24,20
+P0061,Producto TI 0061,Asus,Router,Agotado,Tienda Norte,4428.07,103
+P0062,Producto TI 0062,Apple,Impresora,Disponible,Tienda Sur,3685.2,38
+P0063,Producto TI 0063,Apple,Laptop,Reservado,A03,559.23,13
+P0064,Producto TI 0064,Apple,Impresora,Reservado,A03,1300.22,26
+P0065,Producto TI 0065,Apple,Teclado,Reservado,Tienda Sur,2870.53,33
+P0066,Producto TI 0066,Acer,Mouse,Agotado,A01,456.19,54
+P0067,Producto TI 0067,Dell,Laptop,Disponible,A03,3480.34,81
+P0068,Producto TI 0068,Dell,Monitor,En reparación,Tienda Norte,3188.75,71
+P0069,Producto TI 0069,HP,Laptop,Disponible,Tienda Sur,4072.0,69
+P0070,Producto TI 0070,HP,Router,Agotado,Tienda Norte,2506.5,55
+P0071,Producto TI 0071,Lenovo,Laptop,Agotado,A03,4049.96,101
+P0072,Producto TI 0072,HP,Teclado,Reservado,Tienda Sur,1156.65,13
+P0073,Producto TI 0073,Dell,Router,En reparación,Tienda Norte,3383.92,118
+P0074,Producto TI 0074,Lenovo,Router,Reservado,A02,3971.71,3
+P0075,Producto TI 0075,Lenovo,Servidor,Agotado,LAB,3618.96,110
+P0076,Producto TI 0076,Apple,Router,Reservado,A03,754.23,89
+P0077,Producto TI 0077,HP,Mouse,Disponible,LAB,1035.94,104
+P0078,Producto TI 0078,Asus,Teclado,Agotado,A02,1038.12,84
+P0079,Producto TI 0079,Lenovo,Mouse,Agotado,A03,3895.69,98
+P0080,Producto TI 0080,Dell,Teclado,En reparación,Tienda Sur,4416.02,68
+P0081,Producto TI 0081,Dell,Laptop,Disponible,A03,840.52,33
+P0082,Producto TI 0082,HP,Laptop,En reparación,A03,3290.67,40
+P0083,Producto TI 0083,Asus,Impresora,Disponible,LAB,4052.29,24
+P0084,Producto TI 0084,Dell,Laptop,En reparación,A01,2361.25,103
+P0085,Producto TI 0085,Acer,Servidor,Reservado,A03,1966.43,85
+P0086,Producto TI 0086,Dell,Impresora,Agotado,Tienda Sur,3822.91,92
+P0087,Producto TI 0087,Dell,Impresora,Agotado,Tienda Sur,1864.39,51
+P0088,Producto TI 0088,Apple,Teclado,Reservado,A02,1918.09,120
+P0089,Producto TI 0089,Asus,Servidor,Reservado,Tienda Norte,2580.36,51
+P0090,Producto TI 0090,Acer,Router,Disponible,A03,1323.2,55
+P0091,Producto TI 0091,Acer,Impresora,Agotado,LAB,2013.16,86
+P0092,Producto TI 0092,Lenovo,Impresora,En reparación,Tienda Sur,800.98,10
+P0093,Producto TI 0093,Dell,Impresora,Agotado,A01,3691.08,96
+P0094,Producto TI 0094,Lenovo,Servidor,Agotado,A02,3638.24,18
+P0095,Producto TI 0095,HP,Laptop,Reservado,LAB,2768.23,98
+P0096,Producto TI 0096,HP,Mouse,En reparación,Tienda Sur,2609.61,91
+P0097,Producto TI 0097,Apple,Mouse,En reparación,LAB,1131.95,83
+P0098,Producto TI 0098,Apple,Laptop,Disponible,LAB,1019.94,102
+P0099,Producto TI 0099,Apple,Impresora,En reparación,A01,2528.24,117
+P0100,Producto TI 0100,HP,Mouse,Reservado,LAB,3019.06,71
+P0101,Producto TI 0101,Acer,Teclado,En reparación,Tienda Norte,3675.85,114
+P0102,Producto TI 0102,Acer,Mouse,En reparación,A02,3357.98,60
+P0103,Producto TI 0103,Asus,Teclado,Reservado,Tienda Sur,1280.42,99
+P0104,Producto TI 0104,Acer,Mouse,Reservado,A03,2004.63,91
+P0105,Producto TI 0105,Dell,Monitor,Agotado,A03,1469.31,69
+P0106,Producto TI 0106,HP,Monitor,Reservado,A02,1751.42,19
+P0107,Producto TI 0107,Apple,Monitor,Disponible,LAB,1860.86,69
+P0108,Producto TI 0108,Asus,Mouse,Disponible,A02,3755.53,49
+P0109,Producto TI 0109,Acer,Servidor,Disponible,Tienda Norte,1739.6,0
+P0110,Producto TI 0110,Dell,Teclado,En reparación,LAB,2442.77,94
+P0111,Producto TI 0111,Acer,Router,Reservado,LAB,1022.52,55
+P0112,Producto TI 0112,Asus,Laptop,En reparación,A03,3024.83,102
+P0113,Producto TI 0113,Asus,Servidor,Reservado,LAB,4141.56,79
+P0114,Producto TI 0114,Acer,Laptop,En reparación,Tienda Norte,2559.37,3
+P0115,Producto TI 0115,HP,Servidor,En reparación,A02,3906.82,23
+P0116,Producto TI 0116,HP,Teclado,En reparación,A03,987.95,41
+P0117,Producto TI 0117,Dell,Router,En reparación,A03,3395.2,106
+P0118,Producto TI 0118,Asus,Teclado,Disponible,LAB,131.35,69
+P0119,Producto TI 0119,HP,Teclado,Reservado,Tienda Sur,350.69,83
+P0120,Producto TI 0120,HP,Router,Disponible,A02,933.15,2
+P0121,Producto TI 0121,Acer,Monitor,Reservado,A02,2154.71,14
+P0122,Producto TI 0122,Acer,Monitor,En reparación,Tienda Sur,1186.57,47
+P0123,Producto TI 0123,Lenovo,Impresora,Disponible,A02,4342.83,13
+P0124,Producto TI 0124,Acer,Laptop,Agotado,Tienda Norte,3062.58,48
+P0125,Producto TI 0125,Asus,Servidor,Reservado,A01,2682.8,106
+P0126,Producto TI 0126,Apple,Monitor,Disponible,Tienda Sur,3486.4,108
+P0127,Producto TI 0127,Apple,Impresora,Disponible,Tienda Norte,3531.64,44
+P0128,Producto TI 0128,Acer,Mouse,Agotado,A01,2299.06,43
+P0129,Producto TI 0129,HP,Router,En reparación,LAB,515.18,46
+P0130,Producto TI 0130,Apple,Router,En reparación,Tienda Sur,726.58,22
+P0131,Producto TI 0131,Apple,Impresora,Agotado,Tienda Norte,3645.53,68
+P0132,Producto TI 0132,Asus,Mouse,En reparación,Tienda Sur,2684.47,41
+P0133,Producto TI 0133,Lenovo,Router,Disponible,A03,3972.67,31
+P0134,Producto TI 0134,Asus,Impresora,En reparación,A03,172.86,108
+P0135,Producto TI 0135,Dell,Monitor,En reparación,A02,1625.75,33
+P0136,Producto TI 0136,Dell,Teclado,Agotado,Tienda Norte,90.22,24
+P0137,Producto TI 0137,HP,Monitor,En reparación,LAB,2518.31,30
+P0138,Producto TI 0138,Apple,Mouse,En reparación,LAB,3577.52,11
+P0139,Producto TI 0139,Dell,Monitor,En reparación,Tienda Sur,1128.92,84
+P0140,Producto TI 0140,Acer,Teclado,En reparación,Tienda Norte,2410.26,54
+P0141,Producto TI 0141,Apple,Impresora,Agotado,A03,3176.22,34
+P0142,Producto TI 0142,Dell,Teclado,Reservado,A01,3258.32,40
+P0143,Producto TI 0143,HP,Servidor,Reservado,A02,1008.99,61
+P0144,Producto TI 0144,Dell,Servidor,Agotado,A01,3754.36,37
+P0145,Producto TI 0145,Lenovo,Teclado,Reservado,A03,108.03,68
+P0146,Producto TI 0146,Lenovo,Teclado,Disponible,A01,2510.21,89
+P0147,Producto TI 0147,Lenovo,Servidor,En reparación,A01,3932.97,73
+P0148,Producto TI 0148,Dell,Mouse,En reparación,LAB,1562.84,6
+P0149,Producto TI 0149,Dell,Router,En reparación,A01,3707.53,51
+P0150,Producto TI 0150,Asus,Laptop,Disponible,A02,709.68,72
+P0151,Producto TI 0151,Dell,Laptop,Reservado,A01,2531.22,53
+P0152,Producto TI 0152,Acer,Impresora,Reservado,Tienda Norte,1739.58,116
+P0153,Producto TI 0153,Asus,Teclado,En reparación,A03,2578.24,7
+P0154,Producto TI 0154,Acer,Servidor,Disponible,A02,2831.67,33
+P0155,Producto TI 0155,Apple,Laptop,Reservado,A02,819.34,9
+P0156,Producto TI 0156,Lenovo,Laptop,En reparación,LAB,3116.15,60
+P0157,Producto TI 0157,Dell,Laptop,Reservado,A03,3194.49,89
+P0158,Producto TI 0158,Asus,Laptop,Reservado,A03,3554.77,80
+P0159,Producto TI 0159,Acer,Servidor,Reservado,LAB,556.33,28
+P0160,Producto TI 0160,Apple,Monitor,Agotado,A02,363.13,21
+P0161,Producto TI 0161,Dell,Impresora,Agotado,LAB,599.0,88
+P0162,Producto TI 0162,Dell,Servidor,En reparación,A03,2274.6,63
+P0163,Producto TI 0163,Asus,Laptop,Disponible,LAB,3317.35,77
+P0164,Producto TI 0164,Dell,Laptop,Disponible,A02,4330.31,107
+P0165,Producto TI 0165,Acer,Impresora,Disponible,Tienda Sur,3704.43,73
+P0166,Producto TI 0166,HP,Router,Reservado,LAB,2356.98,56
+P0167,Producto TI 0167,Dell,Monitor,En reparación,Tienda Sur,3672.46,11
+P0168,Producto TI 0168,Asus,Teclado,En reparación,A03,1475.31,13
+P0169,Producto TI 0169,Lenovo,Teclado,En reparación,Tienda Sur,2252.31,84
+P0170,Producto TI 0170,Asus,Router,Disponible,LAB,437.31,32
+P0171,Producto TI 0171,Dell,Laptop,En reparación,Tienda Norte,3720.05,0
+P0172,Producto TI 0172,Apple,Router,En reparación,LAB,286.48,66
+P0173,Producto TI 0173,Dell,Impresora,En reparación,Tienda Sur,2014.29,6
+P0174,Producto TI 0174,Lenovo,Teclado,Reservado,A03,1996.81,89
+P0175,Producto TI 0175,Asus,Laptop,Disponible,Tienda Sur,2757.52,30
+P0176,Producto TI 0176,Apple,Monitor,Agotado,Tienda Norte,105.92,52
+P0177,Producto TI 0177,HP,Monitor,Disponible,LAB,4264.16,82
+P0178,Producto TI 0178,Lenovo,Mouse,Agotado,Tienda Norte,3187.61,53
+P0179,Producto TI 0179,Asus,Mouse,Reservado,LAB,2500.89,49
+P0180,Producto TI 0180,Lenovo,Impresora,Reservado,A01,1275.68,101
+P0181,Producto TI 0181,Asus,Teclado,Agotado,A01,1305.05,38
+P0182,Producto TI 0182,Acer,Impresora,En reparación,A02,2034.37,61
+P0183,Producto TI 0183,Dell,Teclado,En reparación,LAB,4200.86,111
+P0184,Producto TI 0184,Lenovo,Servidor,Reservado,Tienda Norte,1751.14,109
+P0185,Producto TI 0185,Asus,Laptop,Agotado,Tienda Sur,2152.11,116
+P0186,Producto TI 0186,Asus,Mouse,Reservado,LAB,4343.29,16
+P0187,Producto TI 0187,Acer,Impresora,Agotado,A01,3939.52,56
+P0188,Producto TI 0188,HP,Impresora,En reparación,A01,3263.49,52
+P0189,Producto TI 0189,Apple,Monitor,Disponible,LAB,3526.7,33
+P0190,Producto TI 0190,Dell,Impresora,En reparación,Tienda Sur,402.8,42
+P0191,Producto TI 0191,Apple,Router,En reparación,A03,2837.39,113
+P0192,Producto TI 0192,Asus,Router,Disponible,Tienda Norte,349.81,80
+P0193,Producto TI 0193,Apple,Teclado,Reservado,Tienda Sur,447.64,12
+P0194,Producto TI 0194,Apple,Servidor,Disponible,LAB,786.16,38
+P0195,Producto TI 0195,HP,Laptop,Agotado,A01,1351.95,47
+P0196,Producto TI 0196,Asus,Monitor,Reservado,Tienda Norte,1880.69,87
+P0197,Producto TI 0197,Lenovo,Monitor,Reservado,A01,2760.29,48
+P0198,Producto TI 0198,Acer,Servidor,Reservado,LAB,4111.65,18
+P0199,Producto TI 0199,Lenovo,Mouse,Agotado,LAB,1182.48,1
+P0200,Producto TI 0200,Asus,Teclado,Reservado,A01,2012.91,44
+P0201,Producto TI 0201,Acer,Teclado,En reparación,Tienda Sur,1159.19,108
+P0202,Producto TI 0202,Dell,Monitor,En reparación,LAB,520.14,48
+P0203,Producto TI 0203,Acer,Teclado,Agotado,Tienda Sur,1360.25,106
+P0204,Producto TI 0204,Apple,Mouse,Agotado,A01,2566.21,87
+P0205,Producto TI 0205,Apple,Laptop,En reparación,A03,3500.93,29
+P0206,Producto TI 0206,Acer,Router,Agotado,A02,2881.13,79
+P0207,Producto TI 0207,Dell,Servidor,Reservado,Tienda Sur,477.87,80
+P0208,Producto TI 0208,Apple,Laptop,Agotado,LAB,193.64,46
+P0209,Producto TI 0209,Apple,Monitor,Disponible,A03,1500.53,53
+P0210,Producto TI 0210,Lenovo,Monitor,Reservado,Tienda Norte,3949.63,46
+P0211,Producto TI 0211,Acer,Impresora,Agotado,A02,1189.8,105
+P0212,Producto TI 0212,Asus,Router,Agotado,Tienda Sur,3922.62,102
+P0213,Producto TI 0213,HP,Mouse,Disponible,A02,3404.74,28
+P0214,Producto TI 0214,Apple,Servidor,En reparación,Tienda Norte,1674.53,101
+P0215,Producto TI 0215,Asus,Laptop,Agotado,Tienda Norte,595.59,47
+P0216,Producto TI 0216,Apple,Servidor,Agotado,Tienda Norte,1742.47,81
+P0217,Producto TI 0217,Dell,Laptop,Reservado,LAB,156.48,113
+P0218,Producto TI 0218,Acer,Teclado,Reservado,Tienda Sur,326.63,105
+P0219,Producto TI 0219,Asus,Servidor,Agotado,Tienda Sur,1863.96,17
+P0220,Producto TI 0220,HP,Laptop,Agotado,LAB,562.32,30
+P0221,Producto TI 0221,Acer,Monitor,En reparación,LAB,1697.86,95
+P0222,Producto TI 0222,Apple,Impresora,En reparación,Tienda Norte,3351.81,19
+P0223,Producto TI 0223,Asus,Servidor,Disponible,LAB,2787.73,120
+P0224,Producto TI 0224,Dell,Laptop,Agotado,A02,2020.27,30
+P0225,Producto TI 0225,Dell,Laptop,Agotado,Tienda Norte,4062.06,82
+P0226,Producto TI 0226,Dell,Laptop,En reparación,A03,890.6,15
+P0227,Producto TI 0227,Asus,Laptop,Reservado,Tienda Sur,2893.94,2
+P0228,Producto TI 0228,HP,Router,Agotado,A02,4450.2,100
+P0229,Producto TI 0229,Acer,Monitor,Disponible,Tienda Norte,967.89,27
+P0230,Producto TI 0230,Lenovo,Teclado,Reservado,Tienda Norte,57.63,109
+P0231,Producto TI 0231,Lenovo,Monitor,Agotado,A02,534.72,110
+P0232,Producto TI 0232,HP,Monitor,Disponible,A03,3564.38,30
+P0233,Producto TI 0233,Acer,Teclado,Disponible,A02,1227.21,16
+P0234,Producto TI 0234,Apple,Mouse,Disponible,Tienda Sur,328.15,57
+P0235,Producto TI 0235,Dell,Impresora,Disponible,LAB,2289.6,78
+P0236,Producto TI 0236,HP,Servidor,Agotado,LAB,2911.08,3
+P0237,Producto TI 0237,HP,Mouse,En reparación,LAB,3101.56,62
+P0238,Producto TI 0238,Apple,Mouse,Disponible,A01,1480.01,18
+P0239,Producto TI 0239,HP,Monitor,Agotado,Tienda Norte,2865.36,70
+P0240,Producto TI 0240,Apple,Teclado,En reparación,Tienda Norte,2408.63,58
+P0241,Producto TI 0241,Acer,Impresora,En reparación,A01,3578.24,14
+P0242,Producto TI 0242,Apple,Servidor,Reservado,LAB,2056.68,29
+P0243,Producto TI 0243,Asus,Teclado,En reparación,LAB,1898.23,12
+P0244,Producto TI 0244,Dell,Mouse,Agotado,Tienda Sur,1180.53,19
+P0245,Producto TI 0245,Apple,Mouse,Disponible,A01,3750.54,11
+P0246,Producto TI 0246,Asus,Laptop,Agotado,A02,2523.63,75
+P0247,Producto TI 0247,Acer,Impresora,Agotado,Tienda Sur,589.54,45
+P0248,Producto TI 0248,Apple,Router,En reparación,Tienda Sur,274.19,36
+P0249,Producto TI 0249,Acer,Teclado,Agotado,A01,2619.63,27
+P0250,Producto TI 0250,Lenovo,Servidor,En reparación,A02,3819.61,44
+P0251,Producto TI 0251,Acer,Teclado,Disponible,A03,2602.62,103
+P0252,Producto TI 0252,Asus,Router,Disponible,Tienda Norte,4184.07,106
+P0253,Producto TI 0253,Apple,Teclado,Disponible,A02,1262.42,97
+P0254,Producto TI 0254,Dell,Teclado,Agotado,A01,853.16,18
+P0255,Producto TI 0255,Acer,Servidor,En reparación,A01,677.05,81
+P0256,Producto TI 0256,HP,Laptop,Reservado,LAB,1915.35,43
+P0257,Producto TI 0257,Lenovo,Teclado,Agotado,Tienda Sur,1490.13,120
+P0258,Producto TI 0258,Acer,Impresora,Disponible,A01,738.11,96
+P0259,Producto TI 0259,Acer,Laptop,Disponible,A03,2019.07,54
+P0260,Producto TI 0260,Asus,Impresora,En reparación,LAB,1261.96,96
+P0261,Producto TI 0261,Acer,Laptop,Agotado,LAB,539.01,86
+P0262,Producto TI 0262,Apple,Impresora,En reparación,Tienda Norte,3017.08,5
+P0263,Producto TI 0263,Lenovo,Mouse,Disponible,A01,955.71,27
+P0264,Producto TI 0264,Lenovo,Router,Agotado,A03,1506.79,0
+P0265,Producto TI 0265,Asus,Servidor,En reparación,A02,620.52,68
+P0266,Producto TI 0266,Apple,Monitor,Agotado,A01,1813.95,94
+P0267,Producto TI 0267,HP,Mouse,Disponible,LAB,4148.78,110
+P0268,Producto TI 0268,Dell,Impresora,En reparación,Tienda Norte,1846.7,81
+P0269,Producto TI 0269,Asus,Teclado,Disponible,LAB,137.92,41
+P0270,Producto TI 0270,Lenovo,Router,En reparación,Tienda Sur,4142.57,11
+P0271,Producto TI 0271,Asus,Router,Disponible,A02,1985.94,51
+P0272,Producto TI 0272,Acer,Laptop,En reparación,A03,3367.56,28
+P0273,Producto TI 0273,Dell,Router,Reservado,A01,2319.2,14
+P0274,Producto TI 0274,Acer,Impresora,Reservado,A03,1609.15,104
+P0275,Producto TI 0275,Apple,Router,Reservado,A02,502.99,32
+P0276,Producto TI 0276,Lenovo,Monitor,Reservado,Tienda Sur,380.7,98
+P0277,Producto TI 0277,Apple,Mouse,En reparación,Tienda Norte,3430.25,57
+P0278,Producto TI 0278,Apple,Impresora,Agotado,Tienda Sur,1453.4,56
+P0279,Producto TI 0279,HP,Mouse,En reparación,Tienda Sur,1394.07,35
+P0280,Producto TI 0280,Acer,Laptop,Agotado,Tienda Norte,375.52,59
+P0281,Producto TI 0281,Asus,Laptop,Disponible,A03,3750.21,9
+P0282,Producto TI 0282,Apple,Router,Disponible,Tienda Norte,2691.63,49
+P0283,Producto TI 0283,Asus,Impresora,Disponible,LAB,4094.82,73
+P0284,Producto TI 0284,Apple,Monitor,Agotado,Tienda Norte,2163.93,19
+P0285,Producto TI 0285,HP,Mouse,Disponible,A03,4421.53,10
+P0286,Producto TI 0286,Acer,Servidor,Reservado,A01,1148.7,56
+P0287,Producto TI 0287,Asus,Impresora,Reservado,A03,1706.06,36
+P0288,Producto TI 0288,Asus,Mouse,Agotado,Tienda Sur,2708.58,101
+P0289,Producto TI 0289,Apple,Servidor,Agotado,A01,1513.77,71
+P0290,Producto TI 0290,Apple,Mouse,Agotado,A03,3269.23,84
+P0291,Producto TI 0291,Acer,Router,Reservado,A03,408.09,84
+P0292,Producto TI 0292,Lenovo,Teclado,Agotado,Tienda Sur,3156.73,50
+P0293,Producto TI 0293,Lenovo,Impresora,Disponible,A03,2535.0,82
+P0294,Producto TI 0294,Dell,Router,Reservado,Tienda Sur,3176.11,94
+P0295,Producto TI 0295,Apple,Impresora,Disponible,Tienda Sur,3031.88,65
+P0296,Producto TI 0296,Dell,Laptop,Agotado,A03,848.07,27
+P0297,Producto TI 0297,Dell,Router,En reparación,A02,1054.25,17
+P0298,Producto TI 0298,Lenovo,Laptop,Agotado,A01,2306.76,69
+P0299,Producto TI 0299,Apple,Impresora,Disponible,Tienda Sur,1545.29,98
+P0300,Producto TI 0300,Acer,Monitor,En reparación,A02,767.81,106
+P0301,Producto TI 0301,Apple,Router,Reservado,Tienda Sur,1994.84,52
+P0302,Producto TI 0302,Dell,Servidor,Reservado,LAB,2765.2,96
+P0303,Producto TI 0303,Apple,Router,En reparación,A02,2424.02,39
+P0304,Producto TI 0304,Asus,Router,Reservado,A03,3066.86,73
+P0305,Producto TI 0305,Asus,Mouse,Agotado,LAB,2285.45,53
+P0306,Producto TI 0306,Lenovo,Router,Reservado,Tienda Norte,661.57,32
+P0307,Producto TI 0307,HP,Servidor,En reparación,A03,2515.48,13
+P0308,Producto TI 0308,Apple,Router,Disponible,A03,418.66,20
+P0309,Producto TI 0309,Dell,Mouse,Reservado,LAB,453.58,116
+P0310,Producto TI 0310,Lenovo,Router,En reparación,A03,4190.25,53
+P0311,Producto TI 0311,HP,Mouse,Agotado,A02,1765.37,10
+P0312,Producto TI 0312,Dell,Monitor,Disponible,A03,4191.83,107
+P0313,Producto TI 0313,Apple,Servidor,Agotado,A02,658.01,36
+P0314,Producto TI 0314,Asus,Servidor,Reservado,Tienda Sur,2134.89,78
+P0315,Producto TI 0315,HP,Laptop,Disponible,A03,1005.74,19
+P0316,Producto TI 0316,Acer,Servidor,En reparación,A01,3502.85,30
+P0317,Producto TI 0317,Dell,Laptop,Disponible,A02,1915.32,101
+P0318,Producto TI 0318,Acer,Mouse,Disponible,A01,3772.44,63
+P0319,Producto TI 0319,Acer,Impresora,Disponible,Tienda Sur,2341.0,30
+P0320,Producto TI 0320,Apple,Monitor,Agotado,LAB,51.97,45
+P0321,Producto TI 0321,Lenovo,Impresora,En reparación,A02,3004.77,10
+P0322,Producto TI 0322,Acer,Teclado,Disponible,Tienda Norte,2468.89,100
+P0323,Producto TI 0323,Acer,Impresora,Disponible,LAB,3935.69,5
+P0324,Producto TI 0324,Apple,Mouse,Agotado,A03,3374.3,45
+P0325,Producto TI 0325,HP,Teclado,Reservado,Tienda Sur,2972.4,13
+P0326,Producto TI 0326,Acer,Servidor,Agotado,A02,242.52,69
+P0327,Producto TI 0327,Dell,Router,Reservado,Tienda Sur,2114.9,89
+P0328,Producto TI 0328,Asus,Servidor,Reservado,A02,326.11,99
+P0329,Producto TI 0329,Asus,Laptop,Agotado,A02,240.16,25
+P0330,Producto TI 0330,HP,Teclado,Agotado,Tienda Norte,1819.09,104
+P0331,Producto TI 0331,Acer,Mouse,Agotado,A01,3400.91,24
+P0332,Producto TI 0332,Dell,Teclado,Disponible,Tienda Sur,1523.72,15
+P0333,Producto TI 0333,Dell,Mouse,En reparación,Tienda Sur,2004.03,49
+P0334,Producto TI 0334,Dell,Monitor,En reparación,Tienda Sur,2261.47,118
+P0335,Producto TI 0335,Acer,Teclado,Disponible,Tienda Sur,1936.15,55
+P0336,Producto TI 0336,Acer,Router,Reservado,Tienda Norte,1353.73,13
+P0337,Producto TI 0337,HP,Teclado,Agotado,A03,2031.55,91
+P0338,Producto TI 0338,Asus,Monitor,En reparación,A03,2036.96,93
+P0339,Producto TI 0339,Dell,Impresora,En reparación,A03,2893.84,101
+P0340,Producto TI 0340,HP,Laptop,En reparación,A03,2330.8,95
+P0341,Producto TI 0341,Apple,Monitor,Disponible,A02,3825.82,86
+P0342,Producto TI 0342,Asus,Laptop,Reservado,A01,1096.36,82
+P0343,Producto TI 0343,Dell,Teclado,En reparación,Tienda Norte,189.28,19
+P0344,Producto TI 0344,Apple,Mouse,Agotado,A03,2022.75,9
+P0345,Producto TI 0345,Acer,Monitor,Agotado,LAB,1445.59,35
+P0346,Producto TI 0346,Lenovo,Laptop,Disponible,Tienda Sur,873.84,66
+P0347,Producto TI 0347,Asus,Impresora,Disponible,A03,3497.47,90
+P0348,Producto TI 0348,Asus,Monitor,Agotado,Tienda Sur,4127.91,62
+P0349,Producto TI 0349,Lenovo,Laptop,Reservado,A01,2058.85,115
+P0350,Producto TI 0350,Apple,Mouse,Disponible,Tienda Sur,4355.49,40
+P0351,Producto TI 0351,Apple,Teclado,Disponible,Tienda Norte,2460.37,114
+P0352,Producto TI 0352,Dell,Router,Reservado,Tienda Sur,3206.11,89
+P0353,Producto TI 0353,Apple,Monitor,Agotado,Tienda Norte,1044.0,25
+P0354,Producto TI 0354,Lenovo,Monitor,En reparación,A01,1652.79,73
+P0355,Producto TI 0355,Dell,Mouse,Reservado,Tienda Norte,3984.32,8
+P0356,Producto TI 0356,Dell,Mouse,En reparación,Tienda Norte,1875.09,52
+P0357,Producto TI 0357,Acer,Laptop,Reservado,A03,2906.62,57
+P0358,Producto TI 0358,Asus,Servidor,Agotado,A02,3956.31,99
+P0359,Producto TI 0359,Acer,Servidor,Reservado,A02,1972.31,116
+P0360,Producto TI 0360,HP,Router,Disponible,Tienda Norte,726.68,21
+P0361,Producto TI 0361,Lenovo,Teclado,Reservado,A03,4266.04,66
+P0362,Producto TI 0362,Dell,Router,Disponible,A03,919.53,70
+P0363,Producto TI 0363,Dell,Monitor,Agotado,Tienda Norte,2421.64,64
+P0364,Producto TI 0364,Apple,Monitor,Reservado,A02,2979.65,92
+P0365,Producto TI 0365,Acer,Teclado,Disponible,A01,406.85,82
+P0366,Producto TI 0366,Acer,Teclado,Reservado,Tienda Norte,1900.89,81
+P0367,Producto TI 0367,HP,Mouse,Agotado,Tienda Sur,4306.88,61
+P0368,Producto TI 0368,Lenovo,Router,En reparación,A03,2065.54,88
+P0369,Producto TI 0369,HP,Monitor,En reparación,LAB,2202.34,26
+P0370,Producto TI 0370,Dell,Impresora,Reservado,A03,3882.92,40
+P0371,Producto TI 0371,Apple,Router,Agotado,LAB,627.56,47
+P0372,Producto TI 0372,Acer,Impresora,Disponible,A03,1121.94,15
+P0373,Producto TI 0373,Dell,Mouse,Reservado,A02,476.3,37
+P0374,Producto TI 0374,Asus,Router,En reparación,A02,4333.77,115
+P0375,Producto TI 0375,Lenovo,Router,Agotado,Tienda Norte,3257.63,24
+P0376,Producto TI 0376,Lenovo,Mouse,En reparación,LAB,3961.28,63
+P0377,Producto TI 0377,HP,Laptop,En reparación,Tienda Norte,2081.96,30
+P0378,Producto TI 0378,Lenovo,Impresora,Agotado,A01,270.16,63
+P0379,Producto TI 0379,Acer,Router,En reparación,A03,2435.96,108
+P0380,Producto TI 0380,HP,Mouse,Reservado,A03,3286.05,97
+P0381,Producto TI 0381,Asus,Teclado,Disponible,LAB,272.91,71
+P0382,Producto TI 0382,Lenovo,Teclado,Agotado,A01,1766.18,57
+P0383,Producto TI 0383,Acer,Teclado,Disponible,A02,4388.99,50
+P0384,Producto TI 0384,Dell,Router,Agotado,Tienda Norte,4228.02,96
+P0385,Producto TI 0385,Lenovo,Monitor,En reparación,Tienda Norte,224.34,4
+P0386,Producto TI 0386,Lenovo,Servidor,Agotado,LAB,2358.63,19
+P0387,Producto TI 0387,Acer,Impresora,Reservado,A03,4194.25,40
+P0388,Producto TI 0388,Lenovo,Mouse,Agotado,Tienda Norte,1543.54,106
+P0389,Producto TI 0389,Acer,Impresora,En reparación,Tienda Sur,2552.83,60
+P0390,Producto TI 0390,HP,Teclado,Agotado,Tienda Sur,533.29,53
+P0391,Producto TI 0391,Acer,Teclado,Disponible,Tienda Norte,2159.3,83
+P0392,Producto TI 0392,Acer,Impresora,Reservado,Tienda Sur,273.79,61
+P0393,Producto TI 0393,Lenovo,Impresora,En reparación,A02,3705.5,31
+P0394,Producto TI 0394,HP,Impresora,Disponible,A02,129.37,40
+P0395,Producto TI 0395,Asus,Monitor,En reparación,Tienda Sur,953.34,64
+P0396,Producto TI 0396,Acer,Mouse,Disponible,Tienda Sur,660.16,26
+P0397,Producto TI 0397,Acer,Teclado,En reparación,Tienda Norte,1723.75,22
+P0398,Producto TI 0398,Asus,Impresora,Agotado,Tienda Norte,1623.35,98
+P0399,Producto TI 0399,Apple,Servidor,Agotado,Tienda Norte,2202.02,31
+P0400,Producto TI 0400,Dell,Impresora,Agotado,A02,4239.32,38
+P0401,Producto TI 0401,Dell,Servidor,Reservado,Tienda Sur,3185.72,40
+P0402,Producto TI 0402,Asus,Teclado,Agotado,A03,587.95,86
+P0403,Producto TI 0403,Acer,Mouse,En reparación,A03,4297.78,102
+P0404,Producto TI 0404,Lenovo,Teclado,Disponible,A03,4300.92,10
+P0405,Producto TI 0405,Dell,Mouse,Agotado,Tienda Sur,2179.3,25
+P0406,Producto TI 0406,Acer,Teclado,Agotado,A02,531.6,94
+P0407,Producto TI 0407,Acer,Monitor,Reservado,A01,3029.11,67
+P0408,Producto TI 0408,Lenovo,Servidor,Reservado,A01,491.38,42
+P0409,Producto TI 0409,Apple,Mouse,Disponible,Tienda Sur,3478.76,0
+P0410,Producto TI 0410,Acer,Monitor,En reparación,Tienda Sur,4210.57,112
+P0411,Producto TI 0411,Asus,Mouse,Reservado,A03,1475.8,82
+P0412,Producto TI 0412,HP,Router,Disponible,Tienda Sur,2602.76,68
+P0413,Producto TI 0413,Apple,Servidor,Disponible,A02,1906.68,107
+P0414,Producto TI 0414,Lenovo,Laptop,En reparación,LAB,875.02,95
+P0415,Producto TI 0415,Dell,Laptop,Disponible,A03,2575.27,13
+P0416,Producto TI 0416,Dell,Teclado,En reparación,Tienda Sur,2465.4,63
+P0417,Producto TI 0417,Lenovo,Router,En reparación,A03,903.97,14
+P0418,Producto TI 0418,Dell,Monitor,En reparación,Tienda Sur,1191.12,23
+P0419,Producto TI 0419,HP,Servidor,Agotado,A03,2574.47,96
+P0420,Producto TI 0420,Lenovo,Monitor,En reparación,LAB,2340.58,11
+P0421,Producto TI 0421,Asus,Servidor,Disponible,A02,4418.41,61
+P0422,Producto TI 0422,Dell,Monitor,Disponible,A03,1753.82,57
+P0423,Producto TI 0423,Dell,Teclado,Agotado,Tienda Norte,3265.44,1
+P0424,Producto TI 0424,Dell,Servidor,Agotado,Tienda Sur,1097.73,85
+P0425,Producto TI 0425,HP,Mouse,Agotado,A02,1851.13,64
+P0426,Producto TI 0426,Apple,Router,Agotado,Tienda Sur,568.09,117
+P0427,Producto TI 0427,Dell,Teclado,Reservado,A02,4310.04,61
+P0428,Producto TI 0428,Lenovo,Mouse,Agotado,LAB,3172.15,116
+P0429,Producto TI 0429,Asus,Router,Reservado,A02,3075.92,76
+P0430,Producto TI 0430,HP,Impresora,En reparación,Tienda Norte,3180.28,9
+P0431,Producto TI 0431,Acer,Laptop,Disponible,Tienda Norte,4067.37,25
+P0432,Producto TI 0432,Acer,Impresora,Reservado,A02,1506.76,66
+P0433,Producto TI 0433,Asus,Laptop,Reservado,Tienda Sur,2642.92,11
+P0434,Producto TI 0434,Acer,Mouse,Disponible,LAB,632.81,53
+P0435,Producto TI 0435,Asus,Impresora,Disponible,Tienda Norte,2104.9,103
+P0436,Producto TI 0436,Dell,Servidor,Disponible,LAB,1178.61,0
+P0437,Producto TI 0437,Apple,Monitor,Disponible,A01,1932.57,89
+P0438,Producto TI 0438,HP,Impresora,Disponible,A01,4438.24,60
+P0439,Producto TI 0439,HP,Teclado,En reparación,A02,3470.77,98
+P0440,Producto TI 0440,Apple,Servidor,En reparación,A03,4468.18,48
+P0441,Producto TI 0441,Asus,Router,En reparación,LAB,402.51,84
+P0442,Producto TI 0442,Acer,Monitor,Agotado,A01,840.1,68
+P0443,Producto TI 0443,Asus,Impresora,Reservado,Tienda Sur,4405.22,106
+P0444,Producto TI 0444,HP,Router,Disponible,A03,2107.68,92
+P0445,Producto TI 0445,Acer,Mouse,En reparación,A02,1147.67,44
+P0446,Producto TI 0446,Lenovo,Teclado,Reservado,Tienda Sur,3455.26,4
+P0447,Producto TI 0447,Apple,Mouse,Disponible,A02,963.09,12
+P0448,Producto TI 0448,Acer,Laptop,En reparación,Tienda Norte,3038.87,111
+P0449,Producto TI 0449,HP,Monitor,Disponible,LAB,2000.58,69
+P0450,Producto TI 0450,Lenovo,Router,Disponible,A02,2289.86,37
+P0451,Producto TI 0451,Lenovo,Router,Agotado,Tienda Norte,2708.72,86
+P0452,Producto TI 0452,Dell,Monitor,Agotado,A02,4436.27,66
+P0453,Producto TI 0453,Lenovo,Mouse,Agotado,A03,316.57,75
+P0454,Producto TI 0454,Apple,Monitor,En reparación,Tienda Norte,2252.99,44
+P0455,Producto TI 0455,Apple,Servidor,En reparación,Tienda Norte,1464.96,53
+P0456,Producto TI 0456,Asus,Monitor,Agotado,LAB,864.18,68
+P0457,Producto TI 0457,Asus,Monitor,Reservado,A03,3865.35,18
+P0458,Producto TI 0458,Asus,Laptop,En reparación,LAB,2527.71,17
+P0459,Producto TI 0459,Asus,Monitor,Agotado,A02,1516.32,10
+P0460,Producto TI 0460,Asus,Router,Agotado,A01,2431.26,106
+P0461,Producto TI 0461,Lenovo,Laptop,Agotado,LAB,3046.21,77
+P0462,Producto TI 0462,HP,Router,Disponible,A02,3629.72,75
+P0463,Producto TI 0463,Apple,Servidor,Reservado,LAB,975.6,116
+P0464,Producto TI 0464,Dell,Teclado,Disponible,A02,4220.05,94
+P0465,Producto TI 0465,HP,Servidor,En reparación,A02,3144.02,90
+P0466,Producto TI 0466,Lenovo,Mouse,Reservado,Tienda Norte,1477.79,36
+P0467,Producto TI 0467,Asus,Mouse,Agotado,A03,1210.26,65
+P0468,Producto TI 0468,Asus,Mouse,Disponible,Tienda Sur,2136.58,107
+P0469,Producto TI 0469,Dell,Monitor,Agotado,A03,1889.06,72
+P0470,Producto TI 0470,Lenovo,Servidor,Reservado,A01,1206.75,119
+P0471,Producto TI 0471,Acer,Impresora,En reparación,A03,723.99,42
+P0472,Producto TI 0472,Lenovo,Mouse,Reservado,LAB,2498.11,120
+P0473,Producto TI 0473,Apple,Teclado,Agotado,LAB,4350.79,82
+P0474,Producto TI 0474,Apple,Mouse,En reparación,A02,3309.5,45
+P0475,Producto TI 0475,Lenovo,Monitor,En reparación,A02,4129.79,69
+P0476,Producto TI 0476,Apple,Laptop,Disponible,A01,4255.81,85
+P0477,Producto TI 0477,HP,Router,Disponible,LAB,657.52,80
+P0478,Producto TI 0478,Lenovo,Laptop,Reservado,A01,1019.4,58
+P0479,Producto TI 0479,Dell,Laptop,En reparación,Tienda Sur,2218.39,0
+P0480,Producto TI 0480,Acer,Impresora,En reparación,A01,119.51,92
+P0481,Producto TI 0481,Dell,Impresora,Agotado,A01,2282.37,89
+P0482,Producto TI 0482,Apple,Mouse,Reservado,A01,4134.91,67
+P0483,Producto TI 0483,Lenovo,Monitor,Reservado,Tienda Norte,2390.36,104
+P0484,Producto TI 0484,Dell,Teclado,En reparación,A01,1706.94,51
+P0485,Producto TI 0485,Asus,Impresora,Reservado,Tienda Sur,1051.19,87
+P0486,Producto TI 0486,HP,Servidor,Disponible,A01,1850.51,48
+P0487,Producto TI 0487,Acer,Mouse,Disponible,Tienda Sur,87.1,21
+P0488,Producto TI 0488,HP,Mouse,En reparación,Tienda Sur,3539.4,72
+P0489,Producto TI 0489,HP,Impresora,Disponible,A02,986.86,111
+P0490,Producto TI 0490,Apple,Impresora,En reparación,A03,252.43,9
+P0491,Producto TI 0491,Apple,Teclado,Disponible,A02,4182.65,40
+P0492,Producto TI 0492,HP,Monitor,Reservado,Tienda Sur,3702.12,118
+P0493,Producto TI 0493,HP,Teclado,Reservado,Tienda Norte,1116.3,106
+P0494,Producto TI 0494,Asus,Servidor,Agotado,LAB,3411.24,17
+P0495,Producto TI 0495,Apple,Servidor,Disponible,Tienda Norte,3366.01,44
+P0496,Producto TI 0496,HP,Laptop,En reparación,A02,3781.3,43
+P0497,Producto TI 0497,Acer,Router,En reparación,A03,176.98,34
+P0498,Producto TI 0498,Asus,Mouse,Reservado,A03,2508.78,48
+P0499,Producto TI 0499,Asus,Monitor,En reparación,A01,3485.01,37
+P0500,Producto TI 0500,Lenovo,Servidor,Disponible,A01,1238.82,48
+P0501,Producto TI 0501,Apple,Router,Reservado,Tienda Sur,1780.77,46
+P0502,Producto TI 0502,HP,Laptop,Disponible,A03,2026.3,97
+P0503,Producto TI 0503,Dell,Laptop,Reservado,A01,879.83,57
+P0504,Producto TI 0504,Acer,Impresora,En reparación,A01,162.0,45
+P0505,Producto TI 0505,Acer,Laptop,Agotado,LAB,99.98,52
+P0506,Producto TI 0506,Asus,Router,Disponible,Tienda Sur,4059.56,115
+P0507,Producto TI 0507,Lenovo,Impresora,Reservado,Tienda Sur,1741.16,17
+P0508,Producto TI 0508,Dell,Teclado,Agotado,LAB,695.14,21
+P0509,Producto TI 0509,Asus,Teclado,En reparación,A03,2202.25,9
+P0510,Producto TI 0510,Dell,Teclado,Reservado,Tienda Sur,2829.53,76
+P0511,Producto TI 0511,Acer,Monitor,En reparación,A01,648.61,0
+P0512,Producto TI 0512,Asus,Teclado,En reparación,A03,2006.19,55
+P0513,Producto TI 0513,Apple,Impresora,Reservado,A03,1473.56,88
+P0514,Producto TI 0514,Lenovo,Mouse,Agotado,A02,4342.18,40
+P0515,Producto TI 0515,Dell,Servidor,En reparación,Tienda Norte,3528.7,41
+P0516,Producto TI 0516,Asus,Teclado,En reparación,A03,552.37,72
+P0517,Producto TI 0517,Lenovo,Impresora,Reservado,Tienda Sur,3464.74,3
+P0518,Producto TI 0518,Apple,Mouse,Reservado,LAB,3598.69,106
+P0519,Producto TI 0519,Apple,Laptop,En reparación,Tienda Sur,2269.4,81
+P0520,Producto TI 0520,Dell,Monitor,Agotado,Tienda Sur,731.71,54
+P0521,Producto TI 0521,Asus,Laptop,En reparación,Tienda Norte,2179.99,51
+P0522,Producto TI 0522,Acer,Impresora,En reparación,Tienda Norte,208.79,46
+P0523,Producto TI 0523,Apple,Router,Disponible,A01,3470.69,84
+P0524,Producto TI 0524,Apple,Teclado,Reservado,Tienda Sur,2774.48,72
+P0525,Producto TI 0525,Apple,Servidor,En reparación,A03,4347.27,55
+P0526,Producto TI 0526,HP,Laptop,Disponible,A03,1034.01,95
+P0527,Producto TI 0527,Acer,Impresora,Reservado,LAB,1711.7,59
+P0528,Producto TI 0528,Apple,Impresora,Reservado,A03,4489.77,61
+P0529,Producto TI 0529,HP,Teclado,En reparación,A01,562.09,120
+P0530,Producto TI 0530,Apple,Monitor,Agotado,A03,1573.36,100
+P0531,Producto TI 0531,Lenovo,Impresora,En reparación,A03,2166.3,56
+P0532,Producto TI 0532,Apple,Servidor,En reparación,A03,344.26,5
+P0533,Producto TI 0533,Apple,Laptop,Disponible,A03,2931.71,86
+P0534,Producto TI 0534,Lenovo,Servidor,Reservado,Tienda Norte,822.19,20
+P0535,Producto TI 0535,Dell,Impresora,En reparación,LAB,1077.92,51
+P0536,Producto TI 0536,Apple,Monitor,Reservado,Tienda Sur,2973.31,50
+P0537,Producto TI 0537,HP,Servidor,Reservado,LAB,2683.27,49
+P0538,Producto TI 0538,HP,Servidor,Reservado,A02,1285.03,90
+P0539,Producto TI 0539,HP,Impresora,Disponible,Tienda Norte,877.91,41
+P0540,Producto TI 0540,Lenovo,Mouse,Disponible,A03,3032.97,62
+P0541,Producto TI 0541,Acer,Servidor,Agotado,Tienda Norte,1776.39,50
+P0542,Producto TI 0542,Acer,Laptop,Agotado,A03,3811.78,79
+P0543,Producto TI 0543,Lenovo,Router,Agotado,Tienda Norte,2674.2,86
+P0544,Producto TI 0544,Lenovo,Teclado,Disponible,A02,1405.47,23
+P0545,Producto TI 0545,Dell,Servidor,Reservado,Tienda Norte,1775.6,76
+P0546,Producto TI 0546,Lenovo,Impresora,En reparación,LAB,872.53,81
+P0547,Producto TI 0547,Acer,Servidor,Reservado,Tienda Norte,788.39,36
+P0548,Producto TI 0548,Lenovo,Monitor,Agotado,LAB,2804.47,110
+P0549,Producto TI 0549,Dell,Laptop,En reparación,A02,914.3,49
+P0550,Producto TI 0550,Acer,Impresora,En reparación,LAB,3095.32,53
+P0551,Producto TI 0551,Apple,Router,En reparación,LAB,790.11,72
+P0552,Producto TI 0552,HP,Router,Reservado,A03,190.66,28
+P0553,Producto TI 0553,Acer,Teclado,Reservado,LAB,2564.97,98
+P0554,Producto TI 0554,Asus,Impresora,Disponible,Tienda Norte,553.79,99
+P0555,Producto TI 0555,Acer,Router,Agotado,Tienda Norte,3709.73,5
+P0556,Producto TI 0556,Apple,Mouse,Reservado,LAB,501.27,106
+P0557,Producto TI 0557,Apple,Router,Reservado,A03,3942.28,4
+P0558,Producto TI 0558,Asus,Teclado,Agotado,A01,2001.06,15
+P0559,Producto TI 0559,Lenovo,Monitor,Agotado,Tienda Sur,2763.72,54
+P0560,Producto TI 0560,Lenovo,Impresora,Reservado,A02,3669.28,103
+P0561,Producto TI 0561,HP,Impresora,Agotado,Tienda Norte,1297.23,68
+P0562,Producto TI 0562,Lenovo,Teclado,Agotado,A03,2596.54,109
+P0563,Producto TI 0563,Acer,Servidor,Disponible,A02,4334.15,100
+P0564,Producto TI 0564,Asus,Laptop,Agotado,Tienda Sur,610.29,110
+P0565,Producto TI 0565,Lenovo,Monitor,Reservado,Tienda Sur,1479.94,31
+P0566,Producto TI 0566,Apple,Mouse,En reparación,A02,2617.43,34
+P0567,Producto TI 0567,Apple,Mouse,En reparación,LAB,381.42,101
+P0568,Producto TI 0568,HP,Mouse,Agotado,Tienda Sur,4216.38,47
+P0569,Producto TI 0569,Asus,Mouse,Agotado,Tienda Norte,56.02,99
+P0570,Producto TI 0570,Apple,Laptop,En reparación,Tienda Sur,3003.76,45
+P0571,Producto TI 0571,HP,Router,En reparación,A02,4358.01,105
+P0572,Producto TI 0572,Lenovo,Mouse,Agotado,A03,3735.27,43
+P0573,Producto TI 0573,Acer,Impresora,Reservado,Tienda Norte,3842.54,100
+P0574,Producto TI 0574,Dell,Servidor,Disponible,A01,488.61,100
+P0575,Producto TI 0575,Asus,Laptop,Disponible,A02,2010.93,0
+P0576,Producto TI 0576,Asus,Monitor,Reservado,Tienda Sur,1389.81,111
+P0577,Producto TI 0577,Dell,Laptop,Agotado,A03,412.18,85
+P0578,Producto TI 0578,Apple,Monitor,Disponible,LAB,2832.07,92
+P0579,Producto TI 0579,Apple,Router,Reservado,LAB,2965.19,90
+P0580,Producto TI 0580,HP,Laptop,Reservado,LAB,392.22,75
+P0581,Producto TI 0581,Lenovo,Impresora,En reparación,A01,80.92,43
+P0582,Producto TI 0582,HP,Router,En reparación,Tienda Sur,633.84,9
+P0583,Producto TI 0583,Lenovo,Mouse,Disponible,Tienda Sur,3635.54,13
+P0584,Producto TI 0584,Dell,Teclado,Agotado,A02,1750.02,104
+P0585,Producto TI 0585,Lenovo,Servidor,Reservado,A01,2408.41,1
+P0586,Producto TI 0586,Acer,Servidor,Reservado,LAB,1609.54,27
+P0587,Producto TI 0587,Apple,Servidor,Reservado,LAB,2789.62,56
+P0588,Producto TI 0588,Lenovo,Laptop,Disponible,A02,3397.15,75
+P0589,Producto TI 0589,Apple,Mouse,Agotado,LAB,1446.11,17
+P0590,Producto TI 0590,Lenovo,Teclado,Disponible,A02,2510.38,76
+P0591,Producto TI 0591,Apple,Impresora,Agotado,Tienda Sur,164.5,108
+P0592,Producto TI 0592,Apple,Teclado,Reservado,Tienda Norte,2748.86,24
+P0593,Producto TI 0593,Apple,Mouse,Agotado,Tienda Sur,288.11,114
+P0594,Producto TI 0594,Lenovo,Mouse,En reparación,A01,1119.02,81
+P0595,Producto TI 0595,Acer,Laptop,Disponible,A03,4205.63,16
+P0596,Producto TI 0596,Asus,Router,En reparación,A03,2479.02,22
+P0597,Producto TI 0597,Asus,Router,Disponible,A01,2661.7,1
+P0598,Producto TI 0598,Dell,Monitor,Disponible,A01,4271.37,50
+P0599,Producto TI 0599,Acer,Teclado,En reparación,LAB,3171.57,10
+P0600,Producto TI 0600,Apple,Impresora,Reservado,A03,417.42,10
+P0601,Producto TI 0601,Acer,Monitor,Reservado,Tienda Norte,1500.67,75
+P0602,Producto TI 0602,Apple,Router,Disponible,A03,3157.6,93
+P0603,Producto TI 0603,Lenovo,Laptop,Reservado,A01,4164.22,14
+P0604,Producto TI 0604,Asus,Impresora,Disponible,A03,3012.38,84
+P0605,Producto TI 0605,Apple,Monitor,Disponible,A01,3198.7,89
+P0606,Producto TI 0606,HP,Monitor,En reparación,A03,2374.99,100
+P0607,Producto TI 0607,Apple,Teclado,Reservado,A03,610.48,99
+P0608,Producto TI 0608,Dell,Servidor,Disponible,A01,1537.47,54
+P0609,Producto TI 0609,Dell,Impresora,Disponible,A03,3218.4,73
+P0610,Producto TI 0610,Apple,Laptop,En reparación,LAB,2320.53,7
+P0611,Producto TI 0611,Asus,Router,Reservado,A03,745.82,98
+P0612,Producto TI 0612,HP,Impresora,Disponible,A02,3345.17,0
+P0613,Producto TI 0613,HP,Router,Disponible,A02,249.85,46
+P0614,Producto TI 0614,Asus,Monitor,Reservado,A01,2508.01,116
+P0615,Producto TI 0615,Apple,Servidor,En reparación,A02,1478.63,53
+P0616,Producto TI 0616,Apple,Teclado,Agotado,A01,2591.19,15
+P0617,Producto TI 0617,Acer,Servidor,Disponible,A02,1039.29,66
+P0618,Producto TI 0618,HP,Mouse,Disponible,LAB,3903.17,99
+P0619,Producto TI 0619,Dell,Teclado,Disponible,Tienda Norte,2079.8,47
+P0620,Producto TI 0620,Lenovo,Teclado,Agotado,Tienda Sur,2819.21,59
+P0621,Producto TI 0621,Dell,Impresora,En reparación,A02,3308.12,69
+P0622,Producto TI 0622,Lenovo,Monitor,Disponible,LAB,151.52,69
+P0623,Producto TI 0623,Dell,Servidor,Disponible,A03,51.51,84
+P0624,Producto TI 0624,Asus,Router,Agotado,A01,959.14,30
+P0625,Producto TI 0625,Asus,Mouse,Disponible,A02,3215.41,11
+P0626,Producto TI 0626,HP,Monitor,En reparación,Tienda Sur,4034.8,58
+P0627,Producto TI 0627,Apple,Laptop,Disponible,Tienda Norte,639.8,104
+P0628,Producto TI 0628,Asus,Laptop,Disponible,LAB,2996.19,16
+P0629,Producto TI 0629,Lenovo,Teclado,Agotado,A03,4170.52,50
+P0630,Producto TI 0630,Apple,Router,Agotado,A03,2062.04,29
+P0631,Producto TI 0631,HP,Monitor,Reservado,Tienda Norte,530.47,13
+P0632,Producto TI 0632,Lenovo,Mouse,En reparación,A03,1856.01,68
+P0633,Producto TI 0633,Dell,Router,Reservado,LAB,1418.51,33
+P0634,Producto TI 0634,HP,Laptop,Reservado,Tienda Sur,1400.28,90
+P0635,Producto TI 0635,Apple,Impresora,Disponible,A02,3769.04,41
+P0636,Producto TI 0636,Lenovo,Laptop,Reservado,A03,1810.27,6
+P0637,Producto TI 0637,Apple,Teclado,Agotado,A02,183.47,51
+P0638,Producto TI 0638,Asus,Impresora,Reservado,A01,2103.4,102
+P0639,Producto TI 0639,Lenovo,Laptop,Disponible,A01,3744.31,28
+P0640,Producto TI 0640,Lenovo,Monitor,En reparación,A03,3102.4,120
+P0641,Producto TI 0641,Apple,Laptop,Agotado,A01,142.12,8
+P0642,Producto TI 0642,Lenovo,Servidor,En reparación,A02,454.76,108
+P0643,Producto TI 0643,Dell,Laptop,Disponible,LAB,270.59,118
+P0644,Producto TI 0644,Acer,Mouse,En reparación,LAB,176.34,87
+P0645,Producto TI 0645,Asus,Monitor,Agotado,A02,4091.5,35
+P0646,Producto TI 0646,Dell,Mouse,Reservado,A01,2780.84,78
+P0647,Producto TI 0647,Lenovo,Servidor,Agotado,LAB,1880.43,70
+P0648,Producto TI 0648,Asus,Laptop,Disponible,A03,1751.33,53
+P0649,Producto TI 0649,Lenovo,Servidor,Reservado,Tienda Sur,4473.66,69
+P0650,Producto TI 0650,HP,Mouse,Agotado,LAB,2470.83,62
+P0651,Producto TI 0651,Dell,Impresora,Agotado,LAB,1249.79,3
+P0652,Producto TI 0652,Dell,Impresora,Reservado,A01,4035.63,99
+P0653,Producto TI 0653,Dell,Laptop,En reparación,Tienda Norte,1637.36,74
+P0654,Producto TI 0654,Lenovo,Monitor,Disponible,A02,2971.33,34
+P0655,Producto TI 0655,Acer,Router,Disponible,A02,2609.71,102
+P0656,Producto TI 0656,Asus,Teclado,Reservado,A02,1098.84,40
+P0657,Producto TI 0657,Apple,Servidor,Agotado,Tienda Norte,170.66,89
+P0658,Producto TI 0658,Dell,Impresora,Reservado,Tienda Norte,4269.98,107
+P0659,Producto TI 0659,Asus,Impresora,Agotado,A02,2229.89,11
+P0660,Producto TI 0660,HP,Monitor,Reservado,A01,2390.33,0
+P0661,Producto TI 0661,Dell,Impresora,Reservado,A02,1563.08,22
+P0662,Producto TI 0662,Dell,Laptop,Disponible,A02,2658.34,117
+P0663,Producto TI 0663,Lenovo,Router,Disponible,Tienda Norte,3879.28,9
+P0664,Producto TI 0664,Dell,Servidor,En reparación,Tienda Norte,495.1,38
+P0665,Producto TI 0665,Dell,Monitor,Reservado,Tienda Sur,4271.43,101
+P0666,Producto TI 0666,Apple,Mouse,Agotado,A02,3195.5,71
+P0667,Producto TI 0667,Apple,Impresora,Agotado,A02,3009.94,104
+P0668,Producto TI 0668,Lenovo,Mouse,Agotado,Tienda Sur,3112.26,16
+P0669,Producto TI 0669,Lenovo,Servidor,Disponible,Tienda Sur,4271.45,50
+P0670,Producto TI 0670,Acer,Laptop,Reservado,Tienda Norte,1462.66,103
+P0671,Producto TI 0671,Acer,Monitor,Disponible,LAB,671.57,95
+P0672,Producto TI 0672,HP,Monitor,Agotado,A03,792.94,113
+P0673,Producto TI 0673,HP,Router,Agotado,LAB,95.77,26
+P0674,Producto TI 0674,Lenovo,Servidor,Disponible,A03,1188.41,13
+P0675,Producto TI 0675,Apple,Laptop,Disponible,LAB,1997.27,53
+P0676,Producto TI 0676,Lenovo,Mouse,En reparación,LAB,1609.73,48
+P0677,Producto TI 0677,HP,Router,En reparación,Tienda Norte,2945.07,87
+P0678,Producto TI 0678,Lenovo,Monitor,En reparación,A01,3605.41,4
+P0679,Producto TI 0679,Dell,Laptop,Agotado,A03,4284.65,9
+P0680,Producto TI 0680,Dell,Monitor,En reparación,A02,3305.99,70
+P0681,Producto TI 0681,HP,Teclado,En reparación,Tienda Sur,183.07,120
+P0682,Producto TI 0682,Apple,Monitor,En reparación,A02,283.59,42
+P0683,Producto TI 0683,Lenovo,Monitor,En reparación,Tienda Sur,2513.57,118
+P0684,Producto TI 0684,Apple,Impresora,Agotado,Tienda Sur,1299.19,30
+P0685,Producto TI 0685,HP,Laptop,En reparación,Tienda Norte,2493.75,62
+P0686,Producto TI 0686,Lenovo,Laptop,Agotado,A01,1949.98,37
+P0687,Producto TI 0687,Apple,Servidor,En reparación,A02,477.08,26
+P0688,Producto TI 0688,Lenovo,Servidor,Agotado,A01,2154.76,14
+P0689,Producto TI 0689,Dell,Router,En reparación,LAB,2223.93,84
+P0690,Producto TI 0690,Dell,Laptop,En reparación,A02,1697.9,48
+P0691,Producto TI 0691,Dell,Monitor,En reparación,A01,1217.98,59
+P0692,Producto TI 0692,Dell,Monitor,Agotado,Tienda Norte,319.6,96
+P0693,Producto TI 0693,Apple,Servidor,Disponible,A01,3021.57,103
+P0694,Producto TI 0694,Acer,Mouse,Reservado,Tienda Norte,316.68,49
+P0695,Producto TI 0695,Acer,Mouse,En reparación,Tienda Norte,3972.77,60
+P0696,Producto TI 0696,Dell,Laptop,En reparación,Tienda Sur,199.72,73
+P0697,Producto TI 0697,Acer,Router,Reservado,A01,4273.93,57
+P0698,Producto TI 0698,Lenovo,Monitor,Reservado,A02,607.16,54
+P0699,Producto TI 0699,HP,Servidor,En reparación,A02,4487.83,80
+P0700,Producto TI 0700,Lenovo,Router,Agotado,A03,4102.63,117
+P0701,Producto TI 0701,HP,Laptop,En reparación,Tienda Norte,1815.22,41
+P0702,Producto TI 0702,Dell,Impresora,En reparación,A01,3549.08,79
+P0703,Producto TI 0703,Acer,Impresora,En reparación,A01,1891.34,18
+P0704,Producto TI 0704,Acer,Impresora,Disponible,A01,2551.76,12
+P0705,Producto TI 0705,Dell,Router,Agotado,LAB,1221.73,83
+P0706,Producto TI 0706,Asus,Impresora,En reparación,A01,812.15,51
+P0707,Producto TI 0707,Lenovo,Impresora,En reparación,A01,1808.26,112
+P0708,Producto TI 0708,Dell,Servidor,Reservado,A01,3367.32,117
+P0709,Producto TI 0709,Dell,Teclado,Disponible,A03,3686.45,38
+P0710,Producto TI 0710,Dell,Teclado,En reparación,Tienda Sur,3096.02,111
+P0711,Producto TI 0711,Lenovo,Monitor,Agotado,Tienda Sur,2019.06,105
+P0712,Producto TI 0712,Dell,Teclado,En reparación,Tienda Norte,2920.95,24
+P0713,Producto TI 0713,Asus,Monitor,En reparación,Tienda Sur,2203.27,66
+P0714,Producto TI 0714,Dell,Router,Disponible,Tienda Norte,3571.09,8
+P0715,Producto TI 0715,Dell,Servidor,En reparación,A02,3522.2,67
+P0716,Producto TI 0716,Acer,Laptop,Reservado,A02,3943.93,25
+P0717,Producto TI 0717,HP,Monitor,Disponible,LAB,270.24,46
+P0718,Producto TI 0718,Apple,Monitor,Agotado,A03,3713.72,64
+P0719,Producto TI 0719,Asus,Servidor,Disponible,Tienda Sur,181.16,47
+P0720,Producto TI 0720,Asus,Impresora,En reparación,A02,4324.12,60
+P0721,Producto TI 0721,Acer,Impresora,Agotado,A03,773.45,114
+P0722,Producto TI 0722,Dell,Servidor,Disponible,A03,167.29,6
+P0723,Producto TI 0723,Lenovo,Router,Reservado,A02,2929.08,86
+P0724,Producto TI 0724,Lenovo,Teclado,En reparación,Tienda Norte,134.33,99
+P0725,Producto TI 0725,Apple,Laptop,En reparación,A02,2929.04,76
+P0726,Producto TI 0726,HP,Monitor,Agotado,Tienda Norte,3631.66,39
+P0727,Producto TI 0727,Apple,Servidor,Agotado,LAB,4034.38,109
+P0728,Producto TI 0728,Dell,Mouse,Agotado,A02,2124.14,86
+P0729,Producto TI 0729,Acer,Router,En reparación,Tienda Norte,500.8,65
+P0730,Producto TI 0730,Apple,Router,Agotado,Tienda Norte,2928.91,77
+P0731,Producto TI 0731,Dell,Teclado,Disponible,LAB,329.39,35
+P0732,Producto TI 0732,Apple,Teclado,Agotado,A03,2968.01,114
+P0733,Producto TI 0733,Apple,Teclado,Reservado,A02,2349.54,30
+P0734,Producto TI 0734,HP,Router,En reparación,Tienda Sur,1468.75,17
+P0735,Producto TI 0735,Apple,Laptop,En reparación,A03,1200.74,53
+P0736,Producto TI 0736,Asus,Mouse,Disponible,Tienda Norte,3199.45,73
+P0737,Producto TI 0737,Lenovo,Teclado,Reservado,Tienda Sur,2426.8,100
+P0738,Producto TI 0738,Asus,Servidor,Agotado,Tienda Norte,1382.37,21
+P0739,Producto TI 0739,Apple,Impresora,Reservado,A03,479.82,16
+P0740,Producto TI 0740,Apple,Teclado,Reservado,Tienda Sur,4052.68,83
+P0741,Producto TI 0741,HP,Monitor,Agotado,A02,3360.46,39
+P0742,Producto TI 0742,Asus,Router,Agotado,A03,1205.79,37
+P0743,Producto TI 0743,Asus,Router,Disponible,LAB,284.13,81
+P0744,Producto TI 0744,Acer,Impresora,Disponible,LAB,4007.39,64
+P0745,Producto TI 0745,HP,Router,En reparación,Tienda Norte,1374.17,6
+P0746,Producto TI 0746,Lenovo,Monitor,Reservado,A03,1867.95,72
+P0747,Producto TI 0747,Asus,Monitor,Agotado,Tienda Sur,848.49,10
+P0748,Producto TI 0748,Asus,Teclado,Reservado,A03,2871.69,0
+P0749,Producto TI 0749,Asus,Teclado,Reservado,A02,2612.32,20
+P0750,Producto TI 0750,Asus,Router,Disponible,A02,2782.51,81
+P0751,Producto TI 0751,Asus,Mouse,En reparación,LAB,1752.67,4
+P0752,Producto TI 0752,Acer,Monitor,Agotado,A01,4018.89,96
+P0753,Producto TI 0753,Acer,Monitor,Disponible,Tienda Sur,63.37,93
+P0754,Producto TI 0754,Lenovo,Monitor,Agotado,A03,619.39,49
+P0755,Producto TI 0755,Acer,Impresora,Agotado,A02,335.85,5
+P0756,Producto TI 0756,Dell,Teclado,En reparación,Tienda Sur,2362.88,67
+P0757,Producto TI 0757,Dell,Mouse,Reservado,A03,4482.8,62
+P0758,Producto TI 0758,Dell,Router,Reservado,A02,4268.72,117
+P0759,Producto TI 0759,Asus,Laptop,Reservado,A02,3284.54,16
+P0760,Producto TI 0760,Lenovo,Servidor,Disponible,Tienda Norte,2293.14,15
+P0761,Producto TI 0761,Dell,Servidor,Disponible,LAB,3950.0,32
+P0762,Producto TI 0762,Acer,Impresora,Disponible,Tienda Norte,4476.3,84
+P0763,Producto TI 0763,HP,Servidor,Disponible,A01,3117.84,53
+P0764,Producto TI 0764,Asus,Mouse,Disponible,Tienda Norte,1170.95,89
+P0765,Producto TI 0765,Lenovo,Monitor,Disponible,A03,1919.98,12
+P0766,Producto TI 0766,Apple,Impresora,Agotado,Tienda Norte,2743.1,17
+P0767,Producto TI 0767,Asus,Router,Disponible,Tienda Norte,3247.1,15
+P0768,Producto TI 0768,Dell,Laptop,Disponible,LAB,929.97,25
+P0769,Producto TI 0769,Dell,Router,Reservado,A03,3178.81,37
+P0770,Producto TI 0770,Lenovo,Laptop,En reparación,A02,3110.95,61
+P0771,Producto TI 0771,Dell,Monitor,Disponible,A01,3037.13,116
+P0772,Producto TI 0772,HP,Router,En reparación,A02,4274.78,99
+P0773,Producto TI 0773,Acer,Laptop,Disponible,A03,2915.52,58
+P0774,Producto TI 0774,Dell,Teclado,En reparación,A01,489.65,22
+P0775,Producto TI 0775,HP,Router,Agotado,A03,3616.11,40
+P0776,Producto TI 0776,Asus,Servidor,Disponible,A01,3837.3,113
+P0777,Producto TI 0777,HP,Laptop,Reservado,Tienda Sur,2928.27,42
+P0778,Producto TI 0778,Dell,Mouse,Agotado,Tienda Sur,459.1,104
+P0779,Producto TI 0779,Dell,Monitor,Disponible,LAB,1828.11,58
+P0780,Producto TI 0780,Dell,Router,En reparación,Tienda Sur,3834.74,102
+P0781,Producto TI 0781,Asus,Servidor,Reservado,A01,635.34,92
+P0782,Producto TI 0782,HP,Router,Reservado,A01,1898.4,75
+P0783,Producto TI 0783,Asus,Router,En reparación,A02,2768.44,99
+P0784,Producto TI 0784,Dell,Impresora,Disponible,Tienda Sur,3965.18,93
+P0785,Producto TI 0785,Lenovo,Mouse,En reparación,A01,3999.23,56
+P0786,Producto TI 0786,HP,Laptop,Agotado,Tienda Sur,1444.93,90
+P0787,Producto TI 0787,Apple,Impresora,Reservado,Tienda Sur,3934.85,66
+P0788,Producto TI 0788,Acer,Servidor,Disponible,LAB,2992.93,31
+P0789,Producto TI 0789,Asus,Teclado,En reparación,A02,3782.89,71
+P0790,Producto TI 0790,Acer,Laptop,Disponible,Tienda Sur,4207.62,64
+P0791,Producto TI 0791,Asus,Router,En reparación,A02,378.52,62
+P0792,Producto TI 0792,Dell,Monitor,Agotado,A03,269.31,28
+P0793,Producto TI 0793,Acer,Servidor,En reparación,LAB,3685.2,10
+P0794,Producto TI 0794,Asus,Mouse,En reparación,A01,3861.1,57
+P0795,Producto TI 0795,Dell,Laptop,En reparación,Tienda Sur,2955.78,13
+P0796,Producto TI 0796,Asus,Mouse,Disponible,Tienda Norte,2491.24,105
+P0797,Producto TI 0797,HP,Router,Agotado,Tienda Norte,2550.19,83
+P0798,Producto TI 0798,Apple,Mouse,Agotado,A03,3721.76,104
+P0799,Producto TI 0799,Lenovo,Router,En reparación,A03,2540.47,79
+P0800,Producto TI 0800,Acer,Mouse,Agotado,Tienda Sur,2061.03,12
+P0801,Producto TI 0801,Apple,Monitor,Disponible,A03,1627.14,81
+P0802,Producto TI 0802,Dell,Impresora,Agotado,Tienda Sur,518.67,114
+P0803,Producto TI 0803,Lenovo,Mouse,Reservado,Tienda Sur,3352.89,52
+P0804,Producto TI 0804,HP,Teclado,Reservado,A02,582.92,109
+P0805,Producto TI 0805,Asus,Monitor,En reparación,A02,3238.29,13
+P0806,Producto TI 0806,Asus,Laptop,Disponible,LAB,2082.66,75
+P0807,Producto TI 0807,Acer,Monitor,En reparación,A01,2407.77,6
+P0808,Producto TI 0808,Acer,Mouse,En reparación,Tienda Norte,3524.72,116
+P0809,Producto TI 0809,Lenovo,Servidor,Reservado,Tienda Sur,3676.91,13
+P0810,Producto TI 0810,Asus,Servidor,Agotado,Tienda Norte,3971.59,53
+P0811,Producto TI 0811,Acer,Servidor,Reservado,A03,1817.51,43
+P0812,Producto TI 0812,Dell,Mouse,Reservado,A02,1883.78,89
+P0813,Producto TI 0813,Apple,Impresora,Agotado,Tienda Sur,2485.48,40
+P0814,Producto TI 0814,Apple,Servidor,Reservado,A02,979.27,91
+P0815,Producto TI 0815,Dell,Servidor,Agotado,Tienda Sur,636.05,90
+P0816,Producto TI 0816,Apple,Monitor,Agotado,Tienda Sur,559.13,45
+P0817,Producto TI 0817,Acer,Mouse,En reparación,Tienda Sur,3376.76,107
+P0818,Producto TI 0818,Acer,Teclado,En reparación,A01,2373.76,3
+P0819,Producto TI 0819,Asus,Monitor,Disponible,Tienda Sur,297.17,34
+P0820,Producto TI 0820,Lenovo,Teclado,Agotado,A02,3784.45,88
+P0821,Producto TI 0821,Dell,Monitor,Disponible,A03,3671.49,13
+P0822,Producto TI 0822,Acer,Router,Reservado,Tienda Sur,2927.92,49
+P0823,Producto TI 0823,Lenovo,Impresora,Agotado,Tienda Sur,3005.32,118
+P0824,Producto TI 0824,Asus,Mouse,En reparación,Tienda Sur,1437.87,70
+P0825,Producto TI 0825,HP,Laptop,Agotado,A02,2809.6,99
+P0826,Producto TI 0826,Asus,Router,Reservado,Tienda Sur,3184.12,82
+P0827,Producto TI 0827,Dell,Router,Reservado,Tienda Sur,4340.91,37
+P0828,Producto TI 0828,Asus,Monitor,Disponible,A02,4332.83,94
+P0829,Producto TI 0829,Acer,Laptop,En reparación,A01,1954.0,71
+P0830,Producto TI 0830,Dell,Monitor,Reservado,Tienda Norte,3813.99,0
+P0831,Producto TI 0831,Dell,Mouse,Reservado,A01,729.75,41
+P0832,Producto TI 0832,Acer,Laptop,Agotado,LAB,3564.04,70
+P0833,Producto TI 0833,Dell,Laptop,Agotado,Tienda Norte,1024.93,23
+P0834,Producto TI 0834,Acer,Laptop,Reservado,LAB,2464.42,51
+P0835,Producto TI 0835,HP,Teclado,Reservado,A02,3000.16,42
+P0836,Producto TI 0836,Dell,Teclado,Reservado,Tienda Norte,2408.37,71
+P0837,Producto TI 0837,Apple,Laptop,Disponible,Tienda Sur,1586.46,30
+P0838,Producto TI 0838,Apple,Impresora,Reservado,A01,3085.77,41
+P0839,Producto TI 0839,Asus,Router,Disponible,LAB,1188.11,92
+P0840,Producto TI 0840,Dell,Laptop,Agotado,Tienda Norte,3621.55,57
+P0841,Producto TI 0841,Asus,Laptop,Agotado,Tienda Sur,902.64,65
+P0842,Producto TI 0842,HP,Laptop,Reservado,Tienda Norte,2420.43,80
+P0843,Producto TI 0843,HP,Monitor,Reservado,Tienda Sur,1934.85,13
+P0844,Producto TI 0844,Lenovo,Impresora,En reparación,Tienda Sur,3683.64,9
+P0845,Producto TI 0845,Apple,Servidor,Reservado,A01,2090.85,42
+P0846,Producto TI 0846,HP,Laptop,Disponible,A01,837.96,32
+P0847,Producto TI 0847,Acer,Laptop,Reservado,A03,1861.0,57
+P0848,Producto TI 0848,Apple,Mouse,En reparación,A03,120.25,86
+P0849,Producto TI 0849,HP,Impresora,Disponible,Tienda Sur,3253.87,8
+P0850,Producto TI 0850,Apple,Impresora,Disponible,Tienda Sur,3823.96,45
+P0851,Producto TI 0851,Acer,Laptop,Agotado,Tienda Sur,1387.52,11
+P0852,Producto TI 0852,Dell,Router,En reparación,LAB,1805.23,84
+P0853,Producto TI 0853,HP,Mouse,Reservado,Tienda Norte,1024.5,95
+P0854,Producto TI 0854,Asus,Router,Agotado,Tienda Sur,686.86,86
+P0855,Producto TI 0855,Apple,Servidor,Agotado,A01,2510.95,71
+P0856,Producto TI 0856,Lenovo,Laptop,Disponible,A01,2596.46,50
+P0857,Producto TI 0857,Acer,Impresora,Disponible,A03,980.79,94
+P0858,Producto TI 0858,Apple,Teclado,Reservado,LAB,4079.57,108
+P0859,Producto TI 0859,Acer,Monitor,Reservado,A02,1028.61,106
+P0860,Producto TI 0860,Dell,Monitor,Disponible,A02,3034.21,72
+P0861,Producto TI 0861,HP,Router,En reparación,Tienda Sur,2493.76,37
+P0862,Producto TI 0862,Apple,Laptop,Agotado,A01,924.5,74
+P0863,Producto TI 0863,Asus,Teclado,Agotado,A02,3035.62,30
+P0864,Producto TI 0864,HP,Teclado,Disponible,A02,1460.74,57
+P0865,Producto TI 0865,Dell,Impresora,Agotado,Tienda Sur,2647.48,72
+P0866,Producto TI 0866,Acer,Teclado,Agotado,LAB,796.29,40
+P0867,Producto TI 0867,Lenovo,Router,Reservado,Tienda Sur,3340.88,55
+P0868,Producto TI 0868,Dell,Router,Agotado,A02,3072.53,42
+P0869,Producto TI 0869,Asus,Mouse,En reparación,A03,3496.59,62
+P0870,Producto TI 0870,Acer,Laptop,Reservado,Tienda Sur,2747.53,107
+P0871,Producto TI 0871,Dell,Router,Reservado,Tienda Norte,920.1,93
+P0872,Producto TI 0872,Apple,Laptop,Disponible,A01,3829.91,80
+P0873,Producto TI 0873,HP,Router,En reparación,Tienda Norte,992.85,4
+P0874,Producto TI 0874,Acer,Teclado,En reparación,Tienda Sur,3498.5,46
+P0875,Producto TI 0875,Asus,Monitor,Agotado,A02,2115.24,65
+P0876,Producto TI 0876,HP,Mouse,Agotado,Tienda Norte,92.19,30
+P0877,Producto TI 0877,Acer,Servidor,Reservado,Tienda Norte,670.35,20
+P0878,Producto TI 0878,Lenovo,Impresora,Reservado,Tienda Sur,3306.08,120
+P0879,Producto TI 0879,Dell,Laptop,Reservado,LAB,1077.45,33
+P0880,Producto TI 0880,Dell,Monitor,Disponible,Tienda Sur,966.18,116
+P0881,Producto TI 0881,Dell,Mouse,En reparación,LAB,3972.31,5
+P0882,Producto TI 0882,Apple,Teclado,Disponible,Tienda Sur,4359.41,81
+P0883,Producto TI 0883,Dell,Router,Agotado,Tienda Norte,2470.08,22
+P0884,Producto TI 0884,Asus,Servidor,En reparación,A03,2663.11,114
+P0885,Producto TI 0885,HP,Impresora,Agotado,LAB,4378.26,28
+P0886,Producto TI 0886,Acer,Mouse,Agotado,A03,2213.97,61
+P0887,Producto TI 0887,Acer,Laptop,Reservado,LAB,782.77,9
+P0888,Producto TI 0888,Acer,Servidor,Agotado,A02,714.32,20
+P0889,Producto TI 0889,Dell,Impresora,Disponible,Tienda Sur,1071.19,103
+P0890,Producto TI 0890,Dell,Servidor,Disponible,LAB,3053.15,61
+P0891,Producto TI 0891,Lenovo,Impresora,Reservado,Tienda Sur,3757.64,2
+P0892,Producto TI 0892,Lenovo,Laptop,Reservado,Tienda Norte,2683.91,17
+P0893,Producto TI 0893,Apple,Impresora,Disponible,Tienda Norte,699.28,21
+P0894,Producto TI 0894,Dell,Monitor,En reparación,Tienda Norte,4362.98,81
+P0895,Producto TI 0895,HP,Servidor,Agotado,A01,1009.92,77
+P0896,Producto TI 0896,Asus,Router,En reparación,A02,1022.27,52
+P0897,Producto TI 0897,Acer,Monitor,Reservado,Tienda Norte,2983.74,33
+P0898,Producto TI 0898,Lenovo,Servidor,Agotado,LAB,2702.56,8
+P0899,Producto TI 0899,Lenovo,Mouse,En reparación,A02,528.68,25
+P0900,Producto TI 0900,Acer,Router,En reparación,A02,2742.55,22
+P0901,Producto TI 0901,Asus,Impresora,Disponible,Tienda Norte,2287.33,15
+P0902,Producto TI 0902,HP,Mouse,Reservado,Tienda Norte,2447.52,0
+P0903,Producto TI 0903,Apple,Servidor,En reparación,Tienda Norte,1919.15,111
+P0904,Producto TI 0904,HP,Servidor,En reparación,A02,4225.67,61
+P0905,Producto TI 0905,Asus,Teclado,Disponible,LAB,641.45,61
+P0906,Producto TI 0906,Lenovo,Router,Disponible,A03,2710.39,69
+P0907,Producto TI 0907,Asus,Teclado,Reservado,A01,3204.26,101
+P0908,Producto TI 0908,HP,Impresora,Disponible,Tienda Norte,77.05,83
+P0909,Producto TI 0909,Lenovo,Servidor,Agotado,LAB,1658.91,19
+P0910,Producto TI 0910,Asus,Servidor,Agotado,A03,3853.92,54
+P0911,Producto TI 0911,Acer,Teclado,Agotado,Tienda Sur,1815.66,26
+P0912,Producto TI 0912,Asus,Impresora,En reparación,A02,1694.3,71
+P0913,Producto TI 0913,Asus,Teclado,Agotado,Tienda Norte,1579.11,90
+P0914,Producto TI 0914,Asus,Servidor,Reservado,Tienda Sur,575.53,29
+P0915,Producto TI 0915,Asus,Router,Reservado,A01,1000.41,51
+P0916,Producto TI 0916,Dell,Router,Disponible,A02,1778.46,81
+P0917,Producto TI 0917,HP,Router,Disponible,A02,2146.28,76
+P0918,Producto TI 0918,Asus,Laptop,Disponible,A03,1032.99,10
+P0919,Producto TI 0919,Acer,Laptop,En reparación,LAB,2780.22,66
+P0920,Producto TI 0920,Dell,Servidor,Disponible,A02,2897.5,56
+P0921,Producto TI 0921,HP,Monitor,Agotado,A02,194.73,76
+P0922,Producto TI 0922,Acer,Impresora,Reservado,Tienda Norte,800.05,4
+P0923,Producto TI 0923,Dell,Monitor,Disponible,A02,431.88,35
+P0924,Producto TI 0924,Asus,Teclado,En reparación,LAB,2655.99,66
+P0925,Producto TI 0925,HP,Servidor,Disponible,A01,2493.44,92
+P0926,Producto TI 0926,Acer,Impresora,Agotado,A03,4336.45,35
+P0927,Producto TI 0927,Lenovo,Impresora,Reservado,LAB,4186.88,73
+P0928,Producto TI 0928,HP,Teclado,Reservado,LAB,2300.29,71
+P0929,Producto TI 0929,HP,Impresora,Agotado,A03,4263.95,102
+P0930,Producto TI 0930,Acer,Teclado,Agotado,Tienda Sur,2017.53,48
+P0931,Producto TI 0931,Acer,Mouse,Reservado,A03,4327.32,58
+P0932,Producto TI 0932,Apple,Mouse,Disponible,LAB,562.98,8
+P0933,Producto TI 0933,Asus,Servidor,Reservado,Tienda Sur,3168.74,102
+P0934,Producto TI 0934,Dell,Mouse,Agotado,Tienda Norte,2431.33,89
+P0935,Producto TI 0935,Dell,Monitor,Agotado,A01,1822.24,95
+P0936,Producto TI 0936,Dell,Laptop,Reservado,LAB,1443.3,27
+P0937,Producto TI 0937,Acer,Teclado,Reservado,Tienda Sur,3088.24,116
+P0938,Producto TI 0938,Lenovo,Mouse,Reservado,A02,3321.34,111
+P0939,Producto TI 0939,Dell,Monitor,Reservado,A02,3764.66,107
+P0940,Producto TI 0940,Acer,Teclado,Reservado,A01,579.06,10
+P0941,Producto TI 0941,Apple,Servidor,En reparación,Tienda Norte,74.51,109
+P0942,Producto TI 0942,Acer,Laptop,En reparación,A03,2810.07,63
+P0943,Producto TI 0943,Acer,Router,Agotado,LAB,859.69,97
+P0944,Producto TI 0944,Acer,Teclado,En reparación,A02,3387.0,16
+P0945,Producto TI 0945,HP,Impresora,En reparación,LAB,4231.16,4
+P0946,Producto TI 0946,Acer,Teclado,En reparación,Tienda Sur,3501.65,58
+P0947,Producto TI 0947,HP,Servidor,En reparación,A03,3115.43,1
+P0948,Producto TI 0948,Apple,Monitor,En reparación,Tienda Norte,493.83,46
+P0949,Producto TI 0949,Acer,Router,Agotado,A02,2488.85,30
+P0950,Producto TI 0950,Dell,Mouse,Agotado,A03,864.34,54
+P0951,Producto TI 0951,Lenovo,Mouse,Agotado,A03,3851.02,35
+P0952,Producto TI 0952,Asus,Monitor,Reservado,Tienda Norte,3101.18,104
+P0953,Producto TI 0953,HP,Servidor,Agotado,A02,2519.04,109
+P0954,Producto TI 0954,Asus,Monitor,Reservado,Tienda Sur,711.24,103
+P0955,Producto TI 0955,HP,Monitor,En reparación,LAB,644.07,114
+P0956,Producto TI 0956,Apple,Impresora,Agotado,LAB,1381.65,71
+P0957,Producto TI 0957,Acer,Laptop,En reparación,A01,3121.37,7
+P0958,Producto TI 0958,Lenovo,Router,Agotado,LAB,3782.62,12
+P0959,Producto TI 0959,Asus,Servidor,Agotado,A03,1653.09,71
+P0960,Producto TI 0960,Acer,Router,Agotado,A03,133.37,15
+P0961,Producto TI 0961,Dell,Router,Reservado,Tienda Norte,2610.61,83
+P0962,Producto TI 0962,Acer,Monitor,Agotado,A03,1493.28,65
+P0963,Producto TI 0963,Asus,Router,En reparación,A01,1742.67,36
+P0964,Producto TI 0964,Asus,Servidor,Reservado,A02,2898.79,118
+P0965,Producto TI 0965,Dell,Mouse,En reparación,A01,397.44,43
+P0966,Producto TI 0966,Lenovo,Teclado,Agotado,Tienda Sur,1342.99,34
+P0967,Producto TI 0967,Acer,Servidor,En reparación,A03,3999.67,99
+P0968,Producto TI 0968,Dell,Servidor,En reparación,LAB,790.4,109
+P0969,Producto TI 0969,HP,Monitor,Reservado,Tienda Sur,1166.09,95
+P0970,Producto TI 0970,Apple,Servidor,Disponible,A02,788.59,13
+P0971,Producto TI 0971,HP,Laptop,En reparación,Tienda Norte,284.79,98
+P0972,Producto TI 0972,Asus,Impresora,Disponible,A01,1214.22,19
+P0973,Producto TI 0973,HP,Servidor,En reparación,A03,1066.78,94
+P0974,Producto TI 0974,Dell,Mouse,Reservado,A02,2391.64,21
+P0975,Producto TI 0975,HP,Laptop,Agotado,A03,3895.19,59
+P0976,Producto TI 0976,Acer,Teclado,En reparación,A02,4364.31,89
+P0977,Producto TI 0977,Acer,Monitor,En reparación,Tienda Sur,3381.4,112
+P0978,Producto TI 0978,Acer,Mouse,Agotado,A03,2190.76,29
+P0979,Producto TI 0979,HP,Mouse,Agotado,A03,1881.37,19
+P0980,Producto TI 0980,Dell,Laptop,Disponible,Tienda Norte,3677.52,108
+P0981,Producto TI 0981,Lenovo,Teclado,Agotado,LAB,2428.87,88
+P0982,Producto TI 0982,Asus,Router,En reparación,A03,85.69,55
+P0983,Producto TI 0983,Dell,Impresora,Reservado,A01,2487.29,24
+P0984,Producto TI 0984,Asus,Impresora,En reparación,LAB,1158.29,91
+P0985,Producto TI 0985,Apple,Servidor,En reparación,LAB,1027.74,10
+P0986,Producto TI 0986,Asus,Servidor,Reservado,Tienda Norte,3451.02,116
+P0987,Producto TI 0987,Acer,Router,Agotado,A03,2933.88,68
+P0988,Producto TI 0988,Dell,Mouse,Reservado,A01,857.62,37
+P0989,Producto TI 0989,HP,Servidor,En reparación,Tienda Norte,2062.08,89
+P0990,Producto TI 0990,Acer,Mouse,Reservado,A03,131.41,6
+P0991,Producto TI 0991,Acer,Laptop,Reservado,A01,1301.82,16
+P0992,Producto TI 0992,Apple,Mouse,Disponible,A02,446.83,1
+P0993,Producto TI 0993,Asus,Monitor,Agotado,LAB,1433.07,102
+P0994,Producto TI 0994,Asus,Teclado,En reparación,Tienda Sur,3570.8,42
+P0995,Producto TI 0995,HP,Router,Reservado,A01,1232.27,50
+P0996,Producto TI 0996,HP,Impresora,En reparación,A02,901.22,107
+P0997,Producto TI 0997,Dell,Router,En reparación,A01,588.34,98
+P0998,Producto TI 0998,Apple,Monitor,En reparación,LAB,1146.11,4
+P0999,Producto TI 0999,Lenovo,Mouse,Disponible,Tienda Norte,3012.07,26
+P1000,Producto TI 1000,Asus,Mouse,Agotado,A03,751.61,93

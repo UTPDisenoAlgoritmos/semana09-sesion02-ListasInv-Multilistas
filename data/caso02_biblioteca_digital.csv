@@ -1,0 +1,1001 @@
+id,titulo,autor,categoria,anio,estado,sede,prestamos
+B0001,Libro Técnico 0001,Cairo,Seguridad,2018,Disponible,Ate,61
+B0002,Libro Técnico 0002,Cormen,Redes,2007,Reservado,Lima Norte,85
+B0003,Libro Técnico 0003,Joyanes,Algoritmos,2008,Mantenimiento,Ate,1
+B0004,Libro Técnico 0004,Joyanes,Redes,2019,Disponible,Virtual,31
+B0005,Libro Técnico 0005,Cairo,Algoritmos,2019,Mantenimiento,Lima Centro,47
+B0006,Libro Técnico 0006,Deitel,Algoritmos,2008,Prestado,Virtual,11
+B0007,Libro Técnico 0007,Cormen,Software,2011,Disponible,Lima Norte,45
+B0008,Libro Técnico 0008,Cormen,Bases de datos,2023,Disponible,Lima Centro,62
+B0009,Libro Técnico 0009,Joyanes,Redes,2018,Reservado,Virtual,24
+B0010,Libro Técnico 0010,Cairo,Seguridad,2013,Reservado,Lima Centro,32
+B0011,Libro Técnico 0011,Cairo,IA,2023,Mantenimiento,Ate,69
+B0012,Libro Técnico 0012,Cormen,IA,2007,Prestado,Ate,41
+B0013,Libro Técnico 0013,Cormen,IA,2009,Prestado,Lima Norte,67
+B0014,Libro Técnico 0014,Joyanes,IA,2010,Reservado,Ate,58
+B0015,Libro Técnico 0015,Cairo,Seguridad,2017,Mantenimiento,Lima Centro,2
+B0016,Libro Técnico 0016,Goodrich,Redes,2025,Prestado,Ate,8
+B0017,Libro Técnico 0017,Cormen,Software,2013,Prestado,Virtual,70
+B0018,Libro Técnico 0018,Joyanes,Software,2010,Reservado,Virtual,82
+B0019,Libro Técnico 0019,Knuth,Algoritmos,2004,Disponible,Lima Norte,16
+B0020,Libro Técnico 0020,Joyanes,Algoritmos,2007,Disponible,Virtual,24
+B0021,Libro Técnico 0021,Cairo,Algoritmos,2019,Mantenimiento,Virtual,67
+B0022,Libro Técnico 0022,Goodrich,Seguridad,2019,Reservado,Lima Norte,46
+B0023,Libro Técnico 0023,Joyanes,Software,2023,Disponible,Lima Norte,26
+B0024,Libro Técnico 0024,Cormen,IA,2003,Mantenimiento,Lima Norte,46
+B0025,Libro Técnico 0025,Goodrich,Seguridad,2014,Reservado,Lima Norte,78
+B0026,Libro Técnico 0026,Knuth,Software,2002,Disponible,Ate,9
+B0027,Libro Técnico 0027,Joyanes,Software,2004,Disponible,Lima Centro,68
+B0028,Libro Técnico 0028,Sedgewick,Bases de datos,2007,Prestado,Lima Centro,71
+B0029,Libro Técnico 0029,Cormen,Software,2014,Disponible,Ate,86
+B0030,Libro Técnico 0030,Sedgewick,Seguridad,2022,Mantenimiento,Lima Norte,21
+B0031,Libro Técnico 0031,Deitel,Bases de datos,2018,Mantenimiento,Ate,84
+B0032,Libro Técnico 0032,Joyanes,Software,2020,Mantenimiento,Ate,40
+B0033,Libro Técnico 0033,Goodrich,Redes,2012,Mantenimiento,Virtual,41
+B0034,Libro Técnico 0034,Goodrich,Bases de datos,2019,Prestado,Virtual,70
+B0035,Libro Técnico 0035,Cormen,Redes,2012,Mantenimiento,Virtual,50
+B0036,Libro Técnico 0036,Cairo,Seguridad,2002,Reservado,Lima Norte,66
+B0037,Libro Técnico 0037,Joyanes,Redes,2001,Reservado,Lima Centro,27
+B0038,Libro Técnico 0038,Deitel,Redes,2001,Reservado,Lima Centro,12
+B0039,Libro Técnico 0039,Cairo,IA,2012,Prestado,Lima Centro,33
+B0040,Libro Técnico 0040,Knuth,Software,2008,Prestado,Ate,38
+B0041,Libro Técnico 0041,Cairo,Software,2013,Prestado,Lima Norte,41
+B0042,Libro Técnico 0042,Deitel,IA,2006,Mantenimiento,Lima Norte,76
+B0043,Libro Técnico 0043,Cormen,Redes,2002,Mantenimiento,Lima Norte,7
+B0044,Libro Técnico 0044,Deitel,Redes,2012,Mantenimiento,Virtual,15
+B0045,Libro Técnico 0045,Deitel,Bases de datos,2024,Disponible,Virtual,6
+B0046,Libro Técnico 0046,Knuth,Software,2002,Reservado,Lima Centro,41
+B0047,Libro Técnico 0047,Goodrich,Seguridad,2008,Prestado,Lima Norte,86
+B0048,Libro Técnico 0048,Cormen,IA,2015,Disponible,Lima Centro,55
+B0049,Libro Técnico 0049,Knuth,IA,2005,Prestado,Ate,10
+B0050,Libro Técnico 0050,Sedgewick,Software,2024,Disponible,Virtual,33
+B0051,Libro Técnico 0051,Cairo,IA,2017,Mantenimiento,Lima Centro,17
+B0052,Libro Técnico 0052,Sedgewick,Software,2007,Mantenimiento,Virtual,83
+B0053,Libro Técnico 0053,Goodrich,Bases de datos,2018,Prestado,Lima Centro,9
+B0054,Libro Técnico 0054,Knuth,IA,2011,Disponible,Lima Norte,85
+B0055,Libro Técnico 0055,Sedgewick,IA,2012,Reservado,Lima Centro,41
+B0056,Libro Técnico 0056,Knuth,Software,2021,Disponible,Ate,21
+B0057,Libro Técnico 0057,Knuth,Software,2026,Mantenimiento,Lima Centro,56
+B0058,Libro Técnico 0058,Cairo,Bases de datos,2007,Reservado,Lima Centro,10
+B0059,Libro Técnico 0059,Cairo,Seguridad,2002,Prestado,Lima Centro,36
+B0060,Libro Técnico 0060,Cairo,Redes,2023,Disponible,Ate,57
+B0061,Libro Técnico 0061,Sedgewick,Algoritmos,2011,Prestado,Lima Centro,26
+B0062,Libro Técnico 0062,Goodrich,Software,2025,Reservado,Virtual,79
+B0063,Libro Técnico 0063,Cormen,Bases de datos,2023,Disponible,Virtual,74
+B0064,Libro Técnico 0064,Cormen,Software,2002,Reservado,Lima Centro,7
+B0065,Libro Técnico 0065,Knuth,Bases de datos,2026,Reservado,Lima Norte,59
+B0066,Libro Técnico 0066,Cormen,Algoritmos,2003,Mantenimiento,Ate,84
+B0067,Libro Técnico 0067,Deitel,Seguridad,2012,Disponible,Lima Norte,37
+B0068,Libro Técnico 0068,Deitel,Seguridad,2013,Prestado,Virtual,65
+B0069,Libro Técnico 0069,Cormen,Algoritmos,2011,Mantenimiento,Lima Norte,23
+B0070,Libro Técnico 0070,Joyanes,Software,2015,Disponible,Lima Norte,31
+B0071,Libro Técnico 0071,Goodrich,Redes,2011,Mantenimiento,Virtual,20
+B0072,Libro Técnico 0072,Cairo,Redes,2022,Reservado,Ate,80
+B0073,Libro Técnico 0073,Knuth,Bases de datos,2017,Reservado,Lima Norte,80
+B0074,Libro Técnico 0074,Knuth,IA,2001,Reservado,Lima Centro,19
+B0075,Libro Técnico 0075,Knuth,IA,2022,Prestado,Lima Norte,48
+B0076,Libro Técnico 0076,Goodrich,Seguridad,2020,Prestado,Virtual,30
+B0077,Libro Técnico 0077,Goodrich,Bases de datos,2014,Reservado,Ate,57
+B0078,Libro Técnico 0078,Goodrich,Bases de datos,2007,Prestado,Lima Centro,17
+B0079,Libro Técnico 0079,Knuth,Seguridad,2023,Prestado,Virtual,18
+B0080,Libro Técnico 0080,Cormen,Software,2006,Reservado,Lima Norte,71
+B0081,Libro Técnico 0081,Goodrich,Seguridad,2004,Prestado,Ate,18
+B0082,Libro Técnico 0082,Cormen,Algoritmos,2025,Reservado,Virtual,52
+B0083,Libro Técnico 0083,Knuth,IA,2024,Reservado,Lima Centro,24
+B0084,Libro Técnico 0084,Cairo,Bases de datos,2006,Disponible,Ate,77
+B0085,Libro Técnico 0085,Goodrich,Software,2008,Prestado,Lima Centro,87
+B0086,Libro Técnico 0086,Cairo,Redes,2003,Mantenimiento,Lima Centro,64
+B0087,Libro Técnico 0087,Deitel,Software,2016,Reservado,Lima Centro,49
+B0088,Libro Técnico 0088,Sedgewick,IA,2005,Prestado,Lima Centro,28
+B0089,Libro Técnico 0089,Cairo,IA,2025,Disponible,Ate,52
+B0090,Libro Técnico 0090,Joyanes,Seguridad,2022,Prestado,Lima Centro,8
+B0091,Libro Técnico 0091,Joyanes,IA,2020,Mantenimiento,Ate,58
+B0092,Libro Técnico 0092,Joyanes,IA,2013,Disponible,Virtual,40
+B0093,Libro Técnico 0093,Sedgewick,Software,2024,Disponible,Lima Norte,57
+B0094,Libro Técnico 0094,Sedgewick,Algoritmos,2008,Mantenimiento,Lima Norte,71
+B0095,Libro Técnico 0095,Sedgewick,Software,2025,Disponible,Lima Centro,37
+B0096,Libro Técnico 0096,Sedgewick,IA,2010,Reservado,Virtual,21
+B0097,Libro Técnico 0097,Sedgewick,Redes,2020,Disponible,Lima Centro,59
+B0098,Libro Técnico 0098,Deitel,Seguridad,2015,Disponible,Lima Norte,23
+B0099,Libro Técnico 0099,Deitel,Software,2023,Prestado,Virtual,52
+B0100,Libro Técnico 0100,Knuth,IA,2001,Prestado,Virtual,75
+B0101,Libro Técnico 0101,Cormen,Bases de datos,2015,Disponible,Ate,41
+B0102,Libro Técnico 0102,Cormen,Seguridad,2023,Prestado,Lima Norte,11
+B0103,Libro Técnico 0103,Cairo,Seguridad,2015,Reservado,Lima Norte,67
+B0104,Libro Técnico 0104,Cormen,IA,2024,Prestado,Virtual,70
+B0105,Libro Técnico 0105,Sedgewick,Algoritmos,2025,Prestado,Ate,72
+B0106,Libro Técnico 0106,Deitel,Seguridad,2005,Prestado,Lima Centro,22
+B0107,Libro Técnico 0107,Deitel,Seguridad,2002,Mantenimiento,Ate,39
+B0108,Libro Técnico 0108,Cormen,IA,2010,Prestado,Lima Norte,16
+B0109,Libro Técnico 0109,Joyanes,Algoritmos,2020,Reservado,Lima Norte,58
+B0110,Libro Técnico 0110,Sedgewick,IA,2018,Disponible,Virtual,30
+B0111,Libro Técnico 0111,Joyanes,Software,2022,Mantenimiento,Virtual,52
+B0112,Libro Técnico 0112,Sedgewick,Algoritmos,2020,Disponible,Lima Centro,70
+B0113,Libro Técnico 0113,Knuth,Software,2021,Prestado,Lima Norte,23
+B0114,Libro Técnico 0114,Joyanes,Algoritmos,2021,Reservado,Lima Norte,18
+B0115,Libro Técnico 0115,Deitel,Algoritmos,2022,Reservado,Ate,11
+B0116,Libro Técnico 0116,Cairo,Algoritmos,2014,Prestado,Lima Centro,86
+B0117,Libro Técnico 0117,Knuth,Software,2022,Prestado,Virtual,74
+B0118,Libro Técnico 0118,Knuth,Algoritmos,2003,Reservado,Ate,47
+B0119,Libro Técnico 0119,Sedgewick,Algoritmos,2025,Mantenimiento,Lima Norte,37
+B0120,Libro Técnico 0120,Sedgewick,Bases de datos,2004,Reservado,Ate,67
+B0121,Libro Técnico 0121,Sedgewick,Software,2007,Prestado,Lima Norte,13
+B0122,Libro Técnico 0122,Goodrich,Seguridad,2021,Disponible,Virtual,88
+B0123,Libro Técnico 0123,Goodrich,Seguridad,2010,Mantenimiento,Ate,33
+B0124,Libro Técnico 0124,Goodrich,Software,2020,Reservado,Lima Centro,78
+B0125,Libro Técnico 0125,Goodrich,IA,2017,Mantenimiento,Virtual,23
+B0126,Libro Técnico 0126,Goodrich,Bases de datos,2023,Reservado,Lima Centro,0
+B0127,Libro Técnico 0127,Cairo,Algoritmos,2015,Disponible,Lima Centro,78
+B0128,Libro Técnico 0128,Sedgewick,IA,2002,Reservado,Ate,71
+B0129,Libro Técnico 0129,Deitel,Seguridad,2007,Disponible,Lima Centro,88
+B0130,Libro Técnico 0130,Knuth,Redes,2026,Disponible,Ate,38
+B0131,Libro Técnico 0131,Goodrich,Software,2011,Disponible,Lima Norte,87
+B0132,Libro Técnico 0132,Knuth,Redes,2013,Disponible,Lima Centro,24
+B0133,Libro Técnico 0133,Knuth,Redes,2022,Mantenimiento,Virtual,4
+B0134,Libro Técnico 0134,Cormen,Bases de datos,2016,Prestado,Virtual,68
+B0135,Libro Técnico 0135,Knuth,IA,2026,Mantenimiento,Lima Norte,66
+B0136,Libro Técnico 0136,Knuth,Software,2024,Reservado,Lima Norte,26
+B0137,Libro Técnico 0137,Goodrich,Seguridad,2011,Reservado,Lima Norte,19
+B0138,Libro Técnico 0138,Knuth,Algoritmos,2011,Mantenimiento,Lima Centro,73
+B0139,Libro Técnico 0139,Goodrich,IA,2006,Disponible,Ate,90
+B0140,Libro Técnico 0140,Deitel,Redes,2023,Disponible,Ate,52
+B0141,Libro Técnico 0141,Cairo,IA,2008,Reservado,Virtual,38
+B0142,Libro Técnico 0142,Joyanes,Software,2010,Prestado,Lima Norte,47
+B0143,Libro Técnico 0143,Deitel,Algoritmos,2025,Prestado,Lima Norte,56
+B0144,Libro Técnico 0144,Goodrich,Algoritmos,2026,Mantenimiento,Lima Centro,24
+B0145,Libro Técnico 0145,Knuth,IA,2024,Reservado,Ate,18
+B0146,Libro Técnico 0146,Deitel,Algoritmos,2017,Prestado,Lima Centro,4
+B0147,Libro Técnico 0147,Sedgewick,IA,2023,Disponible,Lima Norte,39
+B0148,Libro Técnico 0148,Cairo,Seguridad,2020,Disponible,Ate,59
+B0149,Libro Técnico 0149,Cairo,Algoritmos,2017,Reservado,Lima Norte,73
+B0150,Libro Técnico 0150,Deitel,Redes,2021,Prestado,Ate,25
+B0151,Libro Técnico 0151,Joyanes,Redes,2009,Reservado,Virtual,85
+B0152,Libro Técnico 0152,Cairo,Redes,2005,Prestado,Ate,14
+B0153,Libro Técnico 0153,Cairo,Software,2018,Disponible,Lima Centro,69
+B0154,Libro Técnico 0154,Knuth,Software,2011,Reservado,Lima Centro,90
+B0155,Libro Técnico 0155,Deitel,Redes,2019,Prestado,Lima Centro,9
+B0156,Libro Técnico 0156,Knuth,Software,2011,Mantenimiento,Lima Norte,16
+B0157,Libro Técnico 0157,Cairo,IA,2022,Disponible,Lima Norte,49
+B0158,Libro Técnico 0158,Cairo,Algoritmos,2014,Mantenimiento,Lima Centro,90
+B0159,Libro Técnico 0159,Goodrich,Software,2021,Mantenimiento,Ate,39
+B0160,Libro Técnico 0160,Knuth,Bases de datos,2023,Disponible,Virtual,72
+B0161,Libro Técnico 0161,Joyanes,Algoritmos,2026,Mantenimiento,Lima Norte,58
+B0162,Libro Técnico 0162,Knuth,Seguridad,2021,Mantenimiento,Virtual,29
+B0163,Libro Técnico 0163,Joyanes,Bases de datos,2020,Reservado,Ate,50
+B0164,Libro Técnico 0164,Joyanes,Seguridad,2022,Reservado,Ate,58
+B0165,Libro Técnico 0165,Sedgewick,Algoritmos,2003,Mantenimiento,Lima Norte,44
+B0166,Libro Técnico 0166,Sedgewick,IA,2006,Reservado,Ate,77
+B0167,Libro Técnico 0167,Goodrich,Bases de datos,2017,Disponible,Virtual,13
+B0168,Libro Técnico 0168,Knuth,Software,2021,Disponible,Ate,68
+B0169,Libro Técnico 0169,Sedgewick,IA,2019,Mantenimiento,Lima Centro,79
+B0170,Libro Técnico 0170,Joyanes,Software,2006,Mantenimiento,Virtual,8
+B0171,Libro Técnico 0171,Knuth,Bases de datos,2023,Mantenimiento,Virtual,72
+B0172,Libro Técnico 0172,Deitel,Redes,2018,Prestado,Lima Centro,84
+B0173,Libro Técnico 0173,Cormen,Algoritmos,2024,Mantenimiento,Lima Norte,75
+B0174,Libro Técnico 0174,Goodrich,IA,2011,Disponible,Virtual,22
+B0175,Libro Técnico 0175,Knuth,IA,2003,Disponible,Virtual,41
+B0176,Libro Técnico 0176,Sedgewick,Seguridad,2022,Disponible,Lima Norte,27
+B0177,Libro Técnico 0177,Deitel,Bases de datos,2019,Disponible,Lima Centro,84
+B0178,Libro Técnico 0178,Joyanes,IA,2018,Reservado,Virtual,78
+B0179,Libro Técnico 0179,Goodrich,IA,2007,Prestado,Ate,38
+B0180,Libro Técnico 0180,Goodrich,Seguridad,2010,Mantenimiento,Ate,11
+B0181,Libro Técnico 0181,Goodrich,Algoritmos,2020,Mantenimiento,Lima Centro,37
+B0182,Libro Técnico 0182,Cairo,Redes,2018,Disponible,Lima Norte,90
+B0183,Libro Técnico 0183,Goodrich,Redes,2004,Reservado,Lima Norte,30
+B0184,Libro Técnico 0184,Sedgewick,Seguridad,2019,Mantenimiento,Ate,48
+B0185,Libro Técnico 0185,Sedgewick,IA,2014,Prestado,Lima Centro,60
+B0186,Libro Técnico 0186,Joyanes,Bases de datos,2018,Mantenimiento,Ate,53
+B0187,Libro Técnico 0187,Joyanes,Redes,2022,Prestado,Lima Centro,1
+B0188,Libro Técnico 0188,Cairo,Seguridad,2001,Prestado,Virtual,84
+B0189,Libro Técnico 0189,Sedgewick,Bases de datos,2003,Prestado,Virtual,58
+B0190,Libro Técnico 0190,Deitel,Seguridad,2020,Mantenimiento,Lima Centro,58
+B0191,Libro Técnico 0191,Goodrich,IA,2018,Mantenimiento,Virtual,45
+B0192,Libro Técnico 0192,Joyanes,Bases de datos,2014,Disponible,Virtual,30
+B0193,Libro Técnico 0193,Cormen,Software,2009,Mantenimiento,Ate,4
+B0194,Libro Técnico 0194,Cairo,Software,2016,Reservado,Lima Norte,74
+B0195,Libro Técnico 0195,Sedgewick,Seguridad,2003,Prestado,Ate,59
+B0196,Libro Técnico 0196,Goodrich,Algoritmos,2017,Disponible,Lima Centro,60
+B0197,Libro Técnico 0197,Cormen,Seguridad,2022,Disponible,Ate,78
+B0198,Libro Técnico 0198,Cairo,Redes,2018,Disponible,Virtual,58
+B0199,Libro Técnico 0199,Goodrich,IA,2019,Reservado,Virtual,45
+B0200,Libro Técnico 0200,Deitel,Redes,2010,Prestado,Lima Norte,88
+B0201,Libro Técnico 0201,Goodrich,Seguridad,2010,Reservado,Lima Norte,80
+B0202,Libro Técnico 0202,Sedgewick,Software,2006,Disponible,Ate,79
+B0203,Libro Técnico 0203,Cairo,Redes,2016,Disponible,Lima Centro,64
+B0204,Libro Técnico 0204,Cairo,Redes,2009,Prestado,Ate,35
+B0205,Libro Técnico 0205,Deitel,Redes,2001,Disponible,Lima Centro,75
+B0206,Libro Técnico 0206,Cormen,Bases de datos,2022,Mantenimiento,Ate,22
+B0207,Libro Técnico 0207,Knuth,Seguridad,2008,Mantenimiento,Lima Centro,67
+B0208,Libro Técnico 0208,Deitel,Algoritmos,2011,Disponible,Lima Centro,76
+B0209,Libro Técnico 0209,Deitel,Bases de datos,2016,Mantenimiento,Virtual,30
+B0210,Libro Técnico 0210,Cormen,IA,2024,Prestado,Lima Centro,73
+B0211,Libro Técnico 0211,Cormen,Redes,2002,Reservado,Lima Norte,6
+B0212,Libro Técnico 0212,Joyanes,IA,2013,Mantenimiento,Ate,60
+B0213,Libro Técnico 0213,Cormen,Software,2008,Mantenimiento,Virtual,60
+B0214,Libro Técnico 0214,Knuth,Bases de datos,2017,Mantenimiento,Lima Norte,36
+B0215,Libro Técnico 0215,Deitel,IA,2013,Reservado,Lima Norte,12
+B0216,Libro Técnico 0216,Goodrich,Seguridad,2012,Mantenimiento,Ate,42
+B0217,Libro Técnico 0217,Knuth,Redes,2026,Disponible,Ate,83
+B0218,Libro Técnico 0218,Goodrich,IA,2015,Prestado,Lima Centro,66
+B0219,Libro Técnico 0219,Knuth,Seguridad,2023,Prestado,Ate,70
+B0220,Libro Técnico 0220,Cairo,Seguridad,2001,Disponible,Lima Norte,52
+B0221,Libro Técnico 0221,Cairo,Software,2004,Mantenimiento,Ate,28
+B0222,Libro Técnico 0222,Cormen,Redes,2009,Prestado,Lima Norte,3
+B0223,Libro Técnico 0223,Goodrich,Algoritmos,2002,Prestado,Lima Norte,90
+B0224,Libro Técnico 0224,Cairo,Algoritmos,2020,Prestado,Virtual,84
+B0225,Libro Técnico 0225,Deitel,Seguridad,2019,Prestado,Lima Norte,89
+B0226,Libro Técnico 0226,Joyanes,Redes,2010,Mantenimiento,Lima Norte,81
+B0227,Libro Técnico 0227,Sedgewick,Redes,2025,Mantenimiento,Ate,32
+B0228,Libro Técnico 0228,Joyanes,Algoritmos,2009,Disponible,Virtual,49
+B0229,Libro Técnico 0229,Knuth,Algoritmos,2009,Reservado,Lima Centro,56
+B0230,Libro Técnico 0230,Cairo,IA,2007,Mantenimiento,Lima Centro,82
+B0231,Libro Técnico 0231,Sedgewick,Algoritmos,2005,Mantenimiento,Lima Centro,78
+B0232,Libro Técnico 0232,Cormen,Algoritmos,2015,Reservado,Lima Norte,4
+B0233,Libro Técnico 0233,Cairo,Algoritmos,2019,Reservado,Virtual,2
+B0234,Libro Técnico 0234,Sedgewick,Bases de datos,2021,Disponible,Lima Norte,85
+B0235,Libro Técnico 0235,Sedgewick,Redes,2005,Reservado,Virtual,73
+B0236,Libro Técnico 0236,Cairo,Software,2023,Mantenimiento,Virtual,55
+B0237,Libro Técnico 0237,Sedgewick,Seguridad,2025,Disponible,Lima Centro,0
+B0238,Libro Técnico 0238,Sedgewick,Seguridad,2025,Mantenimiento,Lima Norte,72
+B0239,Libro Técnico 0239,Goodrich,Redes,2011,Reservado,Virtual,7
+B0240,Libro Técnico 0240,Cormen,Seguridad,2003,Reservado,Ate,10
+B0241,Libro Técnico 0241,Deitel,IA,2025,Reservado,Lima Centro,22
+B0242,Libro Técnico 0242,Goodrich,Algoritmos,2013,Prestado,Ate,89
+B0243,Libro Técnico 0243,Sedgewick,Algoritmos,2021,Reservado,Virtual,10
+B0244,Libro Técnico 0244,Cormen,IA,2024,Prestado,Lima Centro,4
+B0245,Libro Técnico 0245,Joyanes,Algoritmos,2024,Prestado,Virtual,49
+B0246,Libro Técnico 0246,Cairo,Software,2021,Reservado,Virtual,68
+B0247,Libro Técnico 0247,Deitel,IA,2001,Disponible,Ate,7
+B0248,Libro Técnico 0248,Knuth,Seguridad,2002,Mantenimiento,Lima Norte,27
+B0249,Libro Técnico 0249,Deitel,Seguridad,2022,Mantenimiento,Lima Centro,74
+B0250,Libro Técnico 0250,Joyanes,Algoritmos,2002,Prestado,Virtual,83
+B0251,Libro Técnico 0251,Cairo,IA,2020,Disponible,Lima Centro,89
+B0252,Libro Técnico 0252,Cormen,Bases de datos,2001,Prestado,Lima Norte,39
+B0253,Libro Técnico 0253,Deitel,Algoritmos,2015,Prestado,Lima Norte,13
+B0254,Libro Técnico 0254,Cairo,IA,2020,Prestado,Lima Norte,25
+B0255,Libro Técnico 0255,Sedgewick,Redes,2026,Mantenimiento,Ate,15
+B0256,Libro Técnico 0256,Cormen,Software,2018,Prestado,Ate,27
+B0257,Libro Técnico 0257,Deitel,Algoritmos,2019,Prestado,Ate,8
+B0258,Libro Técnico 0258,Cairo,Redes,2005,Mantenimiento,Lima Centro,89
+B0259,Libro Técnico 0259,Knuth,Software,2006,Mantenimiento,Lima Centro,74
+B0260,Libro Técnico 0260,Cairo,Bases de datos,2004,Mantenimiento,Lima Centro,2
+B0261,Libro Técnico 0261,Sedgewick,Algoritmos,2001,Disponible,Lima Centro,11
+B0262,Libro Técnico 0262,Cormen,Seguridad,2019,Reservado,Virtual,88
+B0263,Libro Técnico 0263,Deitel,IA,2023,Prestado,Lima Centro,18
+B0264,Libro Técnico 0264,Cormen,Redes,2017,Mantenimiento,Virtual,30
+B0265,Libro Técnico 0265,Joyanes,Software,2023,Disponible,Lima Centro,63
+B0266,Libro Técnico 0266,Goodrich,Algoritmos,2021,Reservado,Ate,53
+B0267,Libro Técnico 0267,Cairo,Software,2008,Prestado,Lima Norte,67
+B0268,Libro Técnico 0268,Cairo,Software,2012,Prestado,Virtual,80
+B0269,Libro Técnico 0269,Cormen,Bases de datos,2009,Disponible,Lima Centro,14
+B0270,Libro Técnico 0270,Deitel,Bases de datos,2022,Mantenimiento,Virtual,22
+B0271,Libro Técnico 0271,Joyanes,Seguridad,2002,Disponible,Ate,36
+B0272,Libro Técnico 0272,Joyanes,IA,2009,Reservado,Virtual,5
+B0273,Libro Técnico 0273,Cairo,Seguridad,2002,Prestado,Lima Centro,3
+B0274,Libro Técnico 0274,Sedgewick,Software,2004,Disponible,Lima Centro,56
+B0275,Libro Técnico 0275,Goodrich,Software,2011,Mantenimiento,Lima Centro,86
+B0276,Libro Técnico 0276,Knuth,Bases de datos,2025,Disponible,Ate,29
+B0277,Libro Técnico 0277,Cairo,Bases de datos,2024,Mantenimiento,Lima Centro,48
+B0278,Libro Técnico 0278,Joyanes,Algoritmos,2016,Mantenimiento,Lima Norte,55
+B0279,Libro Técnico 0279,Joyanes,Bases de datos,2020,Mantenimiento,Lima Centro,49
+B0280,Libro Técnico 0280,Knuth,Bases de datos,2015,Prestado,Ate,34
+B0281,Libro Técnico 0281,Joyanes,Redes,2005,Disponible,Lima Norte,35
+B0282,Libro Técnico 0282,Joyanes,Algoritmos,2015,Mantenimiento,Virtual,21
+B0283,Libro Técnico 0283,Deitel,Redes,2008,Reservado,Lima Centro,81
+B0284,Libro Técnico 0284,Goodrich,Bases de datos,2019,Prestado,Lima Norte,52
+B0285,Libro Técnico 0285,Deitel,Software,2016,Prestado,Virtual,59
+B0286,Libro Técnico 0286,Knuth,Algoritmos,2024,Mantenimiento,Lima Centro,31
+B0287,Libro Técnico 0287,Knuth,IA,2019,Prestado,Lima Centro,73
+B0288,Libro Técnico 0288,Cairo,IA,2002,Disponible,Virtual,64
+B0289,Libro Técnico 0289,Cairo,IA,2017,Mantenimiento,Virtual,89
+B0290,Libro Técnico 0290,Deitel,Algoritmos,2015,Mantenimiento,Lima Centro,10
+B0291,Libro Técnico 0291,Goodrich,Algoritmos,2023,Mantenimiento,Lima Centro,16
+B0292,Libro Técnico 0292,Knuth,Redes,2008,Disponible,Lima Norte,61
+B0293,Libro Técnico 0293,Cormen,Redes,2006,Mantenimiento,Lima Norte,58
+B0294,Libro Técnico 0294,Sedgewick,Bases de datos,2023,Mantenimiento,Lima Centro,47
+B0295,Libro Técnico 0295,Cormen,IA,2023,Disponible,Lima Norte,49
+B0296,Libro Técnico 0296,Cormen,Redes,2017,Disponible,Ate,54
+B0297,Libro Técnico 0297,Deitel,Redes,2023,Prestado,Lima Norte,79
+B0298,Libro Técnico 0298,Knuth,Seguridad,2002,Reservado,Lima Norte,14
+B0299,Libro Técnico 0299,Sedgewick,Redes,2015,Disponible,Ate,46
+B0300,Libro Técnico 0300,Joyanes,Seguridad,2018,Disponible,Lima Centro,17
+B0301,Libro Técnico 0301,Knuth,Bases de datos,2018,Disponible,Virtual,74
+B0302,Libro Técnico 0302,Deitel,Seguridad,2007,Prestado,Ate,45
+B0303,Libro Técnico 0303,Knuth,Software,2022,Mantenimiento,Ate,6
+B0304,Libro Técnico 0304,Cairo,Redes,2012,Mantenimiento,Virtual,64
+B0305,Libro Técnico 0305,Goodrich,Algoritmos,2016,Reservado,Virtual,79
+B0306,Libro Técnico 0306,Knuth,Seguridad,2023,Disponible,Lima Centro,58
+B0307,Libro Técnico 0307,Cairo,Algoritmos,2013,Prestado,Ate,9
+B0308,Libro Técnico 0308,Cairo,Bases de datos,2009,Disponible,Lima Centro,63
+B0309,Libro Técnico 0309,Joyanes,Bases de datos,2017,Disponible,Ate,53
+B0310,Libro Técnico 0310,Cormen,Software,2005,Mantenimiento,Ate,53
+B0311,Libro Técnico 0311,Sedgewick,Seguridad,2021,Disponible,Ate,24
+B0312,Libro Técnico 0312,Cairo,Algoritmos,2026,Prestado,Ate,52
+B0313,Libro Técnico 0313,Goodrich,Redes,2021,Reservado,Virtual,75
+B0314,Libro Técnico 0314,Cormen,Seguridad,2017,Mantenimiento,Virtual,38
+B0315,Libro Técnico 0315,Goodrich,Bases de datos,2026,Reservado,Lima Centro,33
+B0316,Libro Técnico 0316,Joyanes,IA,2012,Reservado,Lima Norte,18
+B0317,Libro Técnico 0317,Knuth,Redes,2015,Prestado,Lima Centro,68
+B0318,Libro Técnico 0318,Knuth,Bases de datos,2006,Prestado,Lima Centro,30
+B0319,Libro Técnico 0319,Cairo,Algoritmos,2011,Prestado,Virtual,33
+B0320,Libro Técnico 0320,Knuth,Bases de datos,2007,Disponible,Ate,44
+B0321,Libro Técnico 0321,Joyanes,Redes,2015,Prestado,Ate,15
+B0322,Libro Técnico 0322,Cairo,IA,2016,Prestado,Virtual,40
+B0323,Libro Técnico 0323,Joyanes,Algoritmos,2024,Reservado,Ate,60
+B0324,Libro Técnico 0324,Knuth,Software,2022,Prestado,Virtual,43
+B0325,Libro Técnico 0325,Cormen,Algoritmos,2024,Mantenimiento,Lima Norte,17
+B0326,Libro Técnico 0326,Cormen,Software,2004,Reservado,Lima Norte,51
+B0327,Libro Técnico 0327,Goodrich,Bases de datos,2015,Reservado,Lima Norte,41
+B0328,Libro Técnico 0328,Cairo,Software,2021,Prestado,Lima Centro,35
+B0329,Libro Técnico 0329,Joyanes,Algoritmos,2003,Mantenimiento,Lima Norte,65
+B0330,Libro Técnico 0330,Sedgewick,Bases de datos,2016,Reservado,Lima Norte,85
+B0331,Libro Técnico 0331,Knuth,IA,2005,Mantenimiento,Ate,49
+B0332,Libro Técnico 0332,Knuth,Algoritmos,2010,Reservado,Ate,39
+B0333,Libro Técnico 0333,Sedgewick,Software,2003,Prestado,Virtual,53
+B0334,Libro Técnico 0334,Deitel,IA,2010,Prestado,Virtual,53
+B0335,Libro Técnico 0335,Joyanes,Software,2020,Disponible,Lima Centro,26
+B0336,Libro Técnico 0336,Knuth,IA,2017,Reservado,Lima Norte,75
+B0337,Libro Técnico 0337,Deitel,IA,2003,Disponible,Virtual,81
+B0338,Libro Técnico 0338,Knuth,IA,2006,Mantenimiento,Lima Centro,25
+B0339,Libro Técnico 0339,Joyanes,IA,2010,Mantenimiento,Lima Norte,38
+B0340,Libro Técnico 0340,Deitel,Software,2010,Mantenimiento,Virtual,28
+B0341,Libro Técnico 0341,Cairo,Algoritmos,2005,Reservado,Ate,81
+B0342,Libro Técnico 0342,Deitel,Seguridad,2016,Disponible,Ate,53
+B0343,Libro Técnico 0343,Joyanes,IA,2023,Prestado,Lima Norte,15
+B0344,Libro Técnico 0344,Deitel,Redes,2016,Disponible,Ate,74
+B0345,Libro Técnico 0345,Sedgewick,Software,2014,Reservado,Virtual,88
+B0346,Libro Técnico 0346,Deitel,Algoritmos,2012,Disponible,Ate,20
+B0347,Libro Técnico 0347,Goodrich,Algoritmos,2005,Reservado,Virtual,88
+B0348,Libro Técnico 0348,Joyanes,Redes,2006,Disponible,Ate,46
+B0349,Libro Técnico 0349,Sedgewick,Seguridad,2012,Disponible,Ate,37
+B0350,Libro Técnico 0350,Goodrich,Seguridad,2003,Prestado,Lima Centro,12
+B0351,Libro Técnico 0351,Goodrich,Bases de datos,2018,Reservado,Ate,87
+B0352,Libro Técnico 0352,Deitel,Redes,2009,Reservado,Lima Norte,68
+B0353,Libro Técnico 0353,Goodrich,Redes,2005,Disponible,Lima Centro,66
+B0354,Libro Técnico 0354,Knuth,Redes,2025,Mantenimiento,Virtual,43
+B0355,Libro Técnico 0355,Joyanes,Algoritmos,2007,Prestado,Lima Centro,24
+B0356,Libro Técnico 0356,Deitel,Software,2020,Disponible,Virtual,58
+B0357,Libro Técnico 0357,Cairo,Algoritmos,2005,Disponible,Virtual,44
+B0358,Libro Técnico 0358,Knuth,Seguridad,2012,Prestado,Virtual,76
+B0359,Libro Técnico 0359,Goodrich,Redes,2006,Reservado,Lima Norte,15
+B0360,Libro Técnico 0360,Joyanes,Bases de datos,2023,Prestado,Lima Centro,39
+B0361,Libro Técnico 0361,Joyanes,Bases de datos,2005,Disponible,Virtual,88
+B0362,Libro Técnico 0362,Deitel,Algoritmos,2003,Disponible,Virtual,55
+B0363,Libro Técnico 0363,Cairo,Bases de datos,2004,Disponible,Lima Norte,60
+B0364,Libro Técnico 0364,Cairo,Redes,2002,Disponible,Ate,85
+B0365,Libro Técnico 0365,Cairo,Algoritmos,2026,Disponible,Lima Centro,75
+B0366,Libro Técnico 0366,Joyanes,Bases de datos,2022,Reservado,Lima Norte,11
+B0367,Libro Técnico 0367,Joyanes,Seguridad,2009,Reservado,Ate,20
+B0368,Libro Técnico 0368,Deitel,Software,2025,Prestado,Lima Norte,12
+B0369,Libro Técnico 0369,Deitel,Software,2025,Disponible,Lima Centro,24
+B0370,Libro Técnico 0370,Knuth,Bases de datos,2025,Disponible,Lima Norte,27
+B0371,Libro Técnico 0371,Goodrich,Seguridad,2016,Reservado,Lima Centro,56
+B0372,Libro Técnico 0372,Cormen,Algoritmos,2006,Reservado,Virtual,54
+B0373,Libro Técnico 0373,Joyanes,Software,2008,Mantenimiento,Lima Norte,40
+B0374,Libro Técnico 0374,Cairo,IA,2004,Prestado,Virtual,46
+B0375,Libro Técnico 0375,Cormen,Redes,2018,Disponible,Lima Norte,41
+B0376,Libro Técnico 0376,Sedgewick,Algoritmos,2013,Reservado,Virtual,76
+B0377,Libro Técnico 0377,Cormen,Redes,2022,Mantenimiento,Lima Centro,70
+B0378,Libro Técnico 0378,Sedgewick,Redes,2014,Prestado,Lima Norte,60
+B0379,Libro Técnico 0379,Cormen,Redes,2006,Disponible,Virtual,86
+B0380,Libro Técnico 0380,Cairo,IA,2015,Disponible,Lima Norte,18
+B0381,Libro Técnico 0381,Sedgewick,IA,2023,Disponible,Lima Centro,8
+B0382,Libro Técnico 0382,Knuth,Bases de datos,2011,Prestado,Virtual,15
+B0383,Libro Técnico 0383,Joyanes,IA,2024,Mantenimiento,Ate,74
+B0384,Libro Técnico 0384,Goodrich,Redes,2025,Mantenimiento,Ate,60
+B0385,Libro Técnico 0385,Cormen,Software,2013,Mantenimiento,Ate,18
+B0386,Libro Técnico 0386,Deitel,IA,2004,Disponible,Ate,62
+B0387,Libro Técnico 0387,Sedgewick,Bases de datos,2021,Prestado,Lima Norte,12
+B0388,Libro Técnico 0388,Cormen,Algoritmos,2003,Mantenimiento,Lima Norte,22
+B0389,Libro Técnico 0389,Sedgewick,Software,2022,Reservado,Lima Centro,38
+B0390,Libro Técnico 0390,Goodrich,Software,2004,Disponible,Virtual,59
+B0391,Libro Técnico 0391,Joyanes,Redes,2022,Mantenimiento,Virtual,64
+B0392,Libro Técnico 0392,Knuth,Software,2011,Disponible,Lima Norte,55
+B0393,Libro Técnico 0393,Cairo,IA,2015,Reservado,Virtual,56
+B0394,Libro Técnico 0394,Sedgewick,Algoritmos,2002,Prestado,Ate,90
+B0395,Libro Técnico 0395,Joyanes,IA,2014,Prestado,Ate,49
+B0396,Libro Técnico 0396,Sedgewick,Algoritmos,2019,Mantenimiento,Virtual,60
+B0397,Libro Técnico 0397,Goodrich,Bases de datos,2017,Disponible,Virtual,33
+B0398,Libro Técnico 0398,Sedgewick,Software,2013,Reservado,Ate,41
+B0399,Libro Técnico 0399,Cairo,Algoritmos,2019,Disponible,Lima Centro,46
+B0400,Libro Técnico 0400,Knuth,Seguridad,2019,Disponible,Ate,48
+B0401,Libro Técnico 0401,Cairo,IA,2012,Reservado,Virtual,44
+B0402,Libro Técnico 0402,Cairo,Seguridad,2008,Prestado,Lima Centro,82
+B0403,Libro Técnico 0403,Knuth,Software,2003,Disponible,Ate,14
+B0404,Libro Técnico 0404,Knuth,Bases de datos,2001,Reservado,Lima Norte,58
+B0405,Libro Técnico 0405,Cormen,IA,2019,Mantenimiento,Ate,2
+B0406,Libro Técnico 0406,Cormen,IA,2019,Disponible,Ate,48
+B0407,Libro Técnico 0407,Goodrich,IA,2011,Disponible,Virtual,12
+B0408,Libro Técnico 0408,Cormen,Seguridad,2007,Reservado,Virtual,64
+B0409,Libro Técnico 0409,Deitel,Seguridad,2011,Prestado,Ate,46
+B0410,Libro Técnico 0410,Sedgewick,Bases de datos,2016,Disponible,Lima Centro,36
+B0411,Libro Técnico 0411,Knuth,Algoritmos,2010,Mantenimiento,Lima Centro,79
+B0412,Libro Técnico 0412,Cormen,Algoritmos,2023,Disponible,Ate,34
+B0413,Libro Técnico 0413,Cairo,Software,2026,Mantenimiento,Virtual,26
+B0414,Libro Técnico 0414,Knuth,Algoritmos,2021,Reservado,Ate,55
+B0415,Libro Técnico 0415,Cormen,Software,2011,Prestado,Virtual,51
+B0416,Libro Técnico 0416,Knuth,Software,2017,Mantenimiento,Lima Centro,2
+B0417,Libro Técnico 0417,Cormen,Seguridad,2017,Prestado,Virtual,27
+B0418,Libro Técnico 0418,Cormen,Seguridad,2015,Reservado,Virtual,72
+B0419,Libro Técnico 0419,Cormen,Seguridad,2002,Prestado,Ate,59
+B0420,Libro Técnico 0420,Joyanes,Bases de datos,2005,Reservado,Virtual,52
+B0421,Libro Técnico 0421,Knuth,Algoritmos,2021,Prestado,Virtual,34
+B0422,Libro Técnico 0422,Deitel,Redes,2021,Prestado,Ate,87
+B0423,Libro Técnico 0423,Goodrich,Bases de datos,2013,Prestado,Lima Norte,19
+B0424,Libro Técnico 0424,Joyanes,Algoritmos,2008,Reservado,Virtual,62
+B0425,Libro Técnico 0425,Goodrich,IA,2014,Disponible,Lima Centro,20
+B0426,Libro Técnico 0426,Knuth,Bases de datos,2001,Reservado,Ate,84
+B0427,Libro Técnico 0427,Goodrich,Bases de datos,2021,Disponible,Virtual,2
+B0428,Libro Técnico 0428,Cairo,Algoritmos,2011,Reservado,Lima Norte,52
+B0429,Libro Técnico 0429,Knuth,Seguridad,2022,Disponible,Virtual,17
+B0430,Libro Técnico 0430,Joyanes,Algoritmos,2019,Disponible,Ate,63
+B0431,Libro Técnico 0431,Cairo,Bases de datos,2020,Disponible,Ate,42
+B0432,Libro Técnico 0432,Deitel,Software,2024,Mantenimiento,Lima Centro,54
+B0433,Libro Técnico 0433,Joyanes,Bases de datos,2004,Prestado,Lima Centro,35
+B0434,Libro Técnico 0434,Sedgewick,IA,2009,Disponible,Virtual,68
+B0435,Libro Técnico 0435,Knuth,Seguridad,2004,Reservado,Virtual,60
+B0436,Libro Técnico 0436,Cormen,Bases de datos,2009,Prestado,Ate,60
+B0437,Libro Técnico 0437,Cormen,Redes,2010,Disponible,Lima Norte,84
+B0438,Libro Técnico 0438,Deitel,Algoritmos,2023,Prestado,Ate,70
+B0439,Libro Técnico 0439,Sedgewick,Redes,2021,Reservado,Lima Norte,68
+B0440,Libro Técnico 0440,Deitel,Bases de datos,2015,Mantenimiento,Lima Norte,50
+B0441,Libro Técnico 0441,Knuth,Redes,2003,Prestado,Ate,26
+B0442,Libro Técnico 0442,Deitel,Bases de datos,2015,Reservado,Virtual,4
+B0443,Libro Técnico 0443,Knuth,Algoritmos,2025,Mantenimiento,Virtual,52
+B0444,Libro Técnico 0444,Deitel,Redes,2023,Mantenimiento,Lima Norte,20
+B0445,Libro Técnico 0445,Cormen,Redes,2017,Disponible,Ate,53
+B0446,Libro Técnico 0446,Goodrich,Seguridad,2018,Reservado,Virtual,88
+B0447,Libro Técnico 0447,Cairo,Algoritmos,2021,Prestado,Virtual,82
+B0448,Libro Técnico 0448,Joyanes,Algoritmos,2013,Prestado,Ate,40
+B0449,Libro Técnico 0449,Goodrich,Algoritmos,2004,Prestado,Lima Centro,66
+B0450,Libro Técnico 0450,Cormen,Seguridad,2025,Prestado,Virtual,40
+B0451,Libro Técnico 0451,Sedgewick,IA,2024,Prestado,Ate,22
+B0452,Libro Técnico 0452,Cormen,Software,2011,Reservado,Lima Centro,10
+B0453,Libro Técnico 0453,Sedgewick,Redes,2006,Mantenimiento,Virtual,73
+B0454,Libro Técnico 0454,Joyanes,Algoritmos,2001,Prestado,Lima Norte,59
+B0455,Libro Técnico 0455,Joyanes,Redes,2023,Prestado,Lima Norte,51
+B0456,Libro Técnico 0456,Goodrich,IA,2020,Reservado,Lima Centro,11
+B0457,Libro Técnico 0457,Knuth,Bases de datos,2019,Disponible,Lima Norte,67
+B0458,Libro Técnico 0458,Sedgewick,IA,2022,Mantenimiento,Lima Norte,28
+B0459,Libro Técnico 0459,Cormen,Bases de datos,2007,Reservado,Ate,63
+B0460,Libro Técnico 0460,Sedgewick,Bases de datos,2014,Prestado,Lima Centro,36
+B0461,Libro Técnico 0461,Cormen,Seguridad,2007,Mantenimiento,Lima Centro,52
+B0462,Libro Técnico 0462,Deitel,Bases de datos,2001,Reservado,Ate,30
+B0463,Libro Técnico 0463,Goodrich,IA,2008,Reservado,Virtual,10
+B0464,Libro Técnico 0464,Cairo,IA,2005,Reservado,Virtual,87
+B0465,Libro Técnico 0465,Joyanes,Seguridad,2013,Mantenimiento,Ate,9
+B0466,Libro Técnico 0466,Cairo,Software,2002,Disponible,Ate,30
+B0467,Libro Técnico 0467,Sedgewick,Redes,2020,Disponible,Lima Norte,32
+B0468,Libro Técnico 0468,Goodrich,Software,2013,Reservado,Virtual,85
+B0469,Libro Técnico 0469,Knuth,Bases de datos,2018,Disponible,Lima Centro,33
+B0470,Libro Técnico 0470,Joyanes,Software,2016,Reservado,Virtual,16
+B0471,Libro Técnico 0471,Cairo,Redes,2023,Mantenimiento,Lima Centro,33
+B0472,Libro Técnico 0472,Cairo,Redes,2002,Prestado,Virtual,35
+B0473,Libro Técnico 0473,Cormen,Redes,2014,Reservado,Ate,78
+B0474,Libro Técnico 0474,Deitel,Redes,2017,Reservado,Virtual,21
+B0475,Libro Técnico 0475,Knuth,Seguridad,2016,Prestado,Virtual,6
+B0476,Libro Técnico 0476,Joyanes,Bases de datos,2002,Prestado,Lima Centro,4
+B0477,Libro Técnico 0477,Sedgewick,Redes,2006,Mantenimiento,Virtual,14
+B0478,Libro Técnico 0478,Sedgewick,Algoritmos,2015,Reservado,Virtual,58
+B0479,Libro Técnico 0479,Sedgewick,Algoritmos,2024,Prestado,Lima Norte,44
+B0480,Libro Técnico 0480,Cairo,Bases de datos,2010,Prestado,Lima Centro,65
+B0481,Libro Técnico 0481,Deitel,Redes,2019,Prestado,Lima Norte,67
+B0482,Libro Técnico 0482,Deitel,Software,2006,Mantenimiento,Lima Norte,31
+B0483,Libro Técnico 0483,Deitel,IA,2022,Disponible,Ate,3
+B0484,Libro Técnico 0484,Knuth,Seguridad,2022,Disponible,Virtual,47
+B0485,Libro Técnico 0485,Goodrich,Algoritmos,2011,Prestado,Lima Norte,10
+B0486,Libro Técnico 0486,Sedgewick,Seguridad,2022,Mantenimiento,Virtual,80
+B0487,Libro Técnico 0487,Knuth,Software,2022,Disponible,Ate,5
+B0488,Libro Técnico 0488,Cormen,Software,2015,Reservado,Lima Centro,27
+B0489,Libro Técnico 0489,Deitel,Algoritmos,2026,Reservado,Ate,7
+B0490,Libro Técnico 0490,Cormen,Algoritmos,2018,Mantenimiento,Lima Norte,51
+B0491,Libro Técnico 0491,Knuth,Bases de datos,2008,Mantenimiento,Lima Norte,2
+B0492,Libro Técnico 0492,Deitel,Bases de datos,2006,Mantenimiento,Virtual,36
+B0493,Libro Técnico 0493,Cormen,Seguridad,2005,Disponible,Ate,62
+B0494,Libro Técnico 0494,Deitel,IA,2024,Reservado,Lima Centro,45
+B0495,Libro Técnico 0495,Cormen,Algoritmos,2012,Prestado,Virtual,57
+B0496,Libro Técnico 0496,Sedgewick,IA,2009,Mantenimiento,Lima Norte,54
+B0497,Libro Técnico 0497,Deitel,Redes,2020,Prestado,Virtual,80
+B0498,Libro Técnico 0498,Sedgewick,Algoritmos,2002,Reservado,Virtual,86
+B0499,Libro Técnico 0499,Joyanes,Seguridad,2022,Prestado,Virtual,67
+B0500,Libro Técnico 0500,Cormen,Seguridad,2017,Disponible,Ate,59
+B0501,Libro Técnico 0501,Sedgewick,Algoritmos,2026,Mantenimiento,Ate,19
+B0502,Libro Técnico 0502,Joyanes,Seguridad,2010,Prestado,Virtual,37
+B0503,Libro Técnico 0503,Goodrich,Algoritmos,2018,Disponible,Lima Norte,65
+B0504,Libro Técnico 0504,Cairo,Software,2014,Mantenimiento,Lima Norte,59
+B0505,Libro Técnico 0505,Cormen,Seguridad,2019,Reservado,Ate,32
+B0506,Libro Técnico 0506,Goodrich,Algoritmos,2025,Disponible,Lima Norte,84
+B0507,Libro Técnico 0507,Sedgewick,Bases de datos,2026,Prestado,Virtual,5
+B0508,Libro Técnico 0508,Cairo,IA,2023,Reservado,Ate,75
+B0509,Libro Técnico 0509,Cormen,IA,2025,Mantenimiento,Ate,43
+B0510,Libro Técnico 0510,Deitel,Bases de datos,2007,Prestado,Lima Norte,77
+B0511,Libro Técnico 0511,Knuth,Seguridad,2004,Mantenimiento,Lima Norte,0
+B0512,Libro Técnico 0512,Sedgewick,Algoritmos,2001,Prestado,Virtual,58
+B0513,Libro Técnico 0513,Cormen,IA,2022,Mantenimiento,Ate,79
+B0514,Libro Técnico 0514,Deitel,Software,2012,Mantenimiento,Ate,11
+B0515,Libro Técnico 0515,Joyanes,Bases de datos,2001,Prestado,Lima Norte,2
+B0516,Libro Técnico 0516,Cormen,Bases de datos,2001,Prestado,Virtual,83
+B0517,Libro Técnico 0517,Joyanes,Seguridad,2008,Mantenimiento,Lima Centro,11
+B0518,Libro Técnico 0518,Knuth,IA,2005,Mantenimiento,Virtual,2
+B0519,Libro Técnico 0519,Cairo,Bases de datos,2005,Mantenimiento,Virtual,60
+B0520,Libro Técnico 0520,Cairo,IA,2019,Prestado,Lima Centro,37
+B0521,Libro Técnico 0521,Goodrich,IA,2002,Reservado,Lima Norte,13
+B0522,Libro Técnico 0522,Cormen,Seguridad,2014,Mantenimiento,Virtual,74
+B0523,Libro Técnico 0523,Goodrich,Seguridad,2018,Reservado,Lima Norte,62
+B0524,Libro Técnico 0524,Sedgewick,IA,2017,Mantenimiento,Lima Centro,7
+B0525,Libro Técnico 0525,Goodrich,Algoritmos,2014,Reservado,Lima Norte,34
+B0526,Libro Técnico 0526,Cormen,IA,2016,Disponible,Virtual,79
+B0527,Libro Técnico 0527,Cormen,Redes,2015,Mantenimiento,Lima Norte,20
+B0528,Libro Técnico 0528,Knuth,Seguridad,2007,Mantenimiento,Ate,56
+B0529,Libro Técnico 0529,Joyanes,Software,2008,Reservado,Virtual,16
+B0530,Libro Técnico 0530,Knuth,Seguridad,2023,Mantenimiento,Virtual,86
+B0531,Libro Técnico 0531,Cormen,Seguridad,2012,Mantenimiento,Lima Centro,79
+B0532,Libro Técnico 0532,Joyanes,Redes,2023,Disponible,Virtual,16
+B0533,Libro Técnico 0533,Joyanes,Bases de datos,2006,Mantenimiento,Lima Norte,53
+B0534,Libro Técnico 0534,Sedgewick,Redes,2008,Prestado,Lima Norte,2
+B0535,Libro Técnico 0535,Knuth,Redes,2012,Prestado,Lima Centro,64
+B0536,Libro Técnico 0536,Cairo,Algoritmos,2011,Mantenimiento,Lima Norte,79
+B0537,Libro Técnico 0537,Joyanes,Algoritmos,2018,Prestado,Virtual,33
+B0538,Libro Técnico 0538,Knuth,Redes,2025,Disponible,Ate,19
+B0539,Libro Técnico 0539,Deitel,Seguridad,2017,Disponible,Lima Norte,56
+B0540,Libro Técnico 0540,Deitel,IA,2025,Disponible,Lima Norte,78
+B0541,Libro Técnico 0541,Goodrich,Algoritmos,2018,Disponible,Lima Norte,21
+B0542,Libro Técnico 0542,Cormen,Algoritmos,2007,Reservado,Lima Centro,37
+B0543,Libro Técnico 0543,Cormen,IA,2025,Mantenimiento,Lima Norte,19
+B0544,Libro Técnico 0544,Cormen,Redes,2011,Prestado,Lima Norte,25
+B0545,Libro Técnico 0545,Sedgewick,IA,2025,Disponible,Lima Centro,60
+B0546,Libro Técnico 0546,Knuth,Redes,2017,Prestado,Lima Norte,34
+B0547,Libro Técnico 0547,Knuth,Seguridad,2025,Mantenimiento,Ate,80
+B0548,Libro Técnico 0548,Cormen,Bases de datos,2005,Mantenimiento,Lima Centro,17
+B0549,Libro Técnico 0549,Deitel,IA,2014,Mantenimiento,Virtual,66
+B0550,Libro Técnico 0550,Deitel,Seguridad,2012,Disponible,Virtual,18
+B0551,Libro Técnico 0551,Deitel,Algoritmos,2023,Disponible,Lima Norte,43
+B0552,Libro Técnico 0552,Knuth,IA,2025,Prestado,Virtual,7
+B0553,Libro Técnico 0553,Sedgewick,Algoritmos,2022,Prestado,Lima Norte,80
+B0554,Libro Técnico 0554,Cormen,Seguridad,2017,Reservado,Virtual,51
+B0555,Libro Técnico 0555,Cormen,Seguridad,2018,Reservado,Ate,44
+B0556,Libro Técnico 0556,Cairo,Redes,2017,Prestado,Virtual,57
+B0557,Libro Técnico 0557,Cormen,Bases de datos,2018,Mantenimiento,Ate,83
+B0558,Libro Técnico 0558,Sedgewick,Bases de datos,2010,Disponible,Lima Norte,68
+B0559,Libro Técnico 0559,Knuth,IA,2024,Prestado,Ate,27
+B0560,Libro Técnico 0560,Cairo,Software,2018,Reservado,Ate,81
+B0561,Libro Técnico 0561,Joyanes,Algoritmos,2001,Reservado,Lima Centro,38
+B0562,Libro Técnico 0562,Cormen,IA,2017,Disponible,Lima Norte,47
+B0563,Libro Técnico 0563,Knuth,Seguridad,2017,Reservado,Lima Norte,6
+B0564,Libro Técnico 0564,Deitel,Seguridad,2004,Mantenimiento,Ate,73
+B0565,Libro Técnico 0565,Cormen,Algoritmos,2015,Reservado,Lima Centro,74
+B0566,Libro Técnico 0566,Goodrich,Seguridad,2021,Prestado,Ate,38
+B0567,Libro Técnico 0567,Knuth,Seguridad,2026,Prestado,Virtual,66
+B0568,Libro Técnico 0568,Cormen,Bases de datos,2004,Reservado,Lima Centro,46
+B0569,Libro Técnico 0569,Sedgewick,Algoritmos,2005,Mantenimiento,Virtual,10
+B0570,Libro Técnico 0570,Cairo,Algoritmos,2014,Prestado,Virtual,27
+B0571,Libro Técnico 0571,Sedgewick,Algoritmos,2012,Mantenimiento,Virtual,33
+B0572,Libro Técnico 0572,Goodrich,IA,2021,Mantenimiento,Virtual,88
+B0573,Libro Técnico 0573,Sedgewick,Seguridad,2014,Prestado,Lima Centro,64
+B0574,Libro Técnico 0574,Joyanes,IA,2023,Mantenimiento,Lima Centro,90
+B0575,Libro Técnico 0575,Goodrich,Software,2004,Prestado,Virtual,60
+B0576,Libro Técnico 0576,Cairo,Seguridad,2006,Reservado,Lima Norte,77
+B0577,Libro Técnico 0577,Deitel,IA,2004,Disponible,Ate,73
+B0578,Libro Técnico 0578,Knuth,Algoritmos,2017,Prestado,Lima Norte,47
+B0579,Libro Técnico 0579,Knuth,Redes,2010,Reservado,Virtual,3
+B0580,Libro Técnico 0580,Deitel,Bases de datos,2005,Mantenimiento,Lima Norte,39
+B0581,Libro Técnico 0581,Knuth,Bases de datos,2006,Mantenimiento,Lima Norte,15
+B0582,Libro Técnico 0582,Goodrich,Redes,2003,Disponible,Virtual,61
+B0583,Libro Técnico 0583,Goodrich,Redes,2019,Mantenimiento,Ate,48
+B0584,Libro Técnico 0584,Sedgewick,Seguridad,2020,Prestado,Lima Centro,64
+B0585,Libro Técnico 0585,Cormen,IA,2025,Mantenimiento,Virtual,19
+B0586,Libro Técnico 0586,Deitel,Seguridad,2011,Disponible,Virtual,49
+B0587,Libro Técnico 0587,Joyanes,IA,2011,Disponible,Virtual,35
+B0588,Libro Técnico 0588,Cormen,Algoritmos,2006,Disponible,Ate,71
+B0589,Libro Técnico 0589,Cormen,Algoritmos,2021,Disponible,Lima Centro,79
+B0590,Libro Técnico 0590,Goodrich,Software,2025,Disponible,Lima Centro,60
+B0591,Libro Técnico 0591,Goodrich,Algoritmos,2004,Prestado,Lima Norte,35
+B0592,Libro Técnico 0592,Deitel,Bases de datos,2008,Mantenimiento,Lima Norte,68
+B0593,Libro Técnico 0593,Goodrich,Redes,2013,Disponible,Virtual,2
+B0594,Libro Técnico 0594,Knuth,IA,2006,Mantenimiento,Lima Norte,67
+B0595,Libro Técnico 0595,Knuth,IA,2009,Disponible,Lima Norte,12
+B0596,Libro Técnico 0596,Goodrich,Bases de datos,2010,Prestado,Lima Centro,32
+B0597,Libro Técnico 0597,Deitel,Algoritmos,2005,Reservado,Virtual,86
+B0598,Libro Técnico 0598,Joyanes,Algoritmos,2020,Reservado,Lima Centro,3
+B0599,Libro Técnico 0599,Cormen,Algoritmos,2010,Mantenimiento,Lima Norte,40
+B0600,Libro Técnico 0600,Joyanes,IA,2011,Reservado,Virtual,15
+B0601,Libro Técnico 0601,Cairo,Bases de datos,2008,Prestado,Virtual,65
+B0602,Libro Técnico 0602,Deitel,Software,2013,Disponible,Ate,7
+B0603,Libro Técnico 0603,Knuth,IA,2018,Mantenimiento,Lima Norte,61
+B0604,Libro Técnico 0604,Cairo,IA,2021,Prestado,Lima Norte,34
+B0605,Libro Técnico 0605,Goodrich,Software,2022,Disponible,Lima Centro,71
+B0606,Libro Técnico 0606,Cormen,Bases de datos,2010,Mantenimiento,Virtual,10
+B0607,Libro Técnico 0607,Deitel,Seguridad,2017,Prestado,Lima Centro,47
+B0608,Libro Técnico 0608,Goodrich,Bases de datos,2026,Prestado,Virtual,71
+B0609,Libro Técnico 0609,Sedgewick,Algoritmos,2001,Mantenimiento,Ate,83
+B0610,Libro Técnico 0610,Joyanes,Algoritmos,2002,Mantenimiento,Ate,76
+B0611,Libro Técnico 0611,Knuth,Seguridad,2013,Reservado,Lima Centro,74
+B0612,Libro Técnico 0612,Deitel,Software,2010,Disponible,Lima Centro,68
+B0613,Libro Técnico 0613,Goodrich,Algoritmos,2010,Disponible,Virtual,89
+B0614,Libro Técnico 0614,Cairo,Bases de datos,2024,Reservado,Virtual,26
+B0615,Libro Técnico 0615,Goodrich,Software,2026,Reservado,Ate,81
+B0616,Libro Técnico 0616,Knuth,Seguridad,2015,Reservado,Lima Centro,84
+B0617,Libro Técnico 0617,Knuth,Redes,2007,Mantenimiento,Ate,2
+B0618,Libro Técnico 0618,Cormen,Bases de datos,2021,Disponible,Virtual,0
+B0619,Libro Técnico 0619,Cairo,Seguridad,2006,Mantenimiento,Virtual,50
+B0620,Libro Técnico 0620,Goodrich,Algoritmos,2026,Disponible,Lima Norte,85
+B0621,Libro Técnico 0621,Sedgewick,Seguridad,2004,Reservado,Virtual,76
+B0622,Libro Técnico 0622,Knuth,IA,2006,Disponible,Lima Norte,59
+B0623,Libro Técnico 0623,Knuth,Bases de datos,2015,Disponible,Lima Centro,2
+B0624,Libro Técnico 0624,Deitel,Redes,2022,Reservado,Lima Centro,11
+B0625,Libro Técnico 0625,Deitel,Software,2021,Reservado,Lima Centro,29
+B0626,Libro Técnico 0626,Sedgewick,Redes,2002,Reservado,Virtual,90
+B0627,Libro Técnico 0627,Cormen,Software,2007,Disponible,Lima Centro,81
+B0628,Libro Técnico 0628,Sedgewick,Algoritmos,2009,Mantenimiento,Lima Centro,70
+B0629,Libro Técnico 0629,Joyanes,Seguridad,2024,Prestado,Lima Norte,75
+B0630,Libro Técnico 0630,Joyanes,Seguridad,2003,Prestado,Ate,72
+B0631,Libro Técnico 0631,Deitel,Bases de datos,2017,Reservado,Lima Centro,86
+B0632,Libro Técnico 0632,Cairo,Seguridad,2022,Reservado,Virtual,0
+B0633,Libro Técnico 0633,Sedgewick,Seguridad,2022,Disponible,Ate,55
+B0634,Libro Técnico 0634,Deitel,IA,2009,Disponible,Virtual,63
+B0635,Libro Técnico 0635,Knuth,Software,2025,Disponible,Lima Centro,6
+B0636,Libro Técnico 0636,Knuth,IA,2018,Mantenimiento,Ate,0
+B0637,Libro Técnico 0637,Sedgewick,Bases de datos,2011,Disponible,Lima Norte,28
+B0638,Libro Técnico 0638,Cormen,IA,2003,Prestado,Lima Centro,21
+B0639,Libro Técnico 0639,Knuth,Redes,2003,Disponible,Lima Norte,61
+B0640,Libro Técnico 0640,Sedgewick,Algoritmos,2019,Reservado,Ate,31
+B0641,Libro Técnico 0641,Cairo,IA,2008,Reservado,Lima Norte,42
+B0642,Libro Técnico 0642,Goodrich,Bases de datos,2003,Mantenimiento,Lima Norte,80
+B0643,Libro Técnico 0643,Sedgewick,Software,2004,Disponible,Lima Norte,4
+B0644,Libro Técnico 0644,Sedgewick,Redes,2023,Disponible,Lima Centro,7
+B0645,Libro Técnico 0645,Deitel,IA,2002,Reservado,Virtual,8
+B0646,Libro Técnico 0646,Cairo,Seguridad,2002,Disponible,Ate,48
+B0647,Libro Técnico 0647,Sedgewick,Algoritmos,2020,Mantenimiento,Lima Centro,76
+B0648,Libro Técnico 0648,Deitel,Seguridad,2020,Disponible,Virtual,49
+B0649,Libro Técnico 0649,Sedgewick,IA,2020,Disponible,Ate,83
+B0650,Libro Técnico 0650,Cormen,Algoritmos,2015,Reservado,Lima Centro,13
+B0651,Libro Técnico 0651,Cairo,Algoritmos,2020,Disponible,Lima Centro,73
+B0652,Libro Técnico 0652,Joyanes,Seguridad,2017,Reservado,Ate,53
+B0653,Libro Técnico 0653,Sedgewick,Seguridad,2020,Mantenimiento,Lima Centro,31
+B0654,Libro Técnico 0654,Joyanes,Algoritmos,2002,Prestado,Ate,74
+B0655,Libro Técnico 0655,Sedgewick,Software,2021,Reservado,Ate,74
+B0656,Libro Técnico 0656,Goodrich,Bases de datos,2005,Mantenimiento,Ate,77
+B0657,Libro Técnico 0657,Knuth,Redes,2012,Disponible,Lima Centro,7
+B0658,Libro Técnico 0658,Joyanes,Software,2018,Disponible,Virtual,44
+B0659,Libro Técnico 0659,Joyanes,Bases de datos,2021,Prestado,Lima Norte,43
+B0660,Libro Técnico 0660,Joyanes,Seguridad,2016,Mantenimiento,Ate,74
+B0661,Libro Técnico 0661,Goodrich,Redes,2020,Reservado,Virtual,42
+B0662,Libro Técnico 0662,Joyanes,Algoritmos,2015,Disponible,Virtual,28
+B0663,Libro Técnico 0663,Cairo,Seguridad,2008,Prestado,Virtual,79
+B0664,Libro Técnico 0664,Joyanes,Bases de datos,2016,Reservado,Virtual,26
+B0665,Libro Técnico 0665,Sedgewick,Bases de datos,2001,Reservado,Lima Norte,9
+B0666,Libro Técnico 0666,Knuth,Algoritmos,2018,Disponible,Lima Centro,37
+B0667,Libro Técnico 0667,Sedgewick,Bases de datos,2021,Reservado,Lima Norte,3
+B0668,Libro Técnico 0668,Joyanes,Bases de datos,2010,Prestado,Lima Centro,33
+B0669,Libro Técnico 0669,Cormen,Bases de datos,2011,Prestado,Lima Centro,25
+B0670,Libro Técnico 0670,Cairo,Bases de datos,2009,Disponible,Lima Norte,86
+B0671,Libro Técnico 0671,Joyanes,IA,2021,Disponible,Ate,26
+B0672,Libro Técnico 0672,Knuth,IA,2008,Reservado,Ate,84
+B0673,Libro Técnico 0673,Joyanes,Software,2026,Mantenimiento,Lima Norte,15
+B0674,Libro Técnico 0674,Joyanes,Bases de datos,2026,Prestado,Lima Centro,68
+B0675,Libro Técnico 0675,Sedgewick,Seguridad,2012,Reservado,Virtual,81
+B0676,Libro Técnico 0676,Joyanes,Algoritmos,2025,Prestado,Ate,19
+B0677,Libro Técnico 0677,Knuth,Bases de datos,2002,Reservado,Lima Centro,65
+B0678,Libro Técnico 0678,Goodrich,IA,2007,Disponible,Virtual,84
+B0679,Libro Técnico 0679,Goodrich,Algoritmos,2006,Mantenimiento,Ate,63
+B0680,Libro Técnico 0680,Goodrich,IA,2006,Reservado,Ate,67
+B0681,Libro Técnico 0681,Cormen,IA,2023,Mantenimiento,Virtual,34
+B0682,Libro Técnico 0682,Goodrich,IA,2021,Disponible,Lima Centro,28
+B0683,Libro Técnico 0683,Joyanes,IA,2008,Mantenimiento,Lima Centro,39
+B0684,Libro Técnico 0684,Sedgewick,IA,2019,Prestado,Ate,32
+B0685,Libro Técnico 0685,Goodrich,Algoritmos,2005,Disponible,Ate,56
+B0686,Libro Técnico 0686,Goodrich,Redes,2008,Disponible,Virtual,65
+B0687,Libro Técnico 0687,Goodrich,Redes,2014,Mantenimiento,Virtual,55
+B0688,Libro Técnico 0688,Sedgewick,Redes,2026,Mantenimiento,Ate,34
+B0689,Libro Técnico 0689,Sedgewick,Algoritmos,2006,Mantenimiento,Lima Centro,33
+B0690,Libro Técnico 0690,Cormen,Algoritmos,2012,Disponible,Ate,64
+B0691,Libro Técnico 0691,Goodrich,Software,2021,Disponible,Ate,29
+B0692,Libro Técnico 0692,Cairo,Algoritmos,2003,Reservado,Lima Norte,69
+B0693,Libro Técnico 0693,Joyanes,Redes,2007,Reservado,Ate,38
+B0694,Libro Técnico 0694,Cormen,Seguridad,2009,Prestado,Lima Centro,69
+B0695,Libro Técnico 0695,Knuth,Algoritmos,2025,Reservado,Ate,44
+B0696,Libro Técnico 0696,Deitel,IA,2013,Disponible,Virtual,83
+B0697,Libro Técnico 0697,Goodrich,Bases de datos,2013,Prestado,Lima Centro,26
+B0698,Libro Técnico 0698,Sedgewick,Bases de datos,2017,Mantenimiento,Virtual,43
+B0699,Libro Técnico 0699,Deitel,Algoritmos,2011,Prestado,Virtual,89
+B0700,Libro Técnico 0700,Sedgewick,Bases de datos,2015,Mantenimiento,Lima Norte,47
+B0701,Libro Técnico 0701,Joyanes,Software,2005,Reservado,Lima Norte,63
+B0702,Libro Técnico 0702,Deitel,Seguridad,2012,Reservado,Lima Centro,53
+B0703,Libro Técnico 0703,Sedgewick,Seguridad,2025,Mantenimiento,Ate,41
+B0704,Libro Técnico 0704,Goodrich,Algoritmos,2019,Disponible,Lima Centro,19
+B0705,Libro Técnico 0705,Knuth,Software,2021,Mantenimiento,Virtual,26
+B0706,Libro Técnico 0706,Sedgewick,Algoritmos,2018,Mantenimiento,Lima Centro,60
+B0707,Libro Técnico 0707,Cairo,Redes,2019,Mantenimiento,Ate,11
+B0708,Libro Técnico 0708,Joyanes,Algoritmos,2022,Prestado,Lima Norte,88
+B0709,Libro Técnico 0709,Goodrich,IA,2001,Prestado,Lima Centro,8
+B0710,Libro Técnico 0710,Sedgewick,Redes,2007,Prestado,Ate,84
+B0711,Libro Técnico 0711,Goodrich,Algoritmos,2015,Disponible,Ate,66
+B0712,Libro Técnico 0712,Cairo,Bases de datos,2011,Mantenimiento,Virtual,20
+B0713,Libro Técnico 0713,Cairo,Bases de datos,2018,Mantenimiento,Virtual,8
+B0714,Libro Técnico 0714,Sedgewick,Bases de datos,2005,Prestado,Ate,55
+B0715,Libro Técnico 0715,Deitel,Seguridad,2022,Mantenimiento,Lima Centro,77
+B0716,Libro Técnico 0716,Goodrich,Redes,2019,Prestado,Virtual,35
+B0717,Libro Técnico 0717,Joyanes,Algoritmos,2005,Mantenimiento,Lima Norte,51
+B0718,Libro Técnico 0718,Goodrich,Bases de datos,2017,Reservado,Virtual,58
+B0719,Libro Técnico 0719,Sedgewick,Software,2002,Disponible,Ate,82
+B0720,Libro Técnico 0720,Sedgewick,Redes,2023,Reservado,Virtual,78
+B0721,Libro Técnico 0721,Deitel,Bases de datos,2014,Prestado,Lima Centro,79
+B0722,Libro Técnico 0722,Cormen,IA,2015,Mantenimiento,Lima Centro,89
+B0723,Libro Técnico 0723,Goodrich,Algoritmos,2013,Disponible,Lima Centro,20
+B0724,Libro Técnico 0724,Knuth,Seguridad,2018,Reservado,Lima Norte,89
+B0725,Libro Técnico 0725,Cormen,Seguridad,2007,Mantenimiento,Virtual,70
+B0726,Libro Técnico 0726,Cairo,Redes,2003,Disponible,Ate,52
+B0727,Libro Técnico 0727,Sedgewick,Bases de datos,2009,Prestado,Lima Norte,59
+B0728,Libro Técnico 0728,Cairo,Algoritmos,2021,Mantenimiento,Virtual,43
+B0729,Libro Técnico 0729,Cormen,IA,2007,Mantenimiento,Lima Norte,1
+B0730,Libro Técnico 0730,Knuth,Algoritmos,2023,Prestado,Ate,85
+B0731,Libro Técnico 0731,Cormen,IA,2016,Mantenimiento,Lima Norte,10
+B0732,Libro Técnico 0732,Goodrich,Seguridad,2008,Mantenimiento,Lima Centro,60
+B0733,Libro Técnico 0733,Deitel,Redes,2006,Prestado,Lima Norte,77
+B0734,Libro Técnico 0734,Cairo,Bases de datos,2010,Disponible,Virtual,21
+B0735,Libro Técnico 0735,Cairo,Seguridad,2025,Disponible,Ate,19
+B0736,Libro Técnico 0736,Sedgewick,Redes,2006,Prestado,Lima Norte,86
+B0737,Libro Técnico 0737,Goodrich,Bases de datos,2015,Disponible,Lima Norte,49
+B0738,Libro Técnico 0738,Cormen,Redes,2015,Disponible,Lima Norte,6
+B0739,Libro Técnico 0739,Deitel,IA,2025,Prestado,Lima Centro,47
+B0740,Libro Técnico 0740,Joyanes,Bases de datos,2003,Disponible,Virtual,3
+B0741,Libro Técnico 0741,Cairo,Redes,2007,Disponible,Lima Centro,12
+B0742,Libro Técnico 0742,Deitel,Seguridad,2006,Prestado,Lima Norte,53
+B0743,Libro Técnico 0743,Goodrich,Algoritmos,2011,Reservado,Lima Centro,79
+B0744,Libro Técnico 0744,Joyanes,Software,2013,Mantenimiento,Lima Norte,29
+B0745,Libro Técnico 0745,Joyanes,Algoritmos,2012,Reservado,Lima Centro,1
+B0746,Libro Técnico 0746,Sedgewick,Seguridad,2011,Disponible,Virtual,27
+B0747,Libro Técnico 0747,Sedgewick,Bases de datos,2003,Reservado,Ate,5
+B0748,Libro Técnico 0748,Cairo,Bases de datos,2014,Reservado,Virtual,13
+B0749,Libro Técnico 0749,Cormen,Software,2026,Prestado,Ate,12
+B0750,Libro Técnico 0750,Goodrich,Redes,2021,Mantenimiento,Lima Centro,42
+B0751,Libro Técnico 0751,Joyanes,Seguridad,2025,Reservado,Virtual,8
+B0752,Libro Técnico 0752,Knuth,Algoritmos,2020,Mantenimiento,Virtual,65
+B0753,Libro Técnico 0753,Cormen,Seguridad,2008,Disponible,Lima Centro,2
+B0754,Libro Técnico 0754,Goodrich,Algoritmos,2010,Prestado,Virtual,31
+B0755,Libro Técnico 0755,Goodrich,Algoritmos,2002,Prestado,Ate,63
+B0756,Libro Técnico 0756,Knuth,Bases de datos,2005,Mantenimiento,Lima Centro,82
+B0757,Libro Técnico 0757,Cairo,Bases de datos,2024,Mantenimiento,Ate,17
+B0758,Libro Técnico 0758,Knuth,Redes,2021,Disponible,Virtual,82
+B0759,Libro Técnico 0759,Deitel,Redes,2025,Disponible,Lima Centro,42
+B0760,Libro Técnico 0760,Knuth,Bases de datos,2007,Disponible,Lima Centro,87
+B0761,Libro Técnico 0761,Cormen,Seguridad,2008,Mantenimiento,Ate,23
+B0762,Libro Técnico 0762,Sedgewick,Seguridad,2001,Disponible,Virtual,8
+B0763,Libro Técnico 0763,Joyanes,Algoritmos,2021,Prestado,Lima Centro,16
+B0764,Libro Técnico 0764,Cairo,Bases de datos,2019,Prestado,Lima Centro,64
+B0765,Libro Técnico 0765,Cairo,IA,2024,Mantenimiento,Ate,21
+B0766,Libro Técnico 0766,Cormen,Bases de datos,2008,Mantenimiento,Lima Centro,77
+B0767,Libro Técnico 0767,Joyanes,Redes,2010,Mantenimiento,Lima Centro,34
+B0768,Libro Técnico 0768,Deitel,IA,2003,Reservado,Virtual,48
+B0769,Libro Técnico 0769,Joyanes,IA,2015,Mantenimiento,Virtual,19
+B0770,Libro Técnico 0770,Deitel,IA,2001,Mantenimiento,Virtual,10
+B0771,Libro Técnico 0771,Deitel,Redes,2020,Prestado,Lima Centro,32
+B0772,Libro Técnico 0772,Sedgewick,IA,2010,Mantenimiento,Ate,48
+B0773,Libro Técnico 0773,Goodrich,Software,2016,Disponible,Ate,17
+B0774,Libro Técnico 0774,Cormen,IA,2007,Prestado,Lima Centro,0
+B0775,Libro Técnico 0775,Cairo,Software,2024,Reservado,Virtual,51
+B0776,Libro Técnico 0776,Sedgewick,IA,2024,Reservado,Virtual,62
+B0777,Libro Técnico 0777,Knuth,Seguridad,2019,Disponible,Virtual,4
+B0778,Libro Técnico 0778,Cairo,IA,2019,Prestado,Lima Centro,55
+B0779,Libro Técnico 0779,Knuth,Seguridad,2012,Mantenimiento,Ate,89
+B0780,Libro Técnico 0780,Cairo,Seguridad,2013,Mantenimiento,Lima Centro,31
+B0781,Libro Técnico 0781,Sedgewick,Algoritmos,2012,Disponible,Lima Centro,33
+B0782,Libro Técnico 0782,Goodrich,IA,2022,Prestado,Ate,31
+B0783,Libro Técnico 0783,Goodrich,Software,2022,Prestado,Lima Norte,14
+B0784,Libro Técnico 0784,Deitel,Algoritmos,2021,Mantenimiento,Virtual,90
+B0785,Libro Técnico 0785,Goodrich,Algoritmos,2017,Prestado,Virtual,21
+B0786,Libro Técnico 0786,Deitel,IA,2009,Reservado,Virtual,75
+B0787,Libro Técnico 0787,Knuth,Seguridad,2014,Disponible,Lima Norte,81
+B0788,Libro Técnico 0788,Goodrich,Redes,2005,Reservado,Lima Centro,50
+B0789,Libro Técnico 0789,Cormen,Redes,2001,Prestado,Virtual,0
+B0790,Libro Técnico 0790,Cairo,Algoritmos,2025,Mantenimiento,Virtual,83
+B0791,Libro Técnico 0791,Knuth,Seguridad,2014,Prestado,Lima Centro,47
+B0792,Libro Técnico 0792,Joyanes,Seguridad,2005,Prestado,Virtual,23
+B0793,Libro Técnico 0793,Goodrich,Algoritmos,2015,Prestado,Lima Centro,25
+B0794,Libro Técnico 0794,Cairo,Seguridad,2006,Prestado,Ate,52
+B0795,Libro Técnico 0795,Sedgewick,Seguridad,2020,Disponible,Lima Centro,10
+B0796,Libro Técnico 0796,Knuth,Algoritmos,2013,Disponible,Ate,8
+B0797,Libro Técnico 0797,Knuth,Algoritmos,2019,Prestado,Virtual,62
+B0798,Libro Técnico 0798,Cormen,Algoritmos,2001,Disponible,Ate,0
+B0799,Libro Técnico 0799,Cormen,Software,2026,Disponible,Lima Norte,27
+B0800,Libro Técnico 0800,Goodrich,Algoritmos,2013,Reservado,Virtual,60
+B0801,Libro Técnico 0801,Deitel,Redes,2020,Mantenimiento,Ate,47
+B0802,Libro Técnico 0802,Cormen,Redes,2011,Prestado,Ate,85
+B0803,Libro Técnico 0803,Sedgewick,IA,2020,Disponible,Ate,42
+B0804,Libro Técnico 0804,Deitel,Algoritmos,2001,Mantenimiento,Virtual,17
+B0805,Libro Técnico 0805,Cairo,Software,2004,Reservado,Lima Centro,47
+B0806,Libro Técnico 0806,Sedgewick,Software,2022,Mantenimiento,Virtual,84
+B0807,Libro Técnico 0807,Joyanes,Algoritmos,2021,Reservado,Lima Norte,81
+B0808,Libro Técnico 0808,Knuth,Algoritmos,2026,Reservado,Virtual,29
+B0809,Libro Técnico 0809,Goodrich,IA,2013,Disponible,Ate,54
+B0810,Libro Técnico 0810,Sedgewick,Seguridad,2023,Disponible,Virtual,37
+B0811,Libro Técnico 0811,Goodrich,Bases de datos,2023,Prestado,Lima Norte,16
+B0812,Libro Técnico 0812,Sedgewick,Algoritmos,2010,Mantenimiento,Lima Centro,57
+B0813,Libro Técnico 0813,Cairo,IA,2022,Prestado,Lima Centro,27
+B0814,Libro Técnico 0814,Joyanes,Seguridad,2023,Disponible,Lima Norte,55
+B0815,Libro Técnico 0815,Cormen,Algoritmos,2006,Reservado,Virtual,35
+B0816,Libro Técnico 0816,Joyanes,Seguridad,2009,Mantenimiento,Lima Norte,85
+B0817,Libro Técnico 0817,Joyanes,Software,2021,Mantenimiento,Lima Norte,88
+B0818,Libro Técnico 0818,Knuth,Bases de datos,2019,Disponible,Ate,48
+B0819,Libro Técnico 0819,Cormen,Seguridad,2024,Mantenimiento,Virtual,29
+B0820,Libro Técnico 0820,Joyanes,Redes,2004,Reservado,Lima Norte,14
+B0821,Libro Técnico 0821,Cairo,Redes,2024,Prestado,Lima Norte,73
+B0822,Libro Técnico 0822,Knuth,Bases de datos,2011,Mantenimiento,Lima Norte,39
+B0823,Libro Técnico 0823,Cairo,Software,2018,Prestado,Virtual,54
+B0824,Libro Técnico 0824,Knuth,Redes,2026,Prestado,Lima Centro,13
+B0825,Libro Técnico 0825,Sedgewick,Algoritmos,2018,Mantenimiento,Ate,18
+B0826,Libro Técnico 0826,Deitel,Redes,2008,Mantenimiento,Virtual,18
+B0827,Libro Técnico 0827,Goodrich,Redes,2005,Disponible,Ate,39
+B0828,Libro Técnico 0828,Goodrich,Seguridad,2004,Reservado,Virtual,80
+B0829,Libro Técnico 0829,Deitel,Bases de datos,2016,Reservado,Virtual,7
+B0830,Libro Técnico 0830,Deitel,Redes,2005,Prestado,Lima Centro,89
+B0831,Libro Técnico 0831,Cormen,Algoritmos,2025,Prestado,Virtual,50
+B0832,Libro Técnico 0832,Knuth,Seguridad,2006,Disponible,Virtual,43
+B0833,Libro Técnico 0833,Sedgewick,Seguridad,2016,Reservado,Virtual,50
+B0834,Libro Técnico 0834,Cairo,Software,2024,Reservado,Ate,89
+B0835,Libro Técnico 0835,Joyanes,Seguridad,2018,Mantenimiento,Lima Norte,16
+B0836,Libro Técnico 0836,Knuth,Software,2026,Disponible,Ate,58
+B0837,Libro Técnico 0837,Cormen,Bases de datos,2019,Prestado,Virtual,89
+B0838,Libro Técnico 0838,Sedgewick,Redes,2005,Prestado,Lima Centro,25
+B0839,Libro Técnico 0839,Cormen,Seguridad,2001,Reservado,Lima Norte,86
+B0840,Libro Técnico 0840,Deitel,Bases de datos,2013,Mantenimiento,Lima Centro,7
+B0841,Libro Técnico 0841,Cairo,Redes,2016,Prestado,Lima Norte,15
+B0842,Libro Técnico 0842,Goodrich,Seguridad,2011,Mantenimiento,Lima Centro,80
+B0843,Libro Técnico 0843,Cormen,IA,2008,Disponible,Lima Norte,30
+B0844,Libro Técnico 0844,Sedgewick,IA,2010,Prestado,Virtual,88
+B0845,Libro Técnico 0845,Deitel,Seguridad,2022,Disponible,Virtual,83
+B0846,Libro Técnico 0846,Sedgewick,Redes,2021,Mantenimiento,Ate,1
+B0847,Libro Técnico 0847,Cairo,Algoritmos,2003,Disponible,Virtual,82
+B0848,Libro Técnico 0848,Cormen,Software,2008,Disponible,Virtual,35
+B0849,Libro Técnico 0849,Cormen,Seguridad,2004,Prestado,Virtual,61
+B0850,Libro Técnico 0850,Cormen,Seguridad,2014,Reservado,Lima Centro,12
+B0851,Libro Técnico 0851,Knuth,Algoritmos,2023,Prestado,Virtual,89
+B0852,Libro Técnico 0852,Cairo,IA,2018,Mantenimiento,Lima Norte,66
+B0853,Libro Técnico 0853,Deitel,Software,2018,Disponible,Lima Centro,84
+B0854,Libro Técnico 0854,Cairo,Bases de datos,2020,Prestado,Lima Norte,71
+B0855,Libro Técnico 0855,Sedgewick,Redes,2004,Disponible,Lima Centro,73
+B0856,Libro Técnico 0856,Joyanes,Seguridad,2006,Disponible,Ate,4
+B0857,Libro Técnico 0857,Cairo,Algoritmos,2017,Reservado,Ate,69
+B0858,Libro Técnico 0858,Joyanes,IA,2022,Disponible,Lima Centro,38
+B0859,Libro Técnico 0859,Cairo,Software,2026,Reservado,Virtual,17
+B0860,Libro Técnico 0860,Goodrich,IA,2023,Reservado,Ate,77
+B0861,Libro Técnico 0861,Goodrich,Software,2007,Disponible,Lima Norte,30
+B0862,Libro Técnico 0862,Cairo,Bases de datos,2005,Reservado,Lima Centro,17
+B0863,Libro Técnico 0863,Goodrich,Software,2007,Reservado,Ate,16
+B0864,Libro Técnico 0864,Cormen,Software,2014,Disponible,Ate,33
+B0865,Libro Técnico 0865,Sedgewick,Seguridad,2006,Mantenimiento,Virtual,10
+B0866,Libro Técnico 0866,Knuth,Seguridad,2014,Prestado,Lima Centro,9
+B0867,Libro Técnico 0867,Cormen,Seguridad,2009,Prestado,Ate,72
+B0868,Libro Técnico 0868,Cormen,Seguridad,2017,Prestado,Virtual,19
+B0869,Libro Técnico 0869,Knuth,IA,2013,Disponible,Lima Centro,9
+B0870,Libro Técnico 0870,Knuth,Algoritmos,2018,Disponible,Virtual,8
+B0871,Libro Técnico 0871,Knuth,Seguridad,2003,Reservado,Ate,34
+B0872,Libro Técnico 0872,Joyanes,Bases de datos,2009,Disponible,Lima Norte,48
+B0873,Libro Técnico 0873,Joyanes,IA,2004,Disponible,Lima Centro,67
+B0874,Libro Técnico 0874,Cormen,Redes,2019,Mantenimiento,Lima Norte,67
+B0875,Libro Técnico 0875,Knuth,Seguridad,2019,Reservado,Ate,77
+B0876,Libro Técnico 0876,Cairo,Algoritmos,2006,Reservado,Virtual,23
+B0877,Libro Técnico 0877,Knuth,Seguridad,2022,Mantenimiento,Virtual,75
+B0878,Libro Técnico 0878,Joyanes,Redes,2001,Prestado,Lima Centro,18
+B0879,Libro Técnico 0879,Sedgewick,Software,2024,Reservado,Lima Norte,81
+B0880,Libro Técnico 0880,Knuth,Seguridad,2025,Prestado,Virtual,90
+B0881,Libro Técnico 0881,Sedgewick,Bases de datos,2015,Reservado,Virtual,64
+B0882,Libro Técnico 0882,Knuth,Redes,2014,Prestado,Ate,81
+B0883,Libro Técnico 0883,Deitel,Algoritmos,2010,Mantenimiento,Ate,11
+B0884,Libro Técnico 0884,Cormen,Algoritmos,2003,Prestado,Lima Norte,21
+B0885,Libro Técnico 0885,Goodrich,Algoritmos,2003,Reservado,Virtual,1
+B0886,Libro Técnico 0886,Sedgewick,Seguridad,2017,Prestado,Virtual,63
+B0887,Libro Técnico 0887,Goodrich,Seguridad,2022,Disponible,Virtual,1
+B0888,Libro Técnico 0888,Goodrich,Bases de datos,2024,Disponible,Virtual,89
+B0889,Libro Técnico 0889,Goodrich,Seguridad,2012,Prestado,Lima Norte,77
+B0890,Libro Técnico 0890,Sedgewick,Bases de datos,2022,Prestado,Lima Centro,9
+B0891,Libro Técnico 0891,Knuth,Bases de datos,2017,Reservado,Lima Norte,54
+B0892,Libro Técnico 0892,Sedgewick,IA,2006,Reservado,Lima Norte,43
+B0893,Libro Técnico 0893,Cormen,Bases de datos,2018,Disponible,Ate,38
+B0894,Libro Técnico 0894,Sedgewick,Redes,2009,Prestado,Lima Norte,80
+B0895,Libro Técnico 0895,Goodrich,IA,2007,Reservado,Lima Norte,59
+B0896,Libro Técnico 0896,Goodrich,IA,2002,Reservado,Lima Norte,78
+B0897,Libro Técnico 0897,Sedgewick,Redes,2010,Reservado,Lima Norte,0
+B0898,Libro Técnico 0898,Knuth,Seguridad,2006,Mantenimiento,Ate,1
+B0899,Libro Técnico 0899,Cairo,IA,2016,Prestado,Lima Norte,67
+B0900,Libro Técnico 0900,Goodrich,Bases de datos,2014,Disponible,Virtual,0
+B0901,Libro Técnico 0901,Joyanes,Seguridad,2009,Prestado,Virtual,50
+B0902,Libro Técnico 0902,Knuth,Redes,2012,Mantenimiento,Lima Centro,68
+B0903,Libro Técnico 0903,Deitel,Redes,2004,Mantenimiento,Virtual,20
+B0904,Libro Técnico 0904,Joyanes,Redes,2024,Mantenimiento,Lima Norte,45
+B0905,Libro Técnico 0905,Deitel,Seguridad,2007,Disponible,Lima Centro,36
+B0906,Libro Técnico 0906,Cairo,Bases de datos,2013,Mantenimiento,Ate,4
+B0907,Libro Técnico 0907,Joyanes,Seguridad,2007,Mantenimiento,Ate,15
+B0908,Libro Técnico 0908,Sedgewick,IA,2018,Mantenimiento,Lima Centro,41
+B0909,Libro Técnico 0909,Deitel,IA,2017,Mantenimiento,Lima Centro,14
+B0910,Libro Técnico 0910,Cairo,Algoritmos,2005,Prestado,Ate,64
+B0911,Libro Técnico 0911,Cairo,Seguridad,2008,Disponible,Ate,54
+B0912,Libro Técnico 0912,Goodrich,Seguridad,2001,Mantenimiento,Virtual,37
+B0913,Libro Técnico 0913,Knuth,IA,2003,Mantenimiento,Lima Centro,79
+B0914,Libro Técnico 0914,Joyanes,Seguridad,2017,Prestado,Lima Centro,35
+B0915,Libro Técnico 0915,Deitel,Algoritmos,2009,Prestado,Virtual,25
+B0916,Libro Técnico 0916,Sedgewick,Seguridad,2026,Disponible,Lima Centro,24
+B0917,Libro Técnico 0917,Deitel,Software,2021,Prestado,Lima Centro,15
+B0918,Libro Técnico 0918,Joyanes,IA,2002,Reservado,Lima Centro,18
+B0919,Libro Técnico 0919,Sedgewick,Algoritmos,2020,Prestado,Lima Norte,6
+B0920,Libro Técnico 0920,Sedgewick,IA,2017,Reservado,Lima Centro,28
+B0921,Libro Técnico 0921,Knuth,IA,2016,Disponible,Virtual,82
+B0922,Libro Técnico 0922,Cairo,Redes,2004,Reservado,Ate,35
+B0923,Libro Técnico 0923,Knuth,Seguridad,2014,Prestado,Ate,6
+B0924,Libro Técnico 0924,Joyanes,Algoritmos,2001,Disponible,Ate,27
+B0925,Libro Técnico 0925,Knuth,IA,2009,Disponible,Virtual,23
+B0926,Libro Técnico 0926,Knuth,IA,2012,Reservado,Ate,14
+B0927,Libro Técnico 0927,Cairo,Seguridad,2001,Prestado,Ate,46
+B0928,Libro Técnico 0928,Cormen,Redes,2024,Reservado,Lima Centro,83
+B0929,Libro Técnico 0929,Knuth,Bases de datos,2019,Mantenimiento,Lima Norte,13
+B0930,Libro Técnico 0930,Joyanes,Seguridad,2024,Disponible,Lima Norte,75
+B0931,Libro Técnico 0931,Cormen,Bases de datos,2007,Mantenimiento,Lima Norte,9
+B0932,Libro Técnico 0932,Goodrich,Software,2011,Reservado,Virtual,25
+B0933,Libro Técnico 0933,Goodrich,Seguridad,2005,Disponible,Lima Centro,24
+B0934,Libro Técnico 0934,Sedgewick,Software,2023,Reservado,Ate,46
+B0935,Libro Técnico 0935,Sedgewick,Seguridad,2023,Disponible,Virtual,8
+B0936,Libro Técnico 0936,Sedgewick,IA,2017,Disponible,Lima Centro,76
+B0937,Libro Técnico 0937,Knuth,Seguridad,2005,Reservado,Lima Norte,72
+B0938,Libro Técnico 0938,Cairo,Seguridad,2007,Mantenimiento,Virtual,87
+B0939,Libro Técnico 0939,Goodrich,Software,2003,Prestado,Virtual,65
+B0940,Libro Técnico 0940,Sedgewick,Software,2025,Mantenimiento,Virtual,77
+B0941,Libro Técnico 0941,Knuth,Bases de datos,2006,Disponible,Lima Centro,73
+B0942,Libro Técnico 0942,Joyanes,Software,2023,Disponible,Virtual,64
+B0943,Libro Técnico 0943,Cormen,Seguridad,2017,Reservado,Ate,28
+B0944,Libro Técnico 0944,Knuth,Seguridad,2009,Disponible,Lima Centro,28
+B0945,Libro Técnico 0945,Cairo,Software,2008,Reservado,Lima Norte,81
+B0946,Libro Técnico 0946,Joyanes,Redes,2005,Reservado,Lima Norte,82
+B0947,Libro Técnico 0947,Joyanes,Bases de datos,2018,Disponible,Lima Norte,83
+B0948,Libro Técnico 0948,Knuth,Seguridad,2020,Reservado,Ate,10
+B0949,Libro Técnico 0949,Cormen,Software,2009,Prestado,Virtual,78
+B0950,Libro Técnico 0950,Knuth,Redes,2002,Disponible,Ate,28
+B0951,Libro Técnico 0951,Cormen,Redes,2006,Reservado,Lima Norte,68
+B0952,Libro Técnico 0952,Cormen,Software,2004,Mantenimiento,Ate,80
+B0953,Libro Técnico 0953,Cormen,Software,2018,Prestado,Virtual,28
+B0954,Libro Técnico 0954,Knuth,Redes,2007,Mantenimiento,Lima Centro,57
+B0955,Libro Técnico 0955,Joyanes,Seguridad,2024,Mantenimiento,Ate,18
+B0956,Libro Técnico 0956,Sedgewick,Algoritmos,2016,Prestado,Virtual,23
+B0957,Libro Técnico 0957,Deitel,Bases de datos,2007,Mantenimiento,Lima Centro,82
+B0958,Libro Técnico 0958,Knuth,Algoritmos,2010,Prestado,Lima Centro,50
+B0959,Libro Técnico 0959,Cormen,Software,2007,Disponible,Lima Centro,9
+B0960,Libro Técnico 0960,Sedgewick,Bases de datos,2015,Mantenimiento,Lima Norte,67
+B0961,Libro Técnico 0961,Joyanes,Seguridad,2025,Disponible,Lima Norte,48
+B0962,Libro Técnico 0962,Sedgewick,Algoritmos,2004,Disponible,Lima Norte,16
+B0963,Libro Técnico 0963,Joyanes,Algoritmos,2009,Prestado,Lima Norte,1
+B0964,Libro Técnico 0964,Deitel,Algoritmos,2018,Reservado,Lima Norte,25
+B0965,Libro Técnico 0965,Joyanes,IA,2025,Mantenimiento,Lima Centro,39
+B0966,Libro Técnico 0966,Knuth,IA,2005,Prestado,Lima Norte,69
+B0967,Libro Técnico 0967,Cormen,Redes,2021,Disponible,Lima Norte,5
+B0968,Libro Técnico 0968,Cairo,Software,2010,Disponible,Virtual,18
+B0969,Libro Técnico 0969,Cairo,Bases de datos,2001,Prestado,Virtual,49
+B0970,Libro Técnico 0970,Joyanes,Redes,2021,Reservado,Lima Centro,87
+B0971,Libro Técnico 0971,Sedgewick,Seguridad,2023,Disponible,Virtual,21
+B0972,Libro Técnico 0972,Cairo,Bases de datos,2004,Reservado,Ate,9
+B0973,Libro Técnico 0973,Goodrich,Redes,2004,Reservado,Lima Norte,5
+B0974,Libro Técnico 0974,Goodrich,Bases de datos,2006,Mantenimiento,Ate,76
+B0975,Libro Técnico 0975,Joyanes,Seguridad,2014,Prestado,Ate,79
+B0976,Libro Técnico 0976,Deitel,Redes,2012,Disponible,Ate,63
+B0977,Libro Técnico 0977,Cormen,Redes,2009,Disponible,Lima Norte,19
+B0978,Libro Técnico 0978,Deitel,Seguridad,2005,Reservado,Lima Centro,49
+B0979,Libro Técnico 0979,Sedgewick,Seguridad,2026,Mantenimiento,Lima Norte,14
+B0980,Libro Técnico 0980,Goodrich,IA,2024,Reservado,Lima Centro,11
+B0981,Libro Técnico 0981,Knuth,Bases de datos,2006,Mantenimiento,Ate,40
+B0982,Libro Técnico 0982,Sedgewick,IA,2016,Mantenimiento,Ate,17
+B0983,Libro Técnico 0983,Deitel,Seguridad,2008,Mantenimiento,Virtual,70
+B0984,Libro Técnico 0984,Sedgewick,Software,2018,Mantenimiento,Lima Centro,49
+B0985,Libro Técnico 0985,Cairo,Software,2023,Mantenimiento,Lima Centro,89
+B0986,Libro Técnico 0986,Cairo,Bases de datos,2012,Disponible,Lima Centro,2
+B0987,Libro Técnico 0987,Knuth,Software,2016,Prestado,Lima Norte,7
+B0988,Libro Técnico 0988,Knuth,Redes,2025,Prestado,Ate,58
+B0989,Libro Técnico 0989,Joyanes,Software,2014,Prestado,Lima Centro,28
+B0990,Libro Técnico 0990,Cairo,Seguridad,2005,Disponible,Lima Centro,48
+B0991,Libro Técnico 0991,Cormen,Algoritmos,2023,Mantenimiento,Ate,6
+B0992,Libro Técnico 0992,Cormen,Algoritmos,2022,Disponible,Virtual,76
+B0993,Libro Técnico 0993,Deitel,Bases de datos,2001,Prestado,Ate,18
+B0994,Libro Técnico 0994,Cairo,Bases de datos,2003,Disponible,Virtual,19
+B0995,Libro Técnico 0995,Deitel,Bases de datos,2016,Prestado,Ate,60
+B0996,Libro Técnico 0996,Sedgewick,Seguridad,2011,Mantenimiento,Lima Norte,36
+B0997,Libro Técnico 0997,Cairo,Bases de datos,2002,Disponible,Lima Centro,64
+B0998,Libro Técnico 0998,Joyanes,Algoritmos,2013,Mantenimiento,Virtual,70
+B0999,Libro Técnico 0999,Cormen,Redes,2019,Reservado,Lima Centro,54
+B1000,Libro Técnico 1000,Joyanes,Redes,2003,Mantenimiento,Lima Centro,27

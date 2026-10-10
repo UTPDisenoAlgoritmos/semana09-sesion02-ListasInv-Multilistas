@@ -1,0 +1,1001 @@
+id,especialidad,medico,estado,turno,sede,costo,duracionMin
+A0001,Traumatología,Dra. Torres,Atendido,Tarde,Lima Norte,398.48,20
+A0002,Laboratorio,Dra. Torres,Reprogramado,Tarde,Lima Norte,282.05,45
+A0003,Dermatología,Dra. Ramos,Cancelado,Noche,Virtual,497.06,20
+A0004,Cardiología,Dr. Perez,Reprogramado,Tarde,Virtual,282.66,30
+A0005,Traumatología,Dr. Flores,Reprogramado,Tarde,Lima Norte,356.26,60
+A0006,Medicina general,Dra. Torres,Cancelado,Mañana,Lima Norte,235.2,15
+A0007,Traumatología,Dr. Flores,Reprogramado,Tarde,Lima Centro,95.89,30
+A0008,Cardiología,Dra. Torres,Cancelado,Mañana,Ate,387.14,45
+A0009,Traumatología,Dra. Torres,Programado,Mañana,Lima Norte,198.1,45
+A0010,Cardiología,Dr. Vega,Cancelado,Mañana,Ate,159.54,20
+A0011,Medicina general,Dra. Ramos,Cancelado,Tarde,Lima Norte,406.71,15
+A0012,Dermatología,Dr. Vega,Reprogramado,Mañana,Lima Norte,292.63,45
+A0013,Pediatría,Dr. Perez,Reprogramado,Mañana,Ate,144.29,60
+A0014,Cardiología,Dr. Vega,Atendido,Noche,Lima Norte,291.19,30
+A0015,Traumatología,Dra. Ramos,Programado,Tarde,Virtual,160.94,15
+A0016,Cardiología,Dr. Perez,Programado,Mañana,Lima Centro,79.19,30
+A0017,Cardiología,Dra. Torres,Cancelado,Mañana,Lima Centro,154.86,15
+A0018,Medicina general,Dra. Ramos,Programado,Tarde,Virtual,37.03,20
+A0019,Laboratorio,Dra. Torres,Programado,Noche,Virtual,60.64,15
+A0020,Pediatría,Dra. Torres,Programado,Noche,Lima Centro,85.94,45
+A0021,Traumatología,Dr. Vega,Programado,Mañana,Lima Norte,426.68,15
+A0022,Medicina general,Dra. Torres,Cancelado,Tarde,Lima Norte,151.74,45
+A0023,Dermatología,Dr. Perez,Reprogramado,Noche,Virtual,57.11,15
+A0024,Dermatología,Dra. Ramos,Atendido,Tarde,Lima Norte,385.05,30
+A0025,Medicina general,Dr. Vega,Cancelado,Noche,Virtual,433.42,30
+A0026,Cardiología,Dr. Perez,Programado,Mañana,Lima Centro,499.73,30
+A0027,Pediatría,Dr. Flores,Atendido,Noche,Lima Norte,45.98,20
+A0028,Traumatología,Dr. Vega,Reprogramado,Noche,Lima Norte,263.76,45
+A0029,Traumatología,Dr. Perez,Atendido,Tarde,Lima Norte,493.56,15
+A0030,Laboratorio,Dr. Perez,Programado,Noche,Virtual,508.33,20
+A0031,Pediatría,Dra. Torres,Reprogramado,Tarde,Virtual,272.85,15
+A0032,Traumatología,Dra. Torres,Reprogramado,Tarde,Lima Centro,54.55,45
+A0033,Traumatología,Dr. Perez,Programado,Mañana,Ate,300.31,60
+A0034,Cardiología,Dr. Flores,Reprogramado,Noche,Lima Norte,42.14,30
+A0035,Dermatología,Dr. Flores,Atendido,Mañana,Lima Centro,460.02,20
+A0036,Pediatría,Dr. Perez,Reprogramado,Noche,Lima Norte,417.83,45
+A0037,Traumatología,Dra. Ramos,Cancelado,Tarde,Ate,228.23,45
+A0038,Medicina general,Dra. Ramos,Reprogramado,Noche,Ate,67.15,60
+A0039,Dermatología,Dr. Perez,Atendido,Noche,Ate,373.04,20
+A0040,Medicina general,Dr. Flores,Programado,Noche,Lima Norte,441.78,30
+A0041,Pediatría,Dra. Ramos,Programado,Mañana,Virtual,484.96,20
+A0042,Pediatría,Dr. Flores,Programado,Noche,Ate,468.0,20
+A0043,Cardiología,Dra. Torres,Programado,Noche,Lima Centro,315.28,30
+A0044,Traumatología,Dr. Flores,Programado,Mañana,Lima Norte,39.96,15
+A0045,Dermatología,Dra. Ramos,Programado,Mañana,Ate,451.2,15
+A0046,Pediatría,Dr. Perez,Cancelado,Mañana,Virtual,265.99,30
+A0047,Dermatología,Dr. Vega,Reprogramado,Noche,Ate,231.08,20
+A0048,Pediatría,Dr. Vega,Cancelado,Mañana,Ate,301.73,15
+A0049,Medicina general,Dr. Flores,Programado,Mañana,Ate,477.36,45
+A0050,Cardiología,Dra. Torres,Reprogramado,Noche,Virtual,449.93,15
+A0051,Cardiología,Dra. Ramos,Atendido,Noche,Ate,190.66,15
+A0052,Pediatría,Dr. Vega,Programado,Tarde,Virtual,194.82,15
+A0053,Pediatría,Dra. Torres,Cancelado,Noche,Virtual,280.74,30
+A0054,Cardiología,Dr. Flores,Atendido,Tarde,Lima Norte,404.78,60
+A0055,Laboratorio,Dra. Torres,Atendido,Noche,Virtual,44.15,30
+A0056,Cardiología,Dra. Ramos,Cancelado,Tarde,Virtual,409.98,45
+A0057,Pediatría,Dr. Perez,Cancelado,Mañana,Virtual,84.35,45
+A0058,Pediatría,Dr. Perez,Reprogramado,Mañana,Ate,221.37,30
+A0059,Dermatología,Dra. Ramos,Atendido,Tarde,Lima Norte,140.01,45
+A0060,Cardiología,Dr. Flores,Atendido,Noche,Lima Norte,411.51,45
+A0061,Cardiología,Dr. Perez,Cancelado,Noche,Ate,377.25,20
+A0062,Laboratorio,Dr. Perez,Atendido,Noche,Lima Centro,196.18,45
+A0063,Dermatología,Dr. Vega,Reprogramado,Mañana,Virtual,125.18,60
+A0064,Cardiología,Dr. Perez,Reprogramado,Tarde,Virtual,156.58,15
+A0065,Laboratorio,Dra. Ramos,Atendido,Mañana,Virtual,493.61,20
+A0066,Cardiología,Dra. Torres,Reprogramado,Tarde,Virtual,370.44,30
+A0067,Traumatología,Dra. Torres,Atendido,Noche,Virtual,385.19,45
+A0068,Traumatología,Dr. Perez,Reprogramado,Noche,Lima Norte,421.71,60
+A0069,Traumatología,Dra. Ramos,Atendido,Mañana,Lima Norte,371.55,30
+A0070,Pediatría,Dr. Flores,Programado,Tarde,Lima Norte,368.34,60
+A0071,Pediatría,Dra. Ramos,Atendido,Noche,Virtual,394.97,30
+A0072,Traumatología,Dra. Ramos,Reprogramado,Tarde,Lima Norte,187.42,30
+A0073,Laboratorio,Dra. Ramos,Programado,Noche,Virtual,277.59,45
+A0074,Laboratorio,Dr. Flores,Cancelado,Tarde,Lima Centro,246.62,15
+A0075,Traumatología,Dr. Perez,Atendido,Noche,Ate,106.37,20
+A0076,Laboratorio,Dra. Torres,Reprogramado,Noche,Lima Centro,255.89,20
+A0077,Pediatría,Dr. Perez,Atendido,Mañana,Lima Centro,268.84,15
+A0078,Medicina general,Dra. Ramos,Cancelado,Noche,Virtual,241.57,15
+A0079,Laboratorio,Dr. Perez,Reprogramado,Mañana,Lima Norte,413.03,20
+A0080,Traumatología,Dr. Vega,Cancelado,Mañana,Ate,165.08,60
+A0081,Laboratorio,Dr. Vega,Atendido,Mañana,Ate,120.22,15
+A0082,Laboratorio,Dr. Vega,Programado,Mañana,Lima Centro,125.78,20
+A0083,Dermatología,Dra. Ramos,Programado,Mañana,Ate,124.43,45
+A0084,Cardiología,Dra. Ramos,Programado,Mañana,Virtual,299.99,15
+A0085,Laboratorio,Dra. Ramos,Programado,Mañana,Lima Norte,229.03,20
+A0086,Laboratorio,Dr. Perez,Cancelado,Noche,Lima Norte,491.56,30
+A0087,Traumatología,Dra. Torres,Atendido,Mañana,Virtual,440.04,20
+A0088,Cardiología,Dr. Flores,Reprogramado,Noche,Lima Centro,448.61,45
+A0089,Pediatría,Dr. Vega,Cancelado,Tarde,Virtual,509.76,60
+A0090,Medicina general,Dr. Vega,Atendido,Noche,Lima Norte,394.59,30
+A0091,Cardiología,Dr. Perez,Atendido,Tarde,Ate,87.73,60
+A0092,Pediatría,Dr. Vega,Atendido,Mañana,Virtual,374.85,45
+A0093,Pediatría,Dr. Vega,Programado,Mañana,Lima Norte,433.79,20
+A0094,Cardiología,Dr. Perez,Cancelado,Noche,Virtual,63.86,45
+A0095,Dermatología,Dra. Ramos,Reprogramado,Tarde,Ate,434.67,45
+A0096,Pediatría,Dr. Vega,Cancelado,Tarde,Lima Centro,320.23,30
+A0097,Traumatología,Dr. Vega,Cancelado,Mañana,Virtual,385.55,60
+A0098,Traumatología,Dra. Ramos,Cancelado,Mañana,Virtual,397.87,30
+A0099,Laboratorio,Dr. Perez,Atendido,Mañana,Lima Norte,357.58,15
+A0100,Traumatología,Dra. Torres,Programado,Mañana,Lima Centro,409.25,30
+A0101,Cardiología,Dra. Torres,Programado,Tarde,Ate,297.97,15
+A0102,Traumatología,Dra. Torres,Atendido,Mañana,Ate,499.2,20
+A0103,Pediatría,Dra. Torres,Programado,Mañana,Lima Centro,208.4,15
+A0104,Pediatría,Dr. Flores,Cancelado,Tarde,Lima Norte,90.06,20
+A0105,Cardiología,Dr. Flores,Cancelado,Noche,Lima Norte,144.63,45
+A0106,Traumatología,Dr. Vega,Cancelado,Noche,Lima Centro,337.53,20
+A0107,Pediatría,Dra. Torres,Cancelado,Mañana,Virtual,480.78,60
+A0108,Laboratorio,Dra. Torres,Programado,Noche,Lima Norte,203.21,60
+A0109,Dermatología,Dra. Torres,Programado,Mañana,Ate,400.04,15
+A0110,Pediatría,Dr. Vega,Programado,Tarde,Ate,399.41,45
+A0111,Cardiología,Dr. Vega,Atendido,Mañana,Lima Norte,104.18,45
+A0112,Laboratorio,Dra. Torres,Programado,Tarde,Virtual,184.86,30
+A0113,Cardiología,Dra. Torres,Programado,Mañana,Virtual,123.39,30
+A0114,Dermatología,Dr. Perez,Atendido,Tarde,Ate,336.74,15
+A0115,Traumatología,Dra. Torres,Atendido,Tarde,Virtual,71.87,20
+A0116,Medicina general,Dra. Ramos,Cancelado,Mañana,Virtual,97.13,45
+A0117,Cardiología,Dra. Ramos,Cancelado,Mañana,Virtual,157.16,15
+A0118,Pediatría,Dr. Perez,Reprogramado,Mañana,Virtual,427.2,20
+A0119,Medicina general,Dr. Perez,Atendido,Noche,Ate,187.97,20
+A0120,Cardiología,Dr. Perez,Atendido,Mañana,Lima Norte,65.46,20
+A0121,Cardiología,Dr. Flores,Programado,Tarde,Lima Norte,166.39,20
+A0122,Medicina general,Dr. Vega,Programado,Tarde,Lima Centro,358.1,15
+A0123,Traumatología,Dra. Ramos,Reprogramado,Noche,Virtual,344.29,30
+A0124,Laboratorio,Dr. Vega,Atendido,Tarde,Ate,452.09,20
+A0125,Medicina general,Dr. Vega,Atendido,Noche,Ate,339.72,30
+A0126,Dermatología,Dr. Vega,Programado,Noche,Lima Centro,391.94,15
+A0127,Cardiología,Dr. Vega,Reprogramado,Tarde,Lima Norte,244.24,45
+A0128,Traumatología,Dra. Torres,Atendido,Mañana,Lima Centro,320.62,60
+A0129,Laboratorio,Dr. Flores,Programado,Tarde,Lima Norte,115.48,45
+A0130,Dermatología,Dr. Vega,Cancelado,Tarde,Ate,62.81,60
+A0131,Cardiología,Dr. Vega,Cancelado,Noche,Lima Centro,437.33,60
+A0132,Pediatría,Dr. Flores,Reprogramado,Noche,Virtual,100.46,20
+A0133,Medicina general,Dr. Vega,Cancelado,Tarde,Virtual,95.78,60
+A0134,Pediatría,Dr. Flores,Cancelado,Mañana,Ate,392.5,15
+A0135,Traumatología,Dra. Ramos,Atendido,Noche,Lima Centro,118.72,30
+A0136,Medicina general,Dr. Perez,Atendido,Tarde,Virtual,116.48,30
+A0137,Laboratorio,Dra. Torres,Reprogramado,Mañana,Ate,462.19,15
+A0138,Medicina general,Dra. Torres,Atendido,Mañana,Ate,77.29,60
+A0139,Traumatología,Dra. Torres,Programado,Mañana,Virtual,226.29,45
+A0140,Medicina general,Dra. Torres,Reprogramado,Tarde,Lima Norte,162.2,30
+A0141,Medicina general,Dr. Vega,Cancelado,Tarde,Lima Centro,124.78,45
+A0142,Cardiología,Dr. Perez,Programado,Noche,Lima Centro,333.04,15
+A0143,Dermatología,Dr. Perez,Atendido,Mañana,Ate,405.06,60
+A0144,Traumatología,Dra. Torres,Atendido,Mañana,Ate,440.63,15
+A0145,Medicina general,Dr. Vega,Atendido,Tarde,Lima Norte,371.99,45
+A0146,Medicina general,Dr. Vega,Atendido,Tarde,Virtual,354.65,30
+A0147,Laboratorio,Dr. Flores,Reprogramado,Mañana,Virtual,438.01,15
+A0148,Laboratorio,Dra. Ramos,Atendido,Tarde,Ate,140.92,60
+A0149,Dermatología,Dr. Flores,Programado,Mañana,Ate,145.71,20
+A0150,Pediatría,Dr. Flores,Reprogramado,Mañana,Virtual,435.69,20
+A0151,Pediatría,Dr. Perez,Atendido,Mañana,Virtual,90.61,60
+A0152,Cardiología,Dr. Flores,Programado,Tarde,Ate,101.55,20
+A0153,Dermatología,Dr. Perez,Reprogramado,Tarde,Ate,471.47,30
+A0154,Medicina general,Dra. Torres,Reprogramado,Mañana,Virtual,262.89,45
+A0155,Traumatología,Dr. Flores,Reprogramado,Tarde,Lima Norte,239.67,20
+A0156,Cardiología,Dr. Vega,Cancelado,Mañana,Lima Norte,432.11,45
+A0157,Medicina general,Dra. Ramos,Cancelado,Tarde,Lima Norte,283.12,45
+A0158,Medicina general,Dr. Perez,Reprogramado,Noche,Lima Centro,118.63,20
+A0159,Medicina general,Dra. Torres,Cancelado,Noche,Lima Centro,250.97,30
+A0160,Cardiología,Dr. Perez,Reprogramado,Mañana,Lima Centro,165.3,45
+A0161,Cardiología,Dra. Torres,Reprogramado,Noche,Ate,252.59,15
+A0162,Pediatría,Dr. Flores,Cancelado,Noche,Ate,396.5,45
+A0163,Pediatría,Dra. Ramos,Programado,Tarde,Virtual,118.88,60
+A0164,Laboratorio,Dr. Flores,Programado,Noche,Lima Norte,509.94,15
+A0165,Traumatología,Dr. Flores,Atendido,Noche,Ate,338.52,30
+A0166,Laboratorio,Dr. Flores,Atendido,Mañana,Virtual,387.16,20
+A0167,Cardiología,Dr. Vega,Programado,Mañana,Lima Centro,266.32,15
+A0168,Cardiología,Dra. Ramos,Programado,Tarde,Virtual,445.52,45
+A0169,Dermatología,Dr. Perez,Cancelado,Mañana,Virtual,280.02,60
+A0170,Cardiología,Dr. Flores,Atendido,Tarde,Lima Norte,227.15,45
+A0171,Medicina general,Dr. Vega,Reprogramado,Noche,Ate,461.06,30
+A0172,Laboratorio,Dra. Ramos,Atendido,Noche,Virtual,401.18,45
+A0173,Traumatología,Dr. Perez,Cancelado,Noche,Ate,462.9,15
+A0174,Traumatología,Dr. Flores,Programado,Mañana,Lima Centro,254.61,20
+A0175,Traumatología,Dr. Perez,Programado,Noche,Ate,197.24,45
+A0176,Dermatología,Dr. Vega,Reprogramado,Mañana,Ate,508.5,30
+A0177,Laboratorio,Dra. Ramos,Programado,Tarde,Lima Norte,145.53,20
+A0178,Laboratorio,Dr. Flores,Reprogramado,Noche,Lima Centro,137.47,45
+A0179,Laboratorio,Dra. Ramos,Atendido,Mañana,Virtual,263.44,15
+A0180,Traumatología,Dra. Torres,Atendido,Noche,Lima Centro,239.01,45
+A0181,Traumatología,Dr. Flores,Programado,Noche,Lima Norte,408.98,45
+A0182,Traumatología,Dr. Vega,Reprogramado,Tarde,Lima Centro,278.65,30
+A0183,Dermatología,Dr. Vega,Programado,Tarde,Virtual,399.44,60
+A0184,Laboratorio,Dra. Torres,Cancelado,Noche,Lima Centro,372.74,60
+A0185,Traumatología,Dra. Ramos,Reprogramado,Mañana,Ate,422.43,30
+A0186,Medicina general,Dr. Flores,Atendido,Mañana,Lima Norte,371.82,15
+A0187,Cardiología,Dr. Vega,Reprogramado,Noche,Lima Norte,299.36,45
+A0188,Dermatología,Dra. Ramos,Programado,Tarde,Virtual,134.88,15
+A0189,Medicina general,Dra. Ramos,Atendido,Noche,Lima Norte,265.16,60
+A0190,Traumatología,Dra. Torres,Programado,Noche,Lima Centro,272.91,60
+A0191,Pediatría,Dra. Ramos,Cancelado,Mañana,Lima Centro,259.87,45
+A0192,Dermatología,Dr. Perez,Reprogramado,Tarde,Ate,118.23,60
+A0193,Cardiología,Dra. Torres,Programado,Mañana,Lima Centro,506.65,15
+A0194,Dermatología,Dra. Torres,Cancelado,Tarde,Lima Norte,89.78,30
+A0195,Traumatología,Dr. Vega,Reprogramado,Tarde,Lima Norte,517.03,60
+A0196,Pediatría,Dr. Perez,Cancelado,Noche,Virtual,127.08,30
+A0197,Cardiología,Dr. Vega,Atendido,Tarde,Lima Centro,307.28,60
+A0198,Dermatología,Dr. Flores,Atendido,Mañana,Lima Centro,414.66,15
+A0199,Laboratorio,Dr. Vega,Programado,Tarde,Virtual,278.47,15
+A0200,Laboratorio,Dra. Ramos,Cancelado,Noche,Lima Centro,363.73,30
+A0201,Dermatología,Dr. Vega,Programado,Mañana,Virtual,350.49,30
+A0202,Traumatología,Dra. Torres,Programado,Tarde,Lima Norte,131.86,45
+A0203,Medicina general,Dr. Perez,Reprogramado,Mañana,Lima Centro,234.95,30
+A0204,Medicina general,Dra. Ramos,Programado,Mañana,Lima Norte,283.89,60
+A0205,Medicina general,Dr. Vega,Programado,Tarde,Lima Centro,230.02,60
+A0206,Pediatría,Dr. Vega,Reprogramado,Noche,Lima Centro,350.87,30
+A0207,Cardiología,Dr. Vega,Cancelado,Mañana,Lima Norte,256.96,60
+A0208,Traumatología,Dr. Vega,Cancelado,Noche,Lima Centro,346.17,45
+A0209,Dermatología,Dr. Flores,Programado,Mañana,Virtual,296.82,45
+A0210,Traumatología,Dr. Perez,Reprogramado,Mañana,Lima Centro,422.91,45
+A0211,Laboratorio,Dra. Torres,Programado,Noche,Lima Norte,292.24,15
+A0212,Pediatría,Dr. Vega,Programado,Tarde,Lima Norte,343.27,20
+A0213,Laboratorio,Dra. Torres,Cancelado,Tarde,Ate,140.9,60
+A0214,Laboratorio,Dra. Torres,Cancelado,Tarde,Virtual,471.5,15
+A0215,Pediatría,Dr. Perez,Cancelado,Noche,Lima Centro,179.65,30
+A0216,Pediatría,Dra. Ramos,Programado,Noche,Lima Norte,490.31,20
+A0217,Pediatría,Dra. Ramos,Cancelado,Mañana,Lima Norte,123.58,30
+A0218,Traumatología,Dra. Ramos,Reprogramado,Noche,Lima Norte,156.21,45
+A0219,Dermatología,Dra. Ramos,Programado,Mañana,Ate,152.51,30
+A0220,Pediatría,Dr. Flores,Programado,Tarde,Ate,142.82,45
+A0221,Cardiología,Dr. Vega,Programado,Noche,Virtual,418.04,30
+A0222,Dermatología,Dr. Perez,Atendido,Tarde,Ate,442.59,60
+A0223,Traumatología,Dra. Torres,Programado,Tarde,Virtual,519.07,20
+A0224,Traumatología,Dr. Flores,Cancelado,Noche,Virtual,234.39,20
+A0225,Pediatría,Dra. Torres,Reprogramado,Mañana,Virtual,230.57,45
+A0226,Traumatología,Dr. Vega,Reprogramado,Tarde,Lima Norte,97.73,60
+A0227,Cardiología,Dr. Vega,Reprogramado,Noche,Lima Centro,100.42,15
+A0228,Cardiología,Dra. Torres,Reprogramado,Mañana,Lima Centro,501.2,60
+A0229,Traumatología,Dra. Torres,Programado,Tarde,Virtual,228.11,45
+A0230,Traumatología,Dr. Vega,Reprogramado,Mañana,Lima Centro,467.88,45
+A0231,Traumatología,Dr. Vega,Atendido,Noche,Lima Centro,139.44,60
+A0232,Dermatología,Dra. Ramos,Reprogramado,Noche,Virtual,379.41,45
+A0233,Traumatología,Dra. Torres,Cancelado,Tarde,Lima Norte,181.04,20
+A0234,Cardiología,Dr. Vega,Atendido,Mañana,Ate,469.18,20
+A0235,Medicina general,Dr. Flores,Atendido,Noche,Lima Centro,508.38,60
+A0236,Medicina general,Dra. Torres,Atendido,Tarde,Lima Norte,49.23,15
+A0237,Cardiología,Dr. Flores,Programado,Noche,Virtual,486.02,20
+A0238,Traumatología,Dr. Perez,Cancelado,Noche,Lima Centro,448.66,30
+A0239,Dermatología,Dr. Vega,Programado,Mañana,Ate,92.33,20
+A0240,Traumatología,Dr. Vega,Reprogramado,Tarde,Lima Centro,472.05,60
+A0241,Laboratorio,Dra. Torres,Programado,Noche,Virtual,347.55,45
+A0242,Cardiología,Dra. Torres,Atendido,Tarde,Lima Norte,194.81,20
+A0243,Medicina general,Dr. Vega,Atendido,Mañana,Ate,438.35,15
+A0244,Traumatología,Dra. Ramos,Reprogramado,Tarde,Lima Norte,336.86,30
+A0245,Traumatología,Dr. Vega,Reprogramado,Mañana,Lima Norte,349.78,30
+A0246,Laboratorio,Dr. Vega,Atendido,Mañana,Lima Norte,264.82,30
+A0247,Pediatría,Dr. Perez,Reprogramado,Noche,Virtual,233.38,60
+A0248,Laboratorio,Dr. Vega,Cancelado,Tarde,Lima Centro,402.48,30
+A0249,Medicina general,Dr. Flores,Atendido,Tarde,Virtual,159.95,20
+A0250,Cardiología,Dra. Torres,Programado,Noche,Lima Centro,268.85,60
+A0251,Cardiología,Dra. Ramos,Programado,Mañana,Lima Norte,275.66,45
+A0252,Pediatría,Dra. Torres,Programado,Tarde,Ate,65.12,45
+A0253,Medicina general,Dr. Vega,Atendido,Mañana,Lima Centro,372.08,60
+A0254,Dermatología,Dr. Vega,Programado,Noche,Lima Centro,285.08,20
+A0255,Pediatría,Dra. Ramos,Programado,Mañana,Ate,389.9,30
+A0256,Cardiología,Dr. Flores,Reprogramado,Tarde,Lima Norte,413.17,45
+A0257,Laboratorio,Dr. Perez,Reprogramado,Noche,Virtual,455.01,20
+A0258,Cardiología,Dr. Perez,Programado,Noche,Virtual,235.57,15
+A0259,Traumatología,Dr. Perez,Reprogramado,Noche,Lima Norte,509.07,60
+A0260,Cardiología,Dr. Perez,Reprogramado,Noche,Lima Centro,501.09,20
+A0261,Traumatología,Dr. Vega,Cancelado,Mañana,Ate,205.56,20
+A0262,Cardiología,Dr. Perez,Programado,Noche,Ate,281.81,30
+A0263,Cardiología,Dr. Vega,Programado,Noche,Lima Norte,190.67,45
+A0264,Cardiología,Dr. Flores,Reprogramado,Noche,Ate,155.71,15
+A0265,Laboratorio,Dr. Perez,Reprogramado,Tarde,Lima Norte,59.53,15
+A0266,Traumatología,Dra. Torres,Programado,Noche,Ate,189.68,30
+A0267,Medicina general,Dr. Vega,Cancelado,Mañana,Lima Centro,328.04,60
+A0268,Pediatría,Dra. Torres,Programado,Noche,Lima Norte,365.27,60
+A0269,Laboratorio,Dra. Ramos,Atendido,Noche,Lima Norte,150.7,30
+A0270,Traumatología,Dr. Vega,Reprogramado,Noche,Ate,339.75,15
+A0271,Dermatología,Dra. Ramos,Programado,Mañana,Virtual,191.02,60
+A0272,Dermatología,Dr. Flores,Programado,Tarde,Ate,370.64,60
+A0273,Pediatría,Dra. Torres,Atendido,Tarde,Virtual,99.09,15
+A0274,Pediatría,Dr. Vega,Reprogramado,Tarde,Ate,447.25,60
+A0275,Traumatología,Dr. Perez,Reprogramado,Tarde,Lima Norte,280.21,60
+A0276,Traumatología,Dra. Ramos,Programado,Noche,Lima Centro,54.9,15
+A0277,Traumatología,Dr. Vega,Programado,Noche,Ate,454.84,15
+A0278,Medicina general,Dra. Torres,Atendido,Tarde,Virtual,83.63,30
+A0279,Traumatología,Dr. Flores,Cancelado,Noche,Lima Norte,201.31,45
+A0280,Pediatría,Dra. Torres,Programado,Mañana,Virtual,50.69,45
+A0281,Dermatología,Dra. Torres,Atendido,Mañana,Ate,144.56,45
+A0282,Dermatología,Dr. Perez,Reprogramado,Tarde,Ate,211.23,30
+A0283,Cardiología,Dra. Ramos,Programado,Noche,Lima Centro,480.49,20
+A0284,Medicina general,Dra. Ramos,Programado,Tarde,Virtual,396.76,60
+A0285,Traumatología,Dr. Flores,Atendido,Noche,Ate,239.29,45
+A0286,Laboratorio,Dra. Ramos,Atendido,Tarde,Lima Centro,155.38,60
+A0287,Laboratorio,Dr. Perez,Cancelado,Mañana,Lima Norte,101.87,45
+A0288,Medicina general,Dr. Vega,Cancelado,Mañana,Lima Centro,216.38,60
+A0289,Laboratorio,Dr. Perez,Atendido,Tarde,Virtual,58.48,15
+A0290,Laboratorio,Dra. Torres,Programado,Tarde,Virtual,150.77,15
+A0291,Cardiología,Dr. Perez,Atendido,Noche,Lima Norte,348.78,45
+A0292,Cardiología,Dr. Perez,Programado,Mañana,Lima Centro,319.52,60
+A0293,Medicina general,Dra. Torres,Programado,Noche,Lima Centro,344.96,20
+A0294,Cardiología,Dra. Torres,Programado,Noche,Ate,199.4,20
+A0295,Laboratorio,Dr. Flores,Reprogramado,Noche,Ate,147.16,15
+A0296,Traumatología,Dra. Torres,Reprogramado,Mañana,Lima Norte,337.29,60
+A0297,Laboratorio,Dr. Perez,Atendido,Tarde,Ate,479.86,45
+A0298,Cardiología,Dr. Flores,Cancelado,Tarde,Lima Centro,56.26,30
+A0299,Dermatología,Dr. Vega,Cancelado,Noche,Ate,483.98,20
+A0300,Traumatología,Dr. Perez,Programado,Noche,Lima Norte,340.85,15
+A0301,Dermatología,Dr. Vega,Reprogramado,Tarde,Ate,291.76,30
+A0302,Cardiología,Dr. Flores,Reprogramado,Tarde,Lima Centro,455.47,60
+A0303,Dermatología,Dr. Flores,Atendido,Mañana,Virtual,334.02,15
+A0304,Cardiología,Dra. Ramos,Reprogramado,Mañana,Lima Centro,505.21,45
+A0305,Medicina general,Dra. Ramos,Atendido,Tarde,Virtual,49.78,15
+A0306,Cardiología,Dra. Ramos,Atendido,Tarde,Virtual,42.78,20
+A0307,Cardiología,Dr. Perez,Cancelado,Noche,Ate,48.18,30
+A0308,Pediatría,Dr. Perez,Programado,Tarde,Lima Centro,364.5,15
+A0309,Laboratorio,Dra. Ramos,Programado,Tarde,Virtual,61.17,60
+A0310,Laboratorio,Dr. Vega,Programado,Tarde,Lima Centro,121.93,30
+A0311,Medicina general,Dra. Torres,Atendido,Noche,Ate,184.18,60
+A0312,Cardiología,Dr. Perez,Reprogramado,Tarde,Ate,138.69,30
+A0313,Dermatología,Dra. Ramos,Programado,Tarde,Virtual,94.71,15
+A0314,Dermatología,Dr. Vega,Reprogramado,Tarde,Ate,446.09,45
+A0315,Traumatología,Dra. Torres,Reprogramado,Tarde,Virtual,464.31,60
+A0316,Pediatría,Dra. Torres,Cancelado,Noche,Virtual,162.96,60
+A0317,Laboratorio,Dra. Ramos,Programado,Tarde,Virtual,58.85,20
+A0318,Pediatría,Dra. Ramos,Reprogramado,Noche,Lima Norte,297.9,20
+A0319,Medicina general,Dr. Perez,Atendido,Mañana,Lima Norte,327.68,45
+A0320,Laboratorio,Dra. Torres,Atendido,Mañana,Lima Centro,369.75,60
+A0321,Dermatología,Dra. Ramos,Atendido,Noche,Lima Centro,137.01,45
+A0322,Cardiología,Dr. Flores,Programado,Mañana,Lima Centro,191.25,20
+A0323,Laboratorio,Dra. Ramos,Reprogramado,Noche,Lima Centro,160.27,45
+A0324,Laboratorio,Dra. Torres,Atendido,Mañana,Ate,351.08,15
+A0325,Pediatría,Dra. Torres,Atendido,Mañana,Lima Norte,156.91,15
+A0326,Medicina general,Dra. Ramos,Atendido,Mañana,Lima Centro,285.39,30
+A0327,Pediatría,Dra. Torres,Cancelado,Tarde,Lima Norte,328.26,60
+A0328,Pediatría,Dr. Vega,Programado,Noche,Virtual,195.73,30
+A0329,Medicina general,Dr. Flores,Cancelado,Noche,Ate,96.52,45
+A0330,Medicina general,Dra. Ramos,Cancelado,Tarde,Lima Norte,132.84,20
+A0331,Medicina general,Dr. Perez,Programado,Noche,Virtual,417.47,20
+A0332,Pediatría,Dra. Torres,Atendido,Tarde,Lima Centro,478.1,45
+A0333,Laboratorio,Dra. Ramos,Reprogramado,Mañana,Lima Centro,490.53,45
+A0334,Dermatología,Dr. Vega,Programado,Tarde,Virtual,485.36,45
+A0335,Medicina general,Dra. Ramos,Programado,Mañana,Ate,60.39,45
+A0336,Medicina general,Dr. Flores,Cancelado,Mañana,Ate,100.61,30
+A0337,Medicina general,Dr. Perez,Reprogramado,Noche,Ate,388.04,20
+A0338,Laboratorio,Dr. Flores,Programado,Noche,Virtual,264.52,30
+A0339,Traumatología,Dra. Torres,Reprogramado,Tarde,Virtual,101.79,60
+A0340,Medicina general,Dra. Ramos,Atendido,Mañana,Lima Norte,153.88,45
+A0341,Pediatría,Dr. Vega,Cancelado,Noche,Virtual,463.27,30
+A0342,Laboratorio,Dr. Perez,Cancelado,Noche,Virtual,164.62,60
+A0343,Laboratorio,Dr. Vega,Atendido,Mañana,Lima Centro,510.76,60
+A0344,Dermatología,Dra. Ramos,Cancelado,Noche,Lima Norte,159.98,60
+A0345,Laboratorio,Dr. Perez,Cancelado,Tarde,Lima Norte,455.39,60
+A0346,Dermatología,Dra. Torres,Atendido,Tarde,Virtual,178.85,20
+A0347,Pediatría,Dra. Torres,Cancelado,Tarde,Lima Norte,98.42,20
+A0348,Dermatología,Dr. Vega,Programado,Noche,Lima Norte,194.83,30
+A0349,Traumatología,Dr. Flores,Atendido,Tarde,Lima Norte,36.98,15
+A0350,Pediatría,Dra. Ramos,Reprogramado,Noche,Lima Centro,101.67,20
+A0351,Traumatología,Dr. Vega,Cancelado,Tarde,Ate,118.72,20
+A0352,Cardiología,Dra. Ramos,Reprogramado,Noche,Virtual,66.14,60
+A0353,Traumatología,Dr. Vega,Atendido,Mañana,Lima Centro,253.37,60
+A0354,Dermatología,Dra. Ramos,Programado,Tarde,Ate,67.69,60
+A0355,Medicina general,Dra. Ramos,Programado,Noche,Lima Centro,373.49,30
+A0356,Traumatología,Dr. Flores,Reprogramado,Tarde,Virtual,397.58,60
+A0357,Traumatología,Dr. Vega,Cancelado,Tarde,Lima Norte,400.22,30
+A0358,Traumatología,Dra. Ramos,Reprogramado,Noche,Ate,310.17,45
+A0359,Pediatría,Dr. Vega,Atendido,Mañana,Virtual,109.77,45
+A0360,Medicina general,Dr. Perez,Programado,Noche,Lima Centro,237.33,45
+A0361,Laboratorio,Dra. Torres,Programado,Mañana,Virtual,191.49,30
+A0362,Dermatología,Dra. Ramos,Reprogramado,Tarde,Ate,277.14,60
+A0363,Laboratorio,Dr. Flores,Cancelado,Tarde,Virtual,205.75,20
+A0364,Cardiología,Dra. Ramos,Reprogramado,Tarde,Lima Norte,38.32,45
+A0365,Traumatología,Dra. Ramos,Cancelado,Noche,Virtual,427.05,20
+A0366,Cardiología,Dr. Perez,Cancelado,Mañana,Virtual,220.57,30
+A0367,Cardiología,Dr. Perez,Atendido,Mañana,Ate,452.86,30
+A0368,Medicina general,Dr. Vega,Reprogramado,Tarde,Lima Norte,104.7,20
+A0369,Pediatría,Dr. Vega,Reprogramado,Noche,Virtual,43.24,20
+A0370,Cardiología,Dra. Ramos,Programado,Noche,Lima Norte,254.53,20
+A0371,Laboratorio,Dra. Torres,Programado,Noche,Ate,427.8,30
+A0372,Pediatría,Dra. Torres,Reprogramado,Mañana,Lima Centro,56.93,30
+A0373,Dermatología,Dr. Perez,Atendido,Mañana,Ate,397.15,20
+A0374,Cardiología,Dr. Vega,Programado,Noche,Virtual,344.42,60
+A0375,Laboratorio,Dr. Vega,Reprogramado,Noche,Virtual,100.44,30
+A0376,Cardiología,Dra. Torres,Cancelado,Mañana,Lima Centro,210.85,60
+A0377,Cardiología,Dr. Vega,Programado,Tarde,Ate,478.47,45
+A0378,Pediatría,Dr. Flores,Reprogramado,Noche,Virtual,180.09,60
+A0379,Medicina general,Dr. Vega,Cancelado,Tarde,Lima Centro,312.92,15
+A0380,Cardiología,Dr. Vega,Programado,Mañana,Virtual,35.53,60
+A0381,Cardiología,Dr. Flores,Atendido,Noche,Lima Norte,423.69,15
+A0382,Cardiología,Dr. Vega,Atendido,Tarde,Ate,331.1,15
+A0383,Laboratorio,Dra. Torres,Cancelado,Mañana,Lima Norte,145.27,60
+A0384,Dermatología,Dra. Ramos,Reprogramado,Tarde,Ate,293.31,45
+A0385,Cardiología,Dr. Vega,Cancelado,Mañana,Ate,67.35,45
+A0386,Dermatología,Dr. Flores,Atendido,Mañana,Lima Norte,277.92,20
+A0387,Traumatología,Dr. Flores,Reprogramado,Noche,Ate,86.42,45
+A0388,Pediatría,Dra. Torres,Atendido,Mañana,Virtual,50.1,30
+A0389,Dermatología,Dr. Vega,Reprogramado,Noche,Ate,115.39,45
+A0390,Laboratorio,Dr. Flores,Atendido,Mañana,Virtual,128.35,15
+A0391,Laboratorio,Dra. Ramos,Atendido,Noche,Lima Centro,353.74,15
+A0392,Cardiología,Dr. Perez,Programado,Tarde,Lima Centro,178.03,20
+A0393,Laboratorio,Dr. Flores,Cancelado,Noche,Ate,235.94,60
+A0394,Traumatología,Dr. Perez,Reprogramado,Mañana,Lima Centro,99.76,20
+A0395,Pediatría,Dra. Ramos,Programado,Tarde,Lima Norte,510.64,20
+A0396,Pediatría,Dra. Ramos,Programado,Mañana,Virtual,188.43,30
+A0397,Dermatología,Dr. Vega,Reprogramado,Mañana,Ate,427.81,45
+A0398,Traumatología,Dr. Flores,Cancelado,Mañana,Virtual,239.05,30
+A0399,Cardiología,Dra. Torres,Programado,Noche,Lima Norte,443.85,20
+A0400,Laboratorio,Dr. Vega,Programado,Tarde,Lima Norte,190.4,60
+A0401,Medicina general,Dr. Vega,Cancelado,Tarde,Virtual,116.31,60
+A0402,Pediatría,Dr. Vega,Cancelado,Noche,Virtual,234.35,60
+A0403,Medicina general,Dra. Torres,Programado,Noche,Virtual,228.32,20
+A0404,Pediatría,Dr. Vega,Reprogramado,Noche,Lima Norte,122.5,60
+A0405,Medicina general,Dr. Flores,Programado,Noche,Lima Norte,110.02,60
+A0406,Dermatología,Dr. Vega,Reprogramado,Noche,Lima Norte,282.71,20
+A0407,Medicina general,Dra. Ramos,Programado,Tarde,Virtual,381.91,60
+A0408,Medicina general,Dr. Perez,Programado,Tarde,Lima Centro,141.43,20
+A0409,Traumatología,Dr. Vega,Atendido,Tarde,Lima Centro,143.59,60
+A0410,Dermatología,Dra. Ramos,Cancelado,Noche,Virtual,481.84,20
+A0411,Dermatología,Dr. Flores,Programado,Tarde,Virtual,194.03,60
+A0412,Traumatología,Dra. Ramos,Atendido,Mañana,Ate,206.84,45
+A0413,Medicina general,Dra. Ramos,Reprogramado,Mañana,Lima Norte,406.48,20
+A0414,Medicina general,Dr. Flores,Cancelado,Tarde,Lima Norte,365.45,30
+A0415,Laboratorio,Dr. Perez,Cancelado,Mañana,Lima Norte,289.53,60
+A0416,Traumatología,Dra. Torres,Cancelado,Noche,Ate,162.75,30
+A0417,Cardiología,Dr. Vega,Atendido,Mañana,Lima Norte,186.01,30
+A0418,Laboratorio,Dr. Perez,Programado,Mañana,Lima Centro,509.22,30
+A0419,Medicina general,Dra. Torres,Reprogramado,Noche,Virtual,90.21,45
+A0420,Traumatología,Dr. Vega,Programado,Noche,Lima Norte,317.65,45
+A0421,Laboratorio,Dr. Vega,Reprogramado,Noche,Lima Norte,458.75,20
+A0422,Pediatría,Dr. Flores,Cancelado,Tarde,Virtual,283.5,30
+A0423,Laboratorio,Dra. Ramos,Cancelado,Mañana,Lima Centro,432.41,45
+A0424,Dermatología,Dra. Ramos,Cancelado,Mañana,Lima Norte,244.52,20
+A0425,Traumatología,Dr. Flores,Reprogramado,Mañana,Virtual,280.43,20
+A0426,Medicina general,Dr. Flores,Reprogramado,Tarde,Virtual,377.61,20
+A0427,Traumatología,Dra. Torres,Reprogramado,Mañana,Lima Norte,281.89,60
+A0428,Dermatología,Dra. Torres,Programado,Mañana,Lima Norte,195.74,30
+A0429,Dermatología,Dr. Flores,Atendido,Mañana,Lima Centro,119.9,15
+A0430,Laboratorio,Dr. Flores,Programado,Noche,Ate,339.01,30
+A0431,Traumatología,Dra. Torres,Reprogramado,Tarde,Lima Norte,494.17,20
+A0432,Cardiología,Dr. Flores,Reprogramado,Tarde,Ate,223.56,15
+A0433,Cardiología,Dr. Vega,Cancelado,Noche,Ate,350.4,45
+A0434,Cardiología,Dr. Vega,Programado,Tarde,Lima Norte,249.35,30
+A0435,Medicina general,Dra. Torres,Atendido,Mañana,Lima Norte,231.18,60
+A0436,Medicina general,Dr. Flores,Programado,Mañana,Ate,441.32,45
+A0437,Laboratorio,Dr. Perez,Cancelado,Noche,Lima Centro,371.59,45
+A0438,Cardiología,Dr. Perez,Atendido,Noche,Lima Centro,294.97,30
+A0439,Dermatología,Dra. Torres,Atendido,Mañana,Lima Centro,241.0,30
+A0440,Dermatología,Dr. Perez,Reprogramado,Noche,Lima Centro,91.54,20
+A0441,Laboratorio,Dra. Ramos,Reprogramado,Tarde,Lima Norte,325.89,45
+A0442,Laboratorio,Dra. Ramos,Reprogramado,Mañana,Lima Norte,102.68,30
+A0443,Dermatología,Dra. Ramos,Atendido,Tarde,Lima Centro,428.48,15
+A0444,Pediatría,Dra. Torres,Atendido,Noche,Lima Centro,165.3,60
+A0445,Traumatología,Dr. Perez,Programado,Mañana,Virtual,506.4,60
+A0446,Pediatría,Dra. Ramos,Reprogramado,Tarde,Lima Norte,80.49,45
+A0447,Traumatología,Dr. Perez,Cancelado,Mañana,Ate,168.9,45
+A0448,Medicina general,Dr. Flores,Cancelado,Mañana,Lima Centro,137.48,30
+A0449,Medicina general,Dra. Ramos,Cancelado,Tarde,Ate,245.63,30
+A0450,Pediatría,Dra. Ramos,Programado,Mañana,Virtual,154.47,20
+A0451,Laboratorio,Dra. Torres,Programado,Noche,Ate,391.51,45
+A0452,Traumatología,Dr. Flores,Cancelado,Noche,Lima Centro,345.09,45
+A0453,Dermatología,Dra. Ramos,Reprogramado,Tarde,Lima Norte,179.84,15
+A0454,Medicina general,Dra. Torres,Cancelado,Mañana,Lima Centro,395.33,30
+A0455,Cardiología,Dr. Perez,Atendido,Tarde,Ate,483.8,30
+A0456,Traumatología,Dra. Ramos,Reprogramado,Mañana,Lima Centro,293.72,60
+A0457,Pediatría,Dr. Vega,Programado,Tarde,Virtual,401.19,20
+A0458,Medicina general,Dr. Flores,Cancelado,Tarde,Virtual,389.64,15
+A0459,Cardiología,Dra. Ramos,Cancelado,Noche,Lima Centro,107.18,15
+A0460,Medicina general,Dr. Flores,Reprogramado,Noche,Virtual,320.98,30
+A0461,Pediatría,Dr. Perez,Atendido,Noche,Lima Norte,175.41,60
+A0462,Cardiología,Dr. Flores,Atendido,Tarde,Virtual,350.56,45
+A0463,Medicina general,Dr. Vega,Atendido,Mañana,Ate,278.49,15
+A0464,Medicina general,Dr. Vega,Reprogramado,Mañana,Lima Norte,186.33,60
+A0465,Medicina general,Dr. Flores,Programado,Mañana,Ate,145.99,45
+A0466,Traumatología,Dra. Ramos,Atendido,Noche,Lima Norte,493.46,15
+A0467,Laboratorio,Dr. Vega,Programado,Noche,Virtual,82.2,60
+A0468,Dermatología,Dra. Ramos,Cancelado,Tarde,Ate,97.5,45
+A0469,Medicina general,Dra. Ramos,Programado,Mañana,Virtual,433.65,20
+A0470,Pediatría,Dr. Perez,Cancelado,Tarde,Lima Centro,377.76,20
+A0471,Medicina general,Dra. Ramos,Programado,Mañana,Lima Centro,129.69,20
+A0472,Traumatología,Dra. Ramos,Cancelado,Noche,Ate,476.33,15
+A0473,Dermatología,Dr. Flores,Atendido,Mañana,Ate,394.34,15
+A0474,Cardiología,Dra. Torres,Programado,Tarde,Virtual,267.99,15
+A0475,Cardiología,Dr. Perez,Cancelado,Tarde,Lima Centro,44.26,45
+A0476,Laboratorio,Dra. Torres,Atendido,Noche,Lima Centro,97.43,20
+A0477,Cardiología,Dr. Perez,Programado,Tarde,Lima Centro,456.49,60
+A0478,Pediatría,Dra. Torres,Atendido,Mañana,Ate,218.22,15
+A0479,Medicina general,Dr. Vega,Programado,Mañana,Lima Norte,402.71,30
+A0480,Traumatología,Dr. Flores,Atendido,Mañana,Lima Norte,128.33,20
+A0481,Cardiología,Dra. Torres,Reprogramado,Mañana,Lima Centro,111.79,60
+A0482,Cardiología,Dr. Flores,Reprogramado,Noche,Ate,196.63,20
+A0483,Cardiología,Dra. Torres,Reprogramado,Tarde,Ate,330.56,45
+A0484,Medicina general,Dra. Torres,Cancelado,Noche,Virtual,243.26,30
+A0485,Pediatría,Dr. Perez,Cancelado,Mañana,Virtual,398.92,45
+A0486,Dermatología,Dra. Torres,Cancelado,Noche,Ate,121.01,45
+A0487,Pediatría,Dr. Flores,Reprogramado,Mañana,Ate,368.85,45
+A0488,Laboratorio,Dr. Flores,Cancelado,Noche,Lima Norte,164.74,45
+A0489,Pediatría,Dr. Flores,Atendido,Noche,Lima Norte,335.5,45
+A0490,Laboratorio,Dr. Flores,Programado,Tarde,Virtual,414.64,30
+A0491,Pediatría,Dra. Torres,Reprogramado,Noche,Ate,112.24,45
+A0492,Cardiología,Dra. Ramos,Reprogramado,Noche,Ate,358.46,30
+A0493,Pediatría,Dr. Vega,Reprogramado,Mañana,Ate,397.75,20
+A0494,Cardiología,Dra. Torres,Reprogramado,Tarde,Lima Centro,179.44,30
+A0495,Laboratorio,Dr. Perez,Atendido,Noche,Virtual,453.75,45
+A0496,Pediatría,Dr. Vega,Atendido,Tarde,Ate,138.06,30
+A0497,Laboratorio,Dr. Vega,Cancelado,Noche,Virtual,154.48,60
+A0498,Medicina general,Dra. Ramos,Programado,Tarde,Lima Centro,178.58,45
+A0499,Traumatología,Dra. Torres,Programado,Tarde,Lima Norte,206.93,20
+A0500,Dermatología,Dr. Vega,Programado,Mañana,Virtual,470.01,60
+A0501,Dermatología,Dra. Torres,Reprogramado,Mañana,Lima Norte,153.75,45
+A0502,Pediatría,Dra. Ramos,Atendido,Tarde,Lima Norte,263.69,20
+A0503,Medicina general,Dr. Perez,Cancelado,Noche,Virtual,430.04,60
+A0504,Dermatología,Dr. Perez,Atendido,Tarde,Ate,313.31,15
+A0505,Pediatría,Dr. Perez,Cancelado,Tarde,Lima Centro,322.19,30
+A0506,Laboratorio,Dra. Ramos,Atendido,Tarde,Ate,441.59,60
+A0507,Dermatología,Dra. Torres,Reprogramado,Noche,Ate,202.07,45
+A0508,Pediatría,Dra. Torres,Programado,Tarde,Lima Centro,397.8,60
+A0509,Traumatología,Dr. Flores,Programado,Mañana,Virtual,433.02,30
+A0510,Traumatología,Dr. Perez,Programado,Mañana,Virtual,375.72,45
+A0511,Dermatología,Dr. Flores,Reprogramado,Mañana,Virtual,253.98,15
+A0512,Laboratorio,Dr. Vega,Atendido,Mañana,Ate,142.03,15
+A0513,Medicina general,Dr. Perez,Reprogramado,Mañana,Lima Centro,204.7,60
+A0514,Medicina general,Dr. Perez,Reprogramado,Noche,Lima Centro,310.33,30
+A0515,Dermatología,Dr. Vega,Programado,Mañana,Lima Centro,144.81,30
+A0516,Cardiología,Dra. Torres,Reprogramado,Noche,Virtual,439.12,20
+A0517,Dermatología,Dr. Flores,Programado,Tarde,Lima Norte,435.38,60
+A0518,Dermatología,Dr. Flores,Programado,Noche,Lima Norte,498.18,45
+A0519,Laboratorio,Dr. Vega,Atendido,Mañana,Lima Norte,517.08,60
+A0520,Medicina general,Dr. Perez,Reprogramado,Mañana,Ate,315.5,60
+A0521,Dermatología,Dr. Perez,Programado,Mañana,Ate,353.24,20
+A0522,Medicina general,Dra. Torres,Reprogramado,Tarde,Lima Norte,231.04,60
+A0523,Medicina general,Dr. Perez,Programado,Mañana,Ate,105.02,20
+A0524,Cardiología,Dr. Vega,Cancelado,Tarde,Ate,465.76,15
+A0525,Pediatría,Dr. Flores,Atendido,Mañana,Virtual,64.77,45
+A0526,Traumatología,Dr. Perez,Reprogramado,Noche,Lima Norte,134.62,60
+A0527,Laboratorio,Dr. Perez,Programado,Tarde,Virtual,82.96,15
+A0528,Laboratorio,Dr. Perez,Atendido,Mañana,Lima Norte,317.74,30
+A0529,Medicina general,Dra. Torres,Cancelado,Tarde,Lima Norte,113.36,60
+A0530,Traumatología,Dr. Perez,Cancelado,Mañana,Lima Norte,99.27,60
+A0531,Laboratorio,Dr. Flores,Cancelado,Mañana,Virtual,487.94,15
+A0532,Traumatología,Dra. Torres,Reprogramado,Tarde,Ate,273.07,30
+A0533,Laboratorio,Dra. Torres,Programado,Mañana,Lima Norte,53.19,45
+A0534,Cardiología,Dr. Vega,Programado,Noche,Virtual,94.23,60
+A0535,Cardiología,Dra. Torres,Atendido,Noche,Lima Centro,92.7,30
+A0536,Medicina general,Dr. Perez,Atendido,Mañana,Ate,140.63,15
+A0537,Laboratorio,Dr. Vega,Reprogramado,Noche,Lima Centro,223.44,45
+A0538,Traumatología,Dr. Flores,Cancelado,Tarde,Lima Centro,519.2,20
+A0539,Dermatología,Dra. Ramos,Cancelado,Mañana,Lima Norte,102.38,30
+A0540,Cardiología,Dra. Ramos,Programado,Noche,Virtual,318.12,60
+A0541,Dermatología,Dr. Vega,Cancelado,Noche,Ate,241.57,60
+A0542,Cardiología,Dr. Vega,Atendido,Mañana,Lima Norte,214.08,60
+A0543,Dermatología,Dr. Flores,Reprogramado,Tarde,Ate,490.45,45
+A0544,Pediatría,Dr. Flores,Cancelado,Noche,Ate,464.96,20
+A0545,Laboratorio,Dr. Perez,Reprogramado,Mañana,Virtual,231.04,30
+A0546,Laboratorio,Dr. Flores,Programado,Tarde,Virtual,458.87,45
+A0547,Medicina general,Dr. Perez,Programado,Tarde,Ate,88.95,20
+A0548,Medicina general,Dra. Ramos,Reprogramado,Mañana,Ate,54.65,60
+A0549,Laboratorio,Dr. Perez,Programado,Mañana,Virtual,233.45,60
+A0550,Medicina general,Dr. Flores,Programado,Tarde,Lima Centro,295.1,15
+A0551,Laboratorio,Dra. Ramos,Atendido,Mañana,Lima Norte,94.03,20
+A0552,Pediatría,Dra. Torres,Atendido,Noche,Lima Centro,122.78,60
+A0553,Pediatría,Dr. Flores,Programado,Noche,Ate,263.46,20
+A0554,Traumatología,Dra. Torres,Cancelado,Noche,Ate,50.5,30
+A0555,Medicina general,Dr. Perez,Cancelado,Tarde,Lima Norte,145.66,15
+A0556,Dermatología,Dr. Perez,Atendido,Tarde,Lima Norte,435.63,30
+A0557,Pediatría,Dr. Flores,Reprogramado,Mañana,Lima Centro,406.58,60
+A0558,Traumatología,Dra. Torres,Programado,Tarde,Ate,92.07,30
+A0559,Laboratorio,Dr. Vega,Programado,Noche,Virtual,289.23,15
+A0560,Pediatría,Dr. Vega,Programado,Mañana,Lima Norte,469.05,15
+A0561,Traumatología,Dr. Flores,Cancelado,Mañana,Ate,72.44,30
+A0562,Pediatría,Dr. Vega,Programado,Noche,Ate,174.64,60
+A0563,Laboratorio,Dra. Ramos,Cancelado,Noche,Lima Centro,302.04,20
+A0564,Medicina general,Dr. Vega,Atendido,Mañana,Virtual,142.68,30
+A0565,Laboratorio,Dr. Vega,Programado,Noche,Lima Centro,260.36,60
+A0566,Medicina general,Dra. Torres,Programado,Mañana,Virtual,156.53,20
+A0567,Dermatología,Dra. Ramos,Programado,Tarde,Ate,302.99,30
+A0568,Laboratorio,Dr. Flores,Cancelado,Noche,Lima Norte,299.19,30
+A0569,Pediatría,Dr. Vega,Programado,Tarde,Virtual,309.72,15
+A0570,Dermatología,Dr. Flores,Cancelado,Mañana,Virtual,42.16,15
+A0571,Dermatología,Dr. Perez,Reprogramado,Tarde,Virtual,257.95,20
+A0572,Laboratorio,Dr. Flores,Cancelado,Tarde,Lima Norte,75.25,30
+A0573,Pediatría,Dra. Ramos,Reprogramado,Mañana,Lima Centro,237.85,60
+A0574,Medicina general,Dr. Flores,Programado,Mañana,Ate,141.68,15
+A0575,Traumatología,Dr. Flores,Atendido,Tarde,Virtual,333.74,20
+A0576,Dermatología,Dr. Vega,Reprogramado,Tarde,Ate,181.13,45
+A0577,Pediatría,Dr. Flores,Programado,Noche,Ate,362.53,20
+A0578,Dermatología,Dra. Torres,Cancelado,Mañana,Lima Centro,181.22,15
+A0579,Medicina general,Dr. Flores,Programado,Tarde,Lima Centro,184.29,30
+A0580,Cardiología,Dra. Torres,Reprogramado,Noche,Lima Norte,193.9,30
+A0581,Cardiología,Dra. Ramos,Cancelado,Noche,Lima Norte,221.32,45
+A0582,Traumatología,Dra. Ramos,Programado,Mañana,Ate,114.8,45
+A0583,Medicina general,Dra. Torres,Atendido,Mañana,Lima Centro,335.98,30
+A0584,Dermatología,Dr. Vega,Cancelado,Tarde,Lima Centro,486.49,15
+A0585,Cardiología,Dr. Vega,Atendido,Noche,Virtual,144.78,30
+A0586,Medicina general,Dra. Torres,Reprogramado,Tarde,Lima Centro,473.84,60
+A0587,Traumatología,Dr. Perez,Reprogramado,Mañana,Lima Norte,270.41,20
+A0588,Traumatología,Dra. Torres,Atendido,Mañana,Ate,77.2,45
+A0589,Traumatología,Dra. Torres,Programado,Tarde,Lima Centro,321.32,45
+A0590,Laboratorio,Dr. Vega,Atendido,Tarde,Lima Norte,227.16,20
+A0591,Cardiología,Dr. Perez,Atendido,Mañana,Lima Centro,319.39,60
+A0592,Medicina general,Dr. Flores,Cancelado,Mañana,Lima Centro,108.34,45
+A0593,Medicina general,Dr. Vega,Programado,Mañana,Lima Centro,346.85,20
+A0594,Cardiología,Dr. Vega,Atendido,Tarde,Virtual,76.11,15
+A0595,Medicina general,Dr. Perez,Programado,Mañana,Ate,243.69,45
+A0596,Pediatría,Dra. Torres,Cancelado,Tarde,Ate,374.51,15
+A0597,Traumatología,Dr. Flores,Cancelado,Noche,Ate,36.19,45
+A0598,Traumatología,Dr. Vega,Atendido,Mañana,Lima Norte,173.54,30
+A0599,Dermatología,Dra. Torres,Atendido,Noche,Lima Centro,75.18,45
+A0600,Dermatología,Dra. Ramos,Reprogramado,Noche,Lima Norte,173.16,45
+A0601,Cardiología,Dra. Ramos,Cancelado,Mañana,Virtual,41.23,15
+A0602,Traumatología,Dr. Flores,Cancelado,Mañana,Lima Norte,481.2,45
+A0603,Laboratorio,Dra. Ramos,Reprogramado,Noche,Virtual,199.89,30
+A0604,Pediatría,Dra. Ramos,Reprogramado,Mañana,Lima Centro,47.85,60
+A0605,Pediatría,Dr. Vega,Programado,Noche,Ate,266.24,15
+A0606,Laboratorio,Dr. Perez,Programado,Mañana,Lima Centro,154.26,15
+A0607,Laboratorio,Dra. Ramos,Reprogramado,Mañana,Virtual,340.16,45
+A0608,Dermatología,Dra. Ramos,Atendido,Tarde,Lima Centro,100.71,20
+A0609,Dermatología,Dra. Ramos,Programado,Noche,Ate,319.1,15
+A0610,Pediatría,Dra. Ramos,Cancelado,Noche,Ate,235.83,45
+A0611,Medicina general,Dr. Perez,Cancelado,Mañana,Ate,128.39,15
+A0612,Medicina general,Dra. Torres,Reprogramado,Tarde,Lima Centro,311.35,60
+A0613,Traumatología,Dra. Torres,Atendido,Noche,Lima Norte,135.48,30
+A0614,Laboratorio,Dr. Flores,Reprogramado,Tarde,Lima Centro,96.5,45
+A0615,Traumatología,Dr. Flores,Programado,Tarde,Lima Centro,423.7,45
+A0616,Laboratorio,Dr. Flores,Programado,Tarde,Lima Centro,480.88,20
+A0617,Medicina general,Dr. Perez,Programado,Tarde,Lima Norte,430.04,30
+A0618,Pediatría,Dra. Ramos,Reprogramado,Tarde,Lima Centro,244.08,20
+A0619,Cardiología,Dr. Perez,Atendido,Tarde,Lima Centro,516.81,30
+A0620,Cardiología,Dra. Torres,Atendido,Tarde,Ate,361.23,30
+A0621,Laboratorio,Dr. Vega,Reprogramado,Tarde,Ate,291.53,60
+A0622,Cardiología,Dr. Vega,Reprogramado,Mañana,Lima Centro,170.16,60
+A0623,Cardiología,Dr. Flores,Programado,Mañana,Ate,232.3,20
+A0624,Cardiología,Dr. Perez,Reprogramado,Noche,Lima Centro,505.79,45
+A0625,Cardiología,Dra. Ramos,Cancelado,Mañana,Lima Centro,431.94,15
+A0626,Laboratorio,Dra. Torres,Reprogramado,Tarde,Virtual,121.97,20
+A0627,Dermatología,Dr. Flores,Programado,Noche,Virtual,318.39,20
+A0628,Cardiología,Dr. Flores,Atendido,Mañana,Lima Centro,314.13,30
+A0629,Laboratorio,Dr. Flores,Programado,Mañana,Lima Centro,416.9,30
+A0630,Laboratorio,Dra. Ramos,Programado,Tarde,Ate,506.65,60
+A0631,Laboratorio,Dra. Torres,Cancelado,Mañana,Ate,373.59,15
+A0632,Laboratorio,Dr. Perez,Atendido,Mañana,Lima Centro,80.4,45
+A0633,Traumatología,Dra. Torres,Atendido,Mañana,Virtual,347.88,20
+A0634,Dermatología,Dr. Perez,Cancelado,Tarde,Lima Norte,383.12,45
+A0635,Laboratorio,Dra. Ramos,Reprogramado,Mañana,Virtual,130.61,20
+A0636,Dermatología,Dra. Torres,Reprogramado,Mañana,Lima Norte,89.72,20
+A0637,Pediatría,Dr. Perez,Programado,Noche,Ate,279.14,30
+A0638,Pediatría,Dra. Ramos,Cancelado,Noche,Lima Centro,134.23,20
+A0639,Laboratorio,Dra. Ramos,Reprogramado,Mañana,Lima Centro,490.17,60
+A0640,Traumatología,Dra. Ramos,Reprogramado,Noche,Lima Norte,373.2,45
+A0641,Medicina general,Dr. Flores,Cancelado,Noche,Ate,466.97,60
+A0642,Pediatría,Dr. Perez,Cancelado,Tarde,Ate,310.61,15
+A0643,Medicina general,Dra. Torres,Atendido,Tarde,Ate,405.34,15
+A0644,Traumatología,Dra. Torres,Cancelado,Mañana,Lima Norte,72.56,30
+A0645,Cardiología,Dra. Ramos,Programado,Tarde,Ate,416.74,60
+A0646,Dermatología,Dr. Perez,Programado,Mañana,Lima Norte,173.63,15
+A0647,Medicina general,Dr. Flores,Programado,Tarde,Lima Centro,65.98,45
+A0648,Laboratorio,Dr. Vega,Cancelado,Mañana,Lima Centro,439.31,20
+A0649,Traumatología,Dr. Perez,Cancelado,Noche,Lima Centro,266.5,45
+A0650,Cardiología,Dr. Flores,Programado,Mañana,Lima Norte,337.87,15
+A0651,Medicina general,Dra. Ramos,Cancelado,Tarde,Ate,251.98,45
+A0652,Laboratorio,Dr. Vega,Cancelado,Mañana,Lima Norte,501.6,60
+A0653,Medicina general,Dra. Torres,Reprogramado,Noche,Lima Norte,231.33,60
+A0654,Traumatología,Dr. Vega,Atendido,Tarde,Lima Norte,246.43,15
+A0655,Cardiología,Dr. Vega,Reprogramado,Tarde,Virtual,89.72,60
+A0656,Traumatología,Dra. Ramos,Reprogramado,Tarde,Ate,315.88,60
+A0657,Pediatría,Dra. Torres,Atendido,Tarde,Lima Norte,266.1,15
+A0658,Dermatología,Dr. Flores,Programado,Tarde,Lima Centro,216.84,30
+A0659,Cardiología,Dr. Vega,Programado,Noche,Ate,239.66,45
+A0660,Dermatología,Dra. Torres,Cancelado,Mañana,Ate,496.65,20
+A0661,Traumatología,Dr. Vega,Atendido,Tarde,Lima Centro,223.13,20
+A0662,Medicina general,Dra. Ramos,Reprogramado,Tarde,Lima Norte,67.27,30
+A0663,Traumatología,Dr. Flores,Reprogramado,Tarde,Virtual,328.3,20
+A0664,Medicina general,Dra. Torres,Programado,Mañana,Ate,134.19,45
+A0665,Pediatría,Dra. Ramos,Reprogramado,Tarde,Lima Centro,158.7,15
+A0666,Dermatología,Dr. Flores,Programado,Mañana,Ate,96.0,60
+A0667,Cardiología,Dr. Flores,Reprogramado,Mañana,Lima Centro,37.14,60
+A0668,Laboratorio,Dra. Torres,Programado,Noche,Virtual,95.65,15
+A0669,Dermatología,Dra. Ramos,Atendido,Noche,Lima Centro,495.81,45
+A0670,Laboratorio,Dra. Ramos,Programado,Mañana,Ate,103.0,20
+A0671,Dermatología,Dra. Ramos,Reprogramado,Mañana,Lima Norte,413.41,15
+A0672,Medicina general,Dra. Ramos,Programado,Mañana,Lima Norte,58.3,20
+A0673,Dermatología,Dr. Flores,Atendido,Mañana,Ate,362.44,45
+A0674,Pediatría,Dr. Perez,Cancelado,Noche,Virtual,446.65,45
+A0675,Laboratorio,Dr. Perez,Reprogramado,Mañana,Virtual,87.54,30
+A0676,Dermatología,Dr. Vega,Reprogramado,Tarde,Virtual,230.28,45
+A0677,Laboratorio,Dr. Flores,Programado,Noche,Virtual,289.15,20
+A0678,Pediatría,Dr. Flores,Cancelado,Mañana,Lima Norte,333.27,30
+A0679,Pediatría,Dra. Torres,Cancelado,Mañana,Virtual,365.84,30
+A0680,Pediatría,Dra. Ramos,Atendido,Noche,Lima Centro,96.68,15
+A0681,Traumatología,Dr. Perez,Cancelado,Mañana,Lima Norte,257.45,30
+A0682,Dermatología,Dr. Flores,Reprogramado,Noche,Lima Centro,239.35,15
+A0683,Cardiología,Dra. Ramos,Programado,Mañana,Ate,53.01,15
+A0684,Medicina general,Dr. Perez,Reprogramado,Noche,Lima Centro,238.24,15
+A0685,Traumatología,Dr. Perez,Atendido,Tarde,Ate,306.85,20
+A0686,Dermatología,Dr. Flores,Reprogramado,Tarde,Virtual,453.81,20
+A0687,Pediatría,Dr. Flores,Cancelado,Noche,Lima Centro,208.71,15
+A0688,Traumatología,Dra. Torres,Programado,Tarde,Virtual,263.92,15
+A0689,Cardiología,Dra. Ramos,Atendido,Noche,Virtual,512.7,45
+A0690,Cardiología,Dra. Torres,Atendido,Mañana,Lima Centro,79.44,45
+A0691,Dermatología,Dra. Torres,Reprogramado,Tarde,Ate,105.93,60
+A0692,Pediatría,Dr. Flores,Reprogramado,Noche,Ate,162.98,60
+A0693,Pediatría,Dra. Ramos,Atendido,Tarde,Lima Norte,54.11,15
+A0694,Dermatología,Dra. Torres,Programado,Noche,Virtual,357.07,15
+A0695,Cardiología,Dra. Ramos,Programado,Tarde,Lima Norte,320.78,60
+A0696,Cardiología,Dr. Flores,Atendido,Mañana,Virtual,460.54,45
+A0697,Dermatología,Dra. Torres,Programado,Noche,Lima Centro,514.35,30
+A0698,Laboratorio,Dra. Torres,Reprogramado,Noche,Lima Centro,428.73,15
+A0699,Medicina general,Dr. Perez,Programado,Noche,Lima Norte,290.27,60
+A0700,Traumatología,Dra. Torres,Programado,Noche,Virtual,287.7,15
+A0701,Cardiología,Dr. Vega,Programado,Mañana,Lima Centro,197.92,30
+A0702,Medicina general,Dr. Flores,Atendido,Noche,Lima Norte,336.49,20
+A0703,Medicina general,Dr. Flores,Atendido,Noche,Virtual,237.32,15
+A0704,Pediatría,Dra. Ramos,Reprogramado,Mañana,Lima Norte,283.24,15
+A0705,Pediatría,Dra. Torres,Reprogramado,Noche,Lima Norte,204.16,60
+A0706,Cardiología,Dra. Ramos,Cancelado,Tarde,Lima Norte,457.83,20
+A0707,Medicina general,Dr. Perez,Programado,Tarde,Lima Centro,362.06,20
+A0708,Medicina general,Dr. Vega,Reprogramado,Tarde,Lima Centro,328.26,60
+A0709,Traumatología,Dr. Flores,Atendido,Mañana,Lima Norte,397.29,20
+A0710,Dermatología,Dra. Ramos,Atendido,Tarde,Virtual,390.72,30
+A0711,Dermatología,Dr. Perez,Programado,Tarde,Virtual,242.16,15
+A0712,Traumatología,Dra. Ramos,Reprogramado,Tarde,Lima Centro,354.23,60
+A0713,Pediatría,Dra. Ramos,Atendido,Tarde,Ate,46.92,45
+A0714,Dermatología,Dra. Torres,Reprogramado,Tarde,Lima Centro,322.18,20
+A0715,Laboratorio,Dra. Ramos,Reprogramado,Tarde,Lima Norte,311.39,20
+A0716,Laboratorio,Dra. Ramos,Programado,Tarde,Ate,116.97,60
+A0717,Dermatología,Dr. Vega,Programado,Tarde,Ate,316.68,20
+A0718,Cardiología,Dr. Vega,Programado,Mañana,Ate,200.58,45
+A0719,Laboratorio,Dra. Ramos,Atendido,Tarde,Ate,507.65,45
+A0720,Laboratorio,Dr. Flores,Programado,Noche,Lima Centro,477.39,30
+A0721,Dermatología,Dr. Vega,Programado,Tarde,Lima Norte,483.27,30
+A0722,Medicina general,Dra. Ramos,Programado,Tarde,Ate,269.18,60
+A0723,Pediatría,Dr. Vega,Programado,Mañana,Ate,455.69,30
+A0724,Medicina general,Dr. Vega,Reprogramado,Mañana,Lima Norte,443.13,30
+A0725,Traumatología,Dra. Ramos,Programado,Mañana,Ate,410.33,15
+A0726,Dermatología,Dr. Vega,Atendido,Tarde,Ate,323.27,20
+A0727,Traumatología,Dra. Ramos,Reprogramado,Tarde,Virtual,516.32,20
+A0728,Dermatología,Dr. Perez,Atendido,Noche,Lima Centro,43.74,15
+A0729,Dermatología,Dra. Torres,Cancelado,Noche,Lima Norte,65.95,60
+A0730,Laboratorio,Dr. Perez,Reprogramado,Tarde,Lima Centro,312.24,15
+A0731,Laboratorio,Dr. Vega,Cancelado,Mañana,Lima Centro,113.59,20
+A0732,Laboratorio,Dr. Vega,Atendido,Mañana,Lima Norte,221.45,15
+A0733,Medicina general,Dra. Ramos,Atendido,Mañana,Lima Centro,429.01,20
+A0734,Laboratorio,Dra. Ramos,Atendido,Tarde,Virtual,211.29,45
+A0735,Dermatología,Dr. Flores,Programado,Noche,Ate,274.99,15
+A0736,Dermatología,Dr. Flores,Cancelado,Tarde,Ate,472.13,45
+A0737,Cardiología,Dr. Perez,Reprogramado,Noche,Virtual,417.66,30
+A0738,Dermatología,Dr. Flores,Cancelado,Tarde,Lima Centro,158.38,15
+A0739,Cardiología,Dra. Ramos,Reprogramado,Noche,Virtual,206.66,60
+A0740,Pediatría,Dr. Flores,Atendido,Tarde,Lima Centro,355.75,30
+A0741,Dermatología,Dr. Vega,Reprogramado,Noche,Lima Centro,449.52,45
+A0742,Pediatría,Dra. Ramos,Reprogramado,Tarde,Ate,151.56,15
+A0743,Dermatología,Dra. Ramos,Reprogramado,Tarde,Virtual,37.22,60
+A0744,Traumatología,Dr. Flores,Atendido,Mañana,Virtual,409.15,60
+A0745,Traumatología,Dra. Torres,Cancelado,Tarde,Lima Centro,457.56,45
+A0746,Traumatología,Dr. Flores,Programado,Tarde,Lima Norte,405.13,30
+A0747,Cardiología,Dr. Perez,Cancelado,Noche,Lima Norte,324.0,60
+A0748,Cardiología,Dra. Ramos,Reprogramado,Mañana,Lima Norte,59.8,20
+A0749,Cardiología,Dra. Torres,Atendido,Noche,Lima Norte,373.02,45
+A0750,Pediatría,Dra. Ramos,Atendido,Noche,Ate,165.78,30
+A0751,Dermatología,Dr. Perez,Atendido,Noche,Lima Norte,65.77,20
+A0752,Cardiología,Dr. Vega,Cancelado,Mañana,Ate,53.65,20
+A0753,Dermatología,Dr. Perez,Cancelado,Tarde,Lima Norte,354.1,60
+A0754,Medicina general,Dr. Flores,Atendido,Tarde,Lima Centro,464.09,20
+A0755,Laboratorio,Dr. Vega,Cancelado,Noche,Lima Centro,434.82,45
+A0756,Traumatología,Dr. Flores,Atendido,Mañana,Lima Norte,89.16,20
+A0757,Dermatología,Dr. Flores,Programado,Tarde,Lima Centro,229.54,20
+A0758,Laboratorio,Dr. Flores,Atendido,Noche,Virtual,442.64,45
+A0759,Pediatría,Dr. Flores,Programado,Noche,Lima Norte,288.93,45
+A0760,Pediatría,Dr. Vega,Atendido,Noche,Ate,204.05,30
+A0761,Medicina general,Dr. Flores,Reprogramado,Mañana,Lima Norte,318.53,30
+A0762,Medicina general,Dr. Perez,Reprogramado,Noche,Ate,201.85,30
+A0763,Cardiología,Dra. Torres,Reprogramado,Noche,Lima Norte,483.05,45
+A0764,Pediatría,Dra. Ramos,Atendido,Noche,Lima Norte,236.63,20
+A0765,Pediatría,Dra. Ramos,Cancelado,Tarde,Lima Norte,518.88,20
+A0766,Medicina general,Dr. Flores,Reprogramado,Tarde,Virtual,383.78,20
+A0767,Laboratorio,Dr. Flores,Programado,Mañana,Virtual,48.94,30
+A0768,Traumatología,Dr. Perez,Reprogramado,Tarde,Lima Centro,41.85,60
+A0769,Medicina general,Dra. Ramos,Atendido,Mañana,Virtual,151.64,20
+A0770,Traumatología,Dr. Vega,Cancelado,Mañana,Virtual,396.19,15
+A0771,Cardiología,Dr. Flores,Programado,Noche,Ate,384.74,60
+A0772,Traumatología,Dra. Torres,Atendido,Noche,Virtual,248.75,15
+A0773,Pediatría,Dra. Torres,Cancelado,Mañana,Lima Norte,184.66,30
+A0774,Medicina general,Dr. Flores,Atendido,Mañana,Lima Centro,214.11,20
+A0775,Laboratorio,Dr. Flores,Cancelado,Mañana,Lima Centro,303.19,20
+A0776,Medicina general,Dra. Torres,Cancelado,Mañana,Virtual,210.48,30
+A0777,Laboratorio,Dra. Ramos,Reprogramado,Mañana,Lima Norte,88.45,30
+A0778,Cardiología,Dr. Vega,Programado,Noche,Ate,339.92,20
+A0779,Medicina general,Dr. Vega,Atendido,Noche,Ate,155.63,60
+A0780,Cardiología,Dra. Torres,Programado,Mañana,Lima Centro,357.27,60
+A0781,Laboratorio,Dra. Ramos,Programado,Noche,Lima Norte,190.54,45
+A0782,Pediatría,Dr. Vega,Programado,Noche,Virtual,328.4,45
+A0783,Cardiología,Dr. Perez,Reprogramado,Mañana,Lima Centro,281.98,45
+A0784,Pediatría,Dr. Vega,Programado,Noche,Lima Norte,389.61,45
+A0785,Pediatría,Dr. Vega,Atendido,Mañana,Lima Norte,322.95,20
+A0786,Laboratorio,Dr. Vega,Programado,Tarde,Virtual,140.65,45
+A0787,Laboratorio,Dra. Ramos,Programado,Mañana,Ate,101.4,60
+A0788,Dermatología,Dra. Ramos,Reprogramado,Mañana,Virtual,347.08,30
+A0789,Traumatología,Dr. Vega,Programado,Tarde,Lima Centro,62.39,30
+A0790,Cardiología,Dr. Perez,Programado,Mañana,Lima Norte,98.5,45
+A0791,Dermatología,Dr. Vega,Atendido,Noche,Virtual,304.15,15
+A0792,Pediatría,Dr. Flores,Cancelado,Mañana,Lima Centro,323.31,60
+A0793,Laboratorio,Dra. Ramos,Reprogramado,Mañana,Lima Centro,349.56,15
+A0794,Cardiología,Dr. Perez,Atendido,Tarde,Virtual,367.15,45
+A0795,Dermatología,Dr. Flores,Cancelado,Noche,Lima Norte,295.19,20
+A0796,Pediatría,Dra. Ramos,Programado,Mañana,Lima Norte,466.0,60
+A0797,Dermatología,Dra. Torres,Reprogramado,Mañana,Lima Norte,58.51,30
+A0798,Medicina general,Dra. Torres,Atendido,Tarde,Virtual,64.15,60
+A0799,Cardiología,Dra. Torres,Atendido,Mañana,Lima Norte,148.99,60
+A0800,Pediatría,Dr. Flores,Atendido,Mañana,Lima Norte,408.91,20
+A0801,Dermatología,Dr. Perez,Reprogramado,Noche,Lima Norte,385.98,45
+A0802,Pediatría,Dra. Ramos,Programado,Mañana,Lima Norte,349.53,45
+A0803,Pediatría,Dra. Ramos,Programado,Tarde,Ate,349.29,45
+A0804,Laboratorio,Dra. Torres,Programado,Mañana,Lima Norte,206.49,15
+A0805,Cardiología,Dr. Perez,Programado,Tarde,Lima Norte,256.52,45
+A0806,Pediatría,Dr. Flores,Cancelado,Mañana,Ate,85.54,20
+A0807,Laboratorio,Dr. Perez,Cancelado,Mañana,Lima Norte,462.84,60
+A0808,Medicina general,Dr. Vega,Cancelado,Noche,Ate,210.48,30
+A0809,Laboratorio,Dr. Vega,Reprogramado,Mañana,Virtual,201.9,45
+A0810,Medicina general,Dr. Vega,Atendido,Tarde,Virtual,276.78,20
+A0811,Laboratorio,Dra. Ramos,Programado,Noche,Virtual,398.79,45
+A0812,Pediatría,Dr. Vega,Cancelado,Tarde,Lima Norte,100.22,45
+A0813,Laboratorio,Dra. Ramos,Atendido,Mañana,Ate,211.28,20
+A0814,Laboratorio,Dr. Perez,Atendido,Noche,Virtual,397.51,15
+A0815,Pediatría,Dra. Torres,Atendido,Noche,Ate,358.6,15
+A0816,Cardiología,Dr. Flores,Reprogramado,Tarde,Lima Centro,274.71,20
+A0817,Dermatología,Dra. Torres,Programado,Tarde,Lima Norte,69.73,45
+A0818,Laboratorio,Dr. Perez,Cancelado,Mañana,Lima Norte,216.68,30
+A0819,Traumatología,Dra. Torres,Programado,Noche,Virtual,515.32,45
+A0820,Pediatría,Dra. Ramos,Cancelado,Tarde,Lima Norte,443.23,45
+A0821,Cardiología,Dra. Ramos,Reprogramado,Noche,Virtual,484.58,20
+A0822,Laboratorio,Dr. Vega,Atendido,Mañana,Lima Norte,169.98,20
+A0823,Laboratorio,Dr. Vega,Atendido,Tarde,Lima Centro,369.7,15
+A0824,Cardiología,Dr. Vega,Atendido,Noche,Lima Centro,413.04,60
+A0825,Medicina general,Dra. Torres,Reprogramado,Mañana,Virtual,194.97,20
+A0826,Cardiología,Dr. Perez,Programado,Tarde,Lima Norte,217.9,20
+A0827,Traumatología,Dr. Perez,Programado,Noche,Virtual,117.61,60
+A0828,Pediatría,Dr. Flores,Reprogramado,Mañana,Lima Centro,44.9,60
+A0829,Medicina general,Dra. Ramos,Reprogramado,Noche,Lima Norte,446.27,45
+A0830,Cardiología,Dra. Ramos,Cancelado,Noche,Virtual,468.78,60
+A0831,Traumatología,Dra. Ramos,Programado,Tarde,Lima Centro,485.98,20
+A0832,Medicina general,Dra. Ramos,Programado,Mañana,Ate,299.95,45
+A0833,Cardiología,Dra. Ramos,Cancelado,Noche,Lima Norte,303.15,60
+A0834,Dermatología,Dr. Perez,Programado,Tarde,Lima Norte,273.87,30
+A0835,Laboratorio,Dra. Torres,Programado,Tarde,Lima Centro,437.11,20
+A0836,Traumatología,Dra. Ramos,Cancelado,Tarde,Virtual,431.72,45
+A0837,Medicina general,Dra. Ramos,Cancelado,Noche,Virtual,140.69,60
+A0838,Traumatología,Dr. Perez,Programado,Noche,Lima Centro,289.89,60
+A0839,Dermatología,Dr. Vega,Programado,Tarde,Lima Centro,373.38,15
+A0840,Pediatría,Dr. Perez,Reprogramado,Mañana,Virtual,515.69,30
+A0841,Pediatría,Dra. Torres,Programado,Tarde,Lima Centro,424.2,20
+A0842,Laboratorio,Dr. Perez,Atendido,Mañana,Virtual,332.75,60
+A0843,Cardiología,Dr. Flores,Programado,Mañana,Ate,369.28,15
+A0844,Pediatría,Dra. Ramos,Atendido,Noche,Ate,398.62,30
+A0845,Traumatología,Dr. Flores,Atendido,Tarde,Virtual,473.35,20
+A0846,Dermatología,Dr. Vega,Programado,Mañana,Virtual,447.55,20
+A0847,Traumatología,Dra. Torres,Atendido,Tarde,Ate,86.33,30
+A0848,Medicina general,Dr. Vega,Atendido,Tarde,Lima Norte,340.23,30
+A0849,Laboratorio,Dra. Ramos,Atendido,Mañana,Lima Centro,377.73,45
+A0850,Medicina general,Dr. Perez,Reprogramado,Mañana,Ate,208.63,15
+A0851,Pediatría,Dr. Vega,Cancelado,Tarde,Lima Centro,80.5,45
+A0852,Pediatría,Dr. Perez,Atendido,Mañana,Virtual,324.94,60
+A0853,Dermatología,Dr. Flores,Programado,Noche,Virtual,372.45,30
+A0854,Cardiología,Dr. Vega,Reprogramado,Mañana,Ate,478.61,15
+A0855,Traumatología,Dr. Vega,Atendido,Noche,Lima Norte,258.54,20
+A0856,Cardiología,Dr. Perez,Reprogramado,Tarde,Lima Norte,67.27,20
+A0857,Pediatría,Dr. Vega,Reprogramado,Mañana,Virtual,254.62,45
+A0858,Dermatología,Dra. Torres,Programado,Tarde,Lima Centro,377.71,15
+A0859,Dermatología,Dra. Torres,Cancelado,Mañana,Lima Centro,348.47,30
+A0860,Medicina general,Dr. Vega,Atendido,Mañana,Virtual,361.75,20
+A0861,Pediatría,Dra. Torres,Reprogramado,Tarde,Ate,472.37,15
+A0862,Traumatología,Dr. Perez,Cancelado,Tarde,Ate,116.58,60
+A0863,Cardiología,Dra. Torres,Programado,Mañana,Ate,153.66,30
+A0864,Medicina general,Dr. Vega,Cancelado,Tarde,Virtual,205.25,15
+A0865,Medicina general,Dr. Vega,Reprogramado,Noche,Lima Norte,510.24,45
+A0866,Cardiología,Dr. Perez,Cancelado,Mañana,Ate,275.07,20
+A0867,Traumatología,Dr. Vega,Programado,Mañana,Virtual,53.88,30
+A0868,Dermatología,Dra. Torres,Cancelado,Tarde,Lima Norte,366.92,60
+A0869,Medicina general,Dr. Vega,Atendido,Tarde,Lima Norte,358.69,15
+A0870,Medicina general,Dra. Torres,Cancelado,Tarde,Ate,334.0,20
+A0871,Dermatología,Dr. Vega,Atendido,Mañana,Lima Centro,152.3,45
+A0872,Dermatología,Dra. Ramos,Reprogramado,Noche,Virtual,325.97,20
+A0873,Traumatología,Dr. Flores,Atendido,Mañana,Virtual,80.24,30
+A0874,Medicina general,Dr. Perez,Atendido,Noche,Lima Norte,440.35,20
+A0875,Cardiología,Dra. Torres,Cancelado,Noche,Lima Centro,177.62,45
+A0876,Laboratorio,Dra. Torres,Atendido,Tarde,Virtual,127.79,30
+A0877,Dermatología,Dr. Vega,Atendido,Mañana,Ate,136.21,30
+A0878,Medicina general,Dr. Vega,Reprogramado,Tarde,Ate,389.85,60
+A0879,Laboratorio,Dr. Flores,Cancelado,Mañana,Ate,155.81,60
+A0880,Pediatría,Dra. Ramos,Atendido,Noche,Ate,201.61,45
+A0881,Cardiología,Dra. Torres,Cancelado,Mañana,Ate,114.1,60
+A0882,Dermatología,Dr. Vega,Cancelado,Noche,Ate,461.38,45
+A0883,Dermatología,Dr. Perez,Atendido,Noche,Virtual,426.23,60
+A0884,Laboratorio,Dr. Flores,Cancelado,Mañana,Ate,326.46,45
+A0885,Laboratorio,Dr. Flores,Programado,Tarde,Virtual,95.43,60
+A0886,Traumatología,Dra. Torres,Programado,Mañana,Ate,167.87,60
+A0887,Traumatología,Dra. Ramos,Atendido,Tarde,Ate,393.69,60
+A0888,Dermatología,Dra. Ramos,Reprogramado,Noche,Virtual,243.4,60
+A0889,Traumatología,Dr. Vega,Cancelado,Tarde,Lima Norte,233.16,15
+A0890,Laboratorio,Dr. Perez,Reprogramado,Noche,Lima Norte,76.23,30
+A0891,Traumatología,Dra. Ramos,Programado,Mañana,Lima Norte,502.24,20
+A0892,Traumatología,Dr. Flores,Reprogramado,Mañana,Ate,225.21,30
+A0893,Laboratorio,Dra. Ramos,Cancelado,Mañana,Ate,72.14,60
+A0894,Laboratorio,Dr. Perez,Programado,Tarde,Virtual,356.16,30
+A0895,Traumatología,Dra. Torres,Atendido,Tarde,Lima Centro,505.28,30
+A0896,Traumatología,Dra. Ramos,Cancelado,Mañana,Ate,192.24,15
+A0897,Dermatología,Dr. Flores,Reprogramado,Tarde,Lima Centro,269.97,30
+A0898,Medicina general,Dra. Torres,Cancelado,Mañana,Virtual,69.97,60
+A0899,Traumatología,Dra. Torres,Cancelado,Tarde,Lima Norte,180.82,15
+A0900,Pediatría,Dr. Flores,Programado,Noche,Lima Centro,296.37,45
+A0901,Laboratorio,Dra. Torres,Reprogramado,Tarde,Lima Norte,340.15,20
+A0902,Traumatología,Dr. Flores,Atendido,Noche,Virtual,451.83,15
+A0903,Dermatología,Dra. Ramos,Atendido,Tarde,Ate,142.06,15
+A0904,Medicina general,Dr. Perez,Atendido,Tarde,Virtual,326.52,15
+A0905,Traumatología,Dra. Torres,Programado,Tarde,Ate,106.5,45
+A0906,Laboratorio,Dr. Flores,Reprogramado,Tarde,Lima Norte,467.39,45
+A0907,Cardiología,Dra. Ramos,Atendido,Mañana,Lima Centro,397.47,20
+A0908,Cardiología,Dr. Flores,Cancelado,Mañana,Ate,230.44,60
+A0909,Laboratorio,Dra. Torres,Atendido,Mañana,Lima Norte,362.02,20
+A0910,Pediatría,Dra. Torres,Cancelado,Tarde,Virtual,78.06,15
+A0911,Laboratorio,Dra. Torres,Programado,Tarde,Ate,170.77,30
+A0912,Laboratorio,Dra. Ramos,Reprogramado,Mañana,Virtual,466.74,45
+A0913,Pediatría,Dra. Ramos,Reprogramado,Noche,Ate,372.86,60
+A0914,Traumatología,Dr. Vega,Reprogramado,Tarde,Ate,415.02,30
+A0915,Traumatología,Dr. Flores,Cancelado,Noche,Lima Centro,491.36,60
+A0916,Dermatología,Dr. Flores,Atendido,Noche,Ate,446.49,45
+A0917,Dermatología,Dra. Ramos,Cancelado,Mañana,Lima Centro,265.96,45
+A0918,Laboratorio,Dr. Vega,Reprogramado,Tarde,Lima Norte,163.59,20
+A0919,Medicina general,Dra. Ramos,Reprogramado,Tarde,Ate,74.05,60
+A0920,Laboratorio,Dr. Flores,Atendido,Tarde,Lima Norte,71.88,45
+A0921,Pediatría,Dra. Torres,Programado,Noche,Lima Norte,417.55,15
+A0922,Traumatología,Dr. Flores,Programado,Tarde,Ate,228.24,60
+A0923,Pediatría,Dra. Torres,Cancelado,Noche,Ate,201.55,60
+A0924,Cardiología,Dra. Ramos,Cancelado,Mañana,Ate,497.61,20
+A0925,Dermatología,Dra. Torres,Reprogramado,Tarde,Lima Norte,341.18,15
+A0926,Medicina general,Dr. Flores,Reprogramado,Mañana,Lima Norte,69.02,20
+A0927,Cardiología,Dr. Vega,Cancelado,Tarde,Lima Norte,73.15,60
+A0928,Traumatología,Dr. Vega,Reprogramado,Tarde,Lima Norte,77.08,15
+A0929,Dermatología,Dr. Flores,Atendido,Noche,Virtual,416.96,30
+A0930,Laboratorio,Dra. Ramos,Programado,Tarde,Ate,263.14,45
+A0931,Medicina general,Dr. Vega,Reprogramado,Noche,Virtual,359.43,30
+A0932,Dermatología,Dra. Ramos,Reprogramado,Tarde,Virtual,300.57,20
+A0933,Dermatología,Dr. Vega,Programado,Noche,Ate,380.33,30
+A0934,Laboratorio,Dr. Flores,Cancelado,Mañana,Lima Norte,168.97,20
+A0935,Dermatología,Dra. Torres,Atendido,Mañana,Lima Centro,313.51,20
+A0936,Laboratorio,Dra. Ramos,Cancelado,Mañana,Ate,169.95,45
+A0937,Dermatología,Dra. Torres,Reprogramado,Mañana,Lima Centro,67.54,15
+A0938,Cardiología,Dr. Perez,Atendido,Mañana,Virtual,217.41,30
+A0939,Laboratorio,Dr. Flores,Reprogramado,Mañana,Lima Centro,302.61,15
+A0940,Cardiología,Dra. Ramos,Cancelado,Mañana,Ate,255.78,30
+A0941,Pediatría,Dr. Perez,Atendido,Tarde,Ate,171.78,15
+A0942,Dermatología,Dra. Torres,Atendido,Noche,Virtual,347.89,30
+A0943,Medicina general,Dr. Vega,Reprogramado,Tarde,Ate,483.95,45
+A0944,Laboratorio,Dr. Flores,Programado,Mañana,Lima Norte,505.15,30
+A0945,Medicina general,Dr. Vega,Atendido,Mañana,Lima Centro,207.34,30
+A0946,Pediatría,Dr. Flores,Reprogramado,Tarde,Lima Norte,204.39,60
+A0947,Traumatología,Dr. Vega,Cancelado,Noche,Lima Centro,371.48,45
+A0948,Traumatología,Dr. Vega,Cancelado,Tarde,Lima Norte,427.29,60
+A0949,Cardiología,Dr. Perez,Atendido,Noche,Virtual,195.19,60
+A0950,Medicina general,Dra. Ramos,Reprogramado,Tarde,Lima Centro,139.34,20
+A0951,Medicina general,Dr. Vega,Atendido,Tarde,Lima Norte,300.65,15
+A0952,Dermatología,Dr. Perez,Atendido,Noche,Lima Norte,432.28,45
+A0953,Pediatría,Dr. Flores,Atendido,Noche,Lima Centro,186.2,20
+A0954,Medicina general,Dr. Vega,Cancelado,Noche,Virtual,396.11,20
+A0955,Medicina general,Dr. Vega,Programado,Mañana,Lima Norte,284.78,20
+A0956,Laboratorio,Dra. Torres,Cancelado,Mañana,Lima Norte,178.43,45
+A0957,Medicina general,Dra. Torres,Atendido,Mañana,Ate,463.09,30
+A0958,Cardiología,Dra. Torres,Programado,Mañana,Ate,143.38,20
+A0959,Medicina general,Dr. Flores,Cancelado,Mañana,Virtual,248.86,15
+A0960,Dermatología,Dr. Perez,Programado,Noche,Virtual,209.87,60
+A0961,Cardiología,Dr. Flores,Cancelado,Tarde,Virtual,394.59,45
+A0962,Pediatría,Dr. Flores,Cancelado,Tarde,Lima Norte,414.8,20
+A0963,Traumatología,Dr. Vega,Programado,Mañana,Virtual,490.3,60
+A0964,Cardiología,Dr. Flores,Atendido,Mañana,Virtual,183.79,15
+A0965,Traumatología,Dr. Perez,Programado,Tarde,Lima Norte,480.09,45
+A0966,Dermatología,Dra. Ramos,Programado,Mañana,Lima Norte,469.16,60
+A0967,Dermatología,Dra. Torres,Atendido,Noche,Ate,99.99,15
+A0968,Laboratorio,Dr. Vega,Atendido,Tarde,Lima Centro,108.69,15
+A0969,Dermatología,Dra. Ramos,Cancelado,Noche,Virtual,117.69,45
+A0970,Traumatología,Dr. Vega,Reprogramado,Mañana,Lima Norte,291.6,30
+A0971,Laboratorio,Dr. Vega,Programado,Noche,Lima Norte,40.39,60
+A0972,Pediatría,Dra. Torres,Cancelado,Tarde,Lima Centro,403.63,60
+A0973,Dermatología,Dra. Ramos,Programado,Noche,Lima Centro,111.58,15
+A0974,Medicina general,Dra. Ramos,Cancelado,Noche,Ate,333.61,20
+A0975,Cardiología,Dra. Torres,Reprogramado,Mañana,Lima Centro,330.88,15
+A0976,Cardiología,Dr. Flores,Atendido,Noche,Lima Norte,195.62,60
+A0977,Dermatología,Dr. Perez,Atendido,Noche,Virtual,42.73,45
+A0978,Medicina general,Dr. Flores,Programado,Mañana,Lima Centro,162.14,45
+A0979,Cardiología,Dr. Flores,Reprogramado,Tarde,Virtual,497.99,45
+A0980,Dermatología,Dr. Vega,Cancelado,Mañana,Lima Norte,159.73,15
+A0981,Dermatología,Dr. Vega,Cancelado,Tarde,Virtual,502.02,30
+A0982,Pediatría,Dr. Perez,Programado,Tarde,Ate,339.1,30
+A0983,Laboratorio,Dra. Torres,Atendido,Noche,Virtual,292.46,60
+A0984,Laboratorio,Dra. Ramos,Cancelado,Tarde,Lima Centro,70.92,45
+A0985,Dermatología,Dr. Perez,Reprogramado,Noche,Lima Centro,464.25,20
+A0986,Traumatología,Dr. Perez,Programado,Mañana,Lima Centro,304.67,15
+A0987,Cardiología,Dra. Ramos,Cancelado,Noche,Virtual,472.74,15
+A0988,Traumatología,Dr. Vega,Programado,Mañana,Lima Norte,135.55,15
+A0989,Dermatología,Dr. Flores,Cancelado,Noche,Lima Centro,306.66,60
+A0990,Cardiología,Dr. Flores,Programado,Noche,Lima Norte,160.91,60
+A0991,Dermatología,Dr. Perez,Cancelado,Mañana,Ate,248.64,60
+A0992,Pediatría,Dr. Vega,Cancelado,Mañana,Virtual,265.0,15
+A0993,Traumatología,Dr. Flores,Atendido,Mañana,Virtual,274.31,60
+A0994,Cardiología,Dr. Vega,Reprogramado,Noche,Virtual,439.84,30
+A0995,Laboratorio,Dra. Torres,Atendido,Tarde,Lima Centro,458.23,20
+A0996,Traumatología,Dra. Torres,Programado,Mañana,Lima Centro,109.82,30
+A0997,Pediatría,Dr. Perez,Reprogramado,Noche,Ate,242.14,30
+A0998,Dermatología,Dra. Ramos,Reprogramado,Tarde,Virtual,278.66,60
+A0999,Laboratorio,Dr. Flores,Cancelado,Noche,Lima Centro,267.62,30
+A1000,Dermatología,Dr. Flores,Cancelado,Noche,Virtual,197.34,15

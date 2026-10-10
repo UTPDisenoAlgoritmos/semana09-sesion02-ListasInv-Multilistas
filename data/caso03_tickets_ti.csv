@@ -1,0 +1,1001 @@
+id,servicio,prioridad,estado,cliente,tecnico,slaHoras,minutosAbierto
+T0001,Red,Crítica,En progreso,RRHH,Luis,48,2483
+T0002,Base de datos,Crítica,Cerrado,RRHH,Carlos,24,3393
+T0003,Red,Alta,Abierto,Operaciones,María,24,802
+T0004,CRM,Crítica,Abierto,Finanzas,Carlos,48,3194
+T0005,Base de datos,Media,Abierto,Ventas,Carlos,4,2223
+T0006,Correo,Crítica,En progreso,TI,Ana,8,773
+T0007,Mesa de ayuda,Alta,Abierto,Ventas,Carlos,2,2340
+T0008,Mesa de ayuda,Crítica,Escalado,RRHH,Ana,2,1293
+T0009,Correo,Media,Abierto,Operaciones,Carlos,24,2053
+T0010,ERP,Media,Cerrado,Académico,Carlos,4,2883
+T0011,VPN,Crítica,Resuelto,RRHH,María,48,418
+T0012,Mesa de ayuda,Alta,Abierto,TI,Rosa,24,2406
+T0013,Base de datos,Crítica,Resuelto,Ventas,Luis,24,327
+T0014,VPN,Crítica,En progreso,Ventas,María,4,3154
+T0015,VPN,Alta,Escalado,TI,María,48,2673
+T0016,Mesa de ayuda,Media,Cerrado,Ventas,Carlos,8,1480
+T0017,Mesa de ayuda,Baja,Abierto,Académico,María,24,984
+T0018,ERP,Crítica,En progreso,TI,María,24,403
+T0019,Base de datos,Crítica,En progreso,Operaciones,Diego,2,2048
+T0020,Correo,Baja,Resuelto,Ventas,Carlos,4,284
+T0021,CRM,Media,Resuelto,Finanzas,Ana,4,2915
+T0022,Base de datos,Baja,Resuelto,RRHH,Carlos,24,2668
+T0023,ERP,Crítica,Escalado,RRHH,Ana,8,3523
+T0024,CRM,Baja,Cerrado,TI,María,4,1810
+T0025,CRM,Media,Resuelto,Finanzas,María,24,2077
+T0026,Red,Media,Abierto,TI,María,2,3040
+T0027,Base de datos,Alta,Escalado,Finanzas,Luis,2,1195
+T0028,Red,Alta,Escalado,RRHH,Ana,4,1595
+T0029,Base de datos,Baja,Abierto,Operaciones,Rosa,24,2636
+T0030,Mesa de ayuda,Baja,Abierto,Finanzas,Luis,2,3762
+T0031,Red,Baja,En progreso,RRHH,Carlos,2,1304
+T0032,CRM,Baja,En progreso,Académico,María,24,473
+T0033,CRM,Baja,Abierto,TI,Luis,24,601
+T0034,VPN,Alta,Resuelto,TI,Ana,48,3176
+T0035,Red,Crítica,Resuelto,RRHH,Rosa,4,226
+T0036,ERP,Crítica,Cerrado,Operaciones,Carlos,4,347
+T0037,ERP,Crítica,Resuelto,RRHH,Ana,8,3583
+T0038,VPN,Baja,Cerrado,TI,Luis,8,758
+T0039,Base de datos,Crítica,Abierto,RRHH,Carlos,8,678
+T0040,ERP,Media,Cerrado,RRHH,Rosa,48,2826
+T0041,Base de datos,Alta,Cerrado,Operaciones,María,48,1598
+T0042,Base de datos,Crítica,Escalado,TI,Luis,2,2965
+T0043,VPN,Alta,Resuelto,Académico,María,8,63
+T0044,ERP,Baja,En progreso,RRHH,Carlos,2,3249
+T0045,VPN,Baja,Resuelto,TI,María,2,1850
+T0046,Base de datos,Alta,Cerrado,Académico,Diego,2,154
+T0047,ERP,Alta,Cerrado,Académico,Diego,4,2466
+T0048,Red,Alta,Resuelto,Ventas,Luis,48,3917
+T0049,Correo,Media,Resuelto,Finanzas,Carlos,8,2061
+T0050,Base de datos,Crítica,Cerrado,Académico,Rosa,24,1685
+T0051,CRM,Media,Escalado,RRHH,Diego,8,469
+T0052,ERP,Baja,Cerrado,Operaciones,Luis,48,2441
+T0053,ERP,Baja,Cerrado,Operaciones,María,24,2602
+T0054,CRM,Crítica,Abierto,Finanzas,Ana,2,2529
+T0055,Red,Crítica,Cerrado,Académico,Diego,48,413
+T0056,VPN,Baja,Escalado,TI,Ana,8,3493
+T0057,Red,Alta,En progreso,RRHH,Diego,24,473
+T0058,ERP,Baja,Abierto,Operaciones,Rosa,24,3724
+T0059,Base de datos,Baja,Abierto,Operaciones,Luis,48,1166
+T0060,CRM,Media,Resuelto,RRHH,María,4,22
+T0061,Red,Crítica,Abierto,Finanzas,Luis,8,3448
+T0062,Base de datos,Media,Resuelto,Ventas,Diego,24,995
+T0063,Mesa de ayuda,Baja,En progreso,TI,María,24,3398
+T0064,Correo,Baja,En progreso,Académico,Rosa,4,1656
+T0065,CRM,Alta,Cerrado,Ventas,Ana,4,2070
+T0066,Correo,Baja,Resuelto,TI,Luis,8,839
+T0067,Correo,Crítica,Abierto,RRHH,Ana,48,631
+T0068,Correo,Crítica,Escalado,RRHH,Ana,4,1863
+T0069,VPN,Media,En progreso,Ventas,María,4,1221
+T0070,ERP,Alta,Cerrado,Operaciones,María,2,1131
+T0071,Correo,Alta,Abierto,Académico,Diego,2,459
+T0072,Red,Crítica,Abierto,Ventas,Carlos,8,3669
+T0073,ERP,Crítica,Abierto,RRHH,Carlos,4,1605
+T0074,Correo,Baja,Abierto,RRHH,Ana,24,3933
+T0075,VPN,Crítica,En progreso,Académico,Rosa,24,3649
+T0076,CRM,Baja,En progreso,Ventas,Carlos,2,3706
+T0077,ERP,Crítica,Abierto,Operaciones,Carlos,24,2519
+T0078,Mesa de ayuda,Crítica,En progreso,TI,María,8,3800
+T0079,Correo,Alta,Escalado,Finanzas,Diego,2,2126
+T0080,Mesa de ayuda,Alta,En progreso,Operaciones,Ana,4,125
+T0081,CRM,Alta,En progreso,Finanzas,María,4,1101
+T0082,CRM,Baja,En progreso,Finanzas,Carlos,48,2675
+T0083,CRM,Baja,Cerrado,RRHH,Diego,24,3782
+T0084,ERP,Media,En progreso,Ventas,María,8,3944
+T0085,Red,Crítica,Escalado,TI,Carlos,4,3257
+T0086,ERP,Baja,Cerrado,RRHH,Rosa,48,3065
+T0087,CRM,Media,Escalado,Finanzas,Diego,24,1763
+T0088,ERP,Media,Resuelto,Académico,Ana,24,690
+T0089,Correo,Media,Escalado,RRHH,Carlos,48,3391
+T0090,VPN,Media,Cerrado,Finanzas,Ana,4,3318
+T0091,CRM,Baja,En progreso,Operaciones,Luis,2,886
+T0092,VPN,Media,Resuelto,Ventas,Carlos,2,44
+T0093,CRM,Crítica,Resuelto,Ventas,Rosa,48,3262
+T0094,CRM,Alta,Escalado,Finanzas,Rosa,8,2469
+T0095,ERP,Alta,Abierto,TI,Carlos,48,3880
+T0096,Base de datos,Crítica,Escalado,Académico,Rosa,24,1306
+T0097,Base de datos,Media,En progreso,Ventas,Ana,24,2047
+T0098,Correo,Media,Cerrado,Finanzas,Ana,24,705
+T0099,Mesa de ayuda,Media,Escalado,RRHH,Luis,48,92
+T0100,CRM,Crítica,Escalado,Finanzas,Rosa,8,541
+T0101,Base de datos,Baja,Abierto,TI,Diego,2,1386
+T0102,VPN,Crítica,Abierto,RRHH,Ana,24,2967
+T0103,CRM,Media,Resuelto,Operaciones,Rosa,2,2284
+T0104,Base de datos,Media,Cerrado,TI,Ana,24,1227
+T0105,VPN,Baja,Cerrado,Académico,Ana,8,3845
+T0106,Mesa de ayuda,Crítica,Abierto,Ventas,Ana,2,573
+T0107,Correo,Media,Cerrado,Ventas,Luis,2,787
+T0108,VPN,Media,Escalado,Finanzas,María,2,1068
+T0109,Base de datos,Crítica,Abierto,Finanzas,Carlos,2,1085
+T0110,CRM,Baja,Resuelto,Académico,Luis,4,2394
+T0111,Red,Crítica,En progreso,Operaciones,Luis,48,3641
+T0112,Base de datos,Baja,Cerrado,Académico,Ana,48,2166
+T0113,ERP,Baja,Cerrado,Operaciones,Carlos,24,930
+T0114,Correo,Media,Resuelto,Académico,Ana,8,2292
+T0115,Base de datos,Alta,En progreso,Académico,Ana,2,3985
+T0116,Red,Crítica,En progreso,Finanzas,María,4,1922
+T0117,Base de datos,Baja,En progreso,RRHH,Ana,8,859
+T0118,Base de datos,Media,Resuelto,Académico,Rosa,4,3477
+T0119,Mesa de ayuda,Crítica,En progreso,Ventas,Carlos,24,3998
+T0120,Red,Alta,Cerrado,Ventas,Ana,8,1737
+T0121,ERP,Media,Escalado,Académico,Ana,4,1893
+T0122,Correo,Crítica,En progreso,Finanzas,Rosa,4,1097
+T0123,Correo,Baja,Escalado,RRHH,Carlos,8,489
+T0124,Mesa de ayuda,Crítica,Resuelto,RRHH,Luis,4,1630
+T0125,Mesa de ayuda,Baja,Escalado,Operaciones,Ana,24,1121
+T0126,CRM,Crítica,Abierto,Académico,Rosa,24,799
+T0127,CRM,Alta,Cerrado,Ventas,Diego,8,2174
+T0128,Mesa de ayuda,Baja,Escalado,RRHH,Ana,2,2652
+T0129,ERP,Crítica,En progreso,Finanzas,Ana,2,2361
+T0130,CRM,Alta,Abierto,TI,Ana,8,932
+T0131,Mesa de ayuda,Baja,Cerrado,RRHH,Ana,4,3011
+T0132,Base de datos,Media,Cerrado,Ventas,Luis,4,1428
+T0133,VPN,Media,Escalado,Operaciones,María,2,391
+T0134,ERP,Baja,Resuelto,Académico,Luis,4,1295
+T0135,VPN,Crítica,En progreso,Ventas,Carlos,24,585
+T0136,Correo,Baja,Cerrado,Operaciones,Ana,4,3996
+T0137,CRM,Crítica,En progreso,Académico,Ana,48,1447
+T0138,Red,Crítica,Cerrado,Ventas,Rosa,2,190
+T0139,Base de datos,Crítica,Escalado,Académico,Carlos,4,2156
+T0140,Mesa de ayuda,Alta,En progreso,Finanzas,Ana,8,3297
+T0141,VPN,Media,Cerrado,RRHH,María,8,2240
+T0142,CRM,Baja,Resuelto,Operaciones,Rosa,2,3395
+T0143,CRM,Media,Resuelto,TI,María,48,1988
+T0144,Correo,Media,Escalado,Académico,María,2,610
+T0145,Red,Alta,En progreso,Operaciones,Rosa,2,1005
+T0146,Mesa de ayuda,Baja,Resuelto,Ventas,María,2,798
+T0147,Red,Crítica,Resuelto,Académico,María,48,3688
+T0148,Red,Alta,Resuelto,Académico,Carlos,8,1606
+T0149,Mesa de ayuda,Baja,Resuelto,Operaciones,Luis,2,2378
+T0150,Mesa de ayuda,Media,Escalado,Finanzas,Rosa,24,2326
+T0151,Base de datos,Media,Resuelto,Finanzas,Ana,24,3802
+T0152,VPN,Alta,Cerrado,Académico,Luis,48,3964
+T0153,CRM,Alta,Resuelto,RRHH,Carlos,2,3280
+T0154,CRM,Crítica,Cerrado,Finanzas,Luis,8,3386
+T0155,Mesa de ayuda,Crítica,Abierto,RRHH,Carlos,2,1767
+T0156,CRM,Crítica,Abierto,Operaciones,Luis,8,3604
+T0157,CRM,Alta,Abierto,Académico,Carlos,4,3007
+T0158,ERP,Baja,Escalado,Finanzas,Carlos,4,136
+T0159,Red,Media,En progreso,Académico,María,24,1735
+T0160,Red,Crítica,Resuelto,Operaciones,Diego,8,714
+T0161,Mesa de ayuda,Baja,Resuelto,TI,Luis,4,1029
+T0162,ERP,Baja,Escalado,Ventas,Carlos,8,355
+T0163,CRM,Baja,Escalado,Ventas,Rosa,24,398
+T0164,ERP,Baja,Resuelto,TI,María,8,1923
+T0165,CRM,Baja,Cerrado,RRHH,Rosa,24,118
+T0166,Mesa de ayuda,Crítica,Cerrado,Finanzas,Luis,48,3719
+T0167,CRM,Alta,Escalado,TI,Carlos,4,2548
+T0168,Mesa de ayuda,Media,Abierto,RRHH,Luis,24,2749
+T0169,Correo,Baja,Escalado,RRHH,Ana,2,229
+T0170,CRM,Crítica,Resuelto,TI,Ana,8,2321
+T0171,Red,Media,Abierto,Finanzas,María,48,2767
+T0172,Mesa de ayuda,Crítica,En progreso,TI,Luis,48,3037
+T0173,Red,Alta,En progreso,Académico,María,4,1237
+T0174,VPN,Media,Abierto,RRHH,Diego,4,474
+T0175,Correo,Crítica,En progreso,TI,Ana,48,401
+T0176,ERP,Alta,Abierto,RRHH,Ana,48,1822
+T0177,Red,Crítica,Abierto,Operaciones,Rosa,24,758
+T0178,Base de datos,Alta,Escalado,Operaciones,Diego,24,3524
+T0179,VPN,Crítica,Cerrado,Ventas,María,2,761
+T0180,ERP,Alta,En progreso,TI,María,48,825
+T0181,Red,Baja,Resuelto,Operaciones,María,2,3933
+T0182,Mesa de ayuda,Baja,Resuelto,Académico,Carlos,24,1585
+T0183,VPN,Crítica,Cerrado,RRHH,Rosa,4,119
+T0184,CRM,Baja,Abierto,TI,Rosa,2,2382
+T0185,CRM,Crítica,Escalado,RRHH,Ana,8,3948
+T0186,ERP,Baja,Cerrado,Operaciones,Ana,4,1470
+T0187,Mesa de ayuda,Alta,Resuelto,Académico,Diego,24,2106
+T0188,Correo,Alta,En progreso,Operaciones,María,48,1394
+T0189,Red,Alta,Resuelto,Académico,Carlos,24,284
+T0190,Base de datos,Baja,Cerrado,RRHH,Diego,4,2364
+T0191,VPN,Media,En progreso,Académico,Carlos,48,3917
+T0192,Mesa de ayuda,Media,Escalado,TI,Rosa,2,189
+T0193,Correo,Alta,En progreso,Finanzas,María,2,2050
+T0194,VPN,Baja,Resuelto,Ventas,María,4,436
+T0195,ERP,Baja,Cerrado,Finanzas,Ana,48,1030
+T0196,Correo,Crítica,Abierto,RRHH,Carlos,48,2590
+T0197,Base de datos,Crítica,En progreso,Operaciones,Ana,24,1551
+T0198,ERP,Alta,En progreso,Operaciones,Rosa,24,2785
+T0199,CRM,Alta,En progreso,Académico,Luis,24,3338
+T0200,Mesa de ayuda,Alta,Abierto,TI,Ana,2,838
+T0201,Correo,Alta,Abierto,Operaciones,Rosa,48,2243
+T0202,Base de datos,Crítica,Resuelto,Ventas,María,48,2037
+T0203,ERP,Alta,Escalado,RRHH,Diego,8,1465
+T0204,Mesa de ayuda,Alta,Abierto,RRHH,Rosa,24,3584
+T0205,Correo,Crítica,En progreso,TI,Carlos,2,488
+T0206,Red,Alta,Abierto,TI,Diego,8,97
+T0207,ERP,Media,Resuelto,RRHH,María,8,283
+T0208,Base de datos,Alta,Resuelto,Finanzas,Diego,48,993
+T0209,Base de datos,Media,Cerrado,TI,Ana,48,2862
+T0210,Correo,Baja,Resuelto,Académico,Ana,2,1389
+T0211,Red,Media,En progreso,Operaciones,Ana,4,841
+T0212,Mesa de ayuda,Media,Abierto,Ventas,Rosa,2,3304
+T0213,Mesa de ayuda,Crítica,Resuelto,Finanzas,Rosa,48,3033
+T0214,Mesa de ayuda,Crítica,Escalado,RRHH,Luis,8,2967
+T0215,Correo,Crítica,Abierto,RRHH,Diego,4,2668
+T0216,CRM,Baja,Cerrado,Operaciones,Luis,2,3819
+T0217,Correo,Crítica,En progreso,TI,Diego,24,2798
+T0218,VPN,Crítica,Escalado,RRHH,Ana,24,3141
+T0219,Red,Alta,Cerrado,Académico,Rosa,48,569
+T0220,Correo,Baja,Abierto,TI,Carlos,8,798
+T0221,CRM,Baja,Abierto,Ventas,Luis,2,2415
+T0222,Correo,Alta,Cerrado,Académico,Diego,48,192
+T0223,Base de datos,Crítica,En progreso,Finanzas,Ana,2,524
+T0224,Red,Alta,Resuelto,Finanzas,Carlos,8,2472
+T0225,VPN,Alta,Resuelto,Ventas,Diego,24,1965
+T0226,VPN,Crítica,Abierto,Finanzas,Carlos,48,848
+T0227,Red,Media,En progreso,RRHH,María,8,3861
+T0228,CRM,Media,En progreso,TI,Carlos,8,2863
+T0229,Mesa de ayuda,Crítica,Abierto,Operaciones,Rosa,48,1996
+T0230,CRM,Crítica,En progreso,Ventas,Diego,4,1254
+T0231,VPN,Alta,Abierto,Operaciones,María,4,151
+T0232,ERP,Baja,Cerrado,Finanzas,Ana,24,3430
+T0233,Correo,Media,Resuelto,TI,Rosa,8,3393
+T0234,Correo,Crítica,Resuelto,TI,Rosa,24,82
+T0235,Base de datos,Baja,Cerrado,RRHH,Ana,4,847
+T0236,Red,Alta,Cerrado,TI,Ana,8,133
+T0237,Mesa de ayuda,Media,Abierto,TI,Carlos,8,3323
+T0238,Base de datos,Alta,Abierto,Operaciones,María,48,1782
+T0239,Base de datos,Baja,Abierto,Finanzas,Diego,24,3906
+T0240,VPN,Media,Escalado,RRHH,Rosa,48,2950
+T0241,Mesa de ayuda,Media,En progreso,RRHH,Rosa,4,545
+T0242,Correo,Media,Resuelto,Finanzas,Luis,48,1216
+T0243,CRM,Baja,Abierto,TI,Carlos,8,1105
+T0244,VPN,Media,Escalado,Finanzas,Ana,8,2333
+T0245,VPN,Media,Resuelto,Ventas,Rosa,24,75
+T0246,Red,Crítica,Cerrado,Finanzas,Carlos,24,2617
+T0247,Base de datos,Alta,Cerrado,Finanzas,Diego,2,1137
+T0248,Mesa de ayuda,Media,Abierto,RRHH,Luis,8,3142
+T0249,Base de datos,Media,Resuelto,RRHH,Luis,4,2586
+T0250,ERP,Alta,Escalado,Académico,Ana,4,473
+T0251,VPN,Crítica,En progreso,Académico,Diego,24,2380
+T0252,CRM,Crítica,Escalado,Académico,Luis,2,3903
+T0253,VPN,Media,Resuelto,Finanzas,María,8,2218
+T0254,VPN,Crítica,Escalado,Ventas,Carlos,2,322
+T0255,Mesa de ayuda,Baja,Abierto,TI,Ana,4,840
+T0256,CRM,Media,Cerrado,Finanzas,María,24,3592
+T0257,CRM,Alta,Abierto,Operaciones,Diego,8,1377
+T0258,Red,Media,Cerrado,Operaciones,Diego,2,661
+T0259,CRM,Crítica,Resuelto,Ventas,Diego,2,440
+T0260,Mesa de ayuda,Alta,Resuelto,TI,María,48,3214
+T0261,Mesa de ayuda,Media,En progreso,RRHH,Diego,2,2696
+T0262,VPN,Alta,Cerrado,Académico,Ana,2,3931
+T0263,ERP,Baja,Escalado,Académico,Ana,48,3274
+T0264,Correo,Baja,Escalado,TI,Rosa,8,1107
+T0265,ERP,Media,En progreso,Operaciones,Luis,8,950
+T0266,Red,Media,Abierto,Académico,Luis,24,3006
+T0267,Red,Media,Abierto,Operaciones,Diego,48,318
+T0268,CRM,Baja,Escalado,Ventas,Rosa,24,946
+T0269,Mesa de ayuda,Alta,Escalado,Ventas,Rosa,48,2732
+T0270,ERP,Media,Resuelto,Operaciones,Carlos,2,338
+T0271,Red,Baja,Escalado,Ventas,Diego,24,2596
+T0272,Base de datos,Alta,En progreso,RRHH,Ana,4,499
+T0273,Red,Media,Escalado,Académico,Rosa,2,522
+T0274,Base de datos,Crítica,Cerrado,Finanzas,María,4,304
+T0275,ERP,Baja,Cerrado,Operaciones,Luis,24,2859
+T0276,Mesa de ayuda,Alta,Resuelto,Finanzas,Carlos,8,2427
+T0277,Mesa de ayuda,Crítica,Abierto,Finanzas,María,8,3895
+T0278,Red,Baja,Cerrado,Académico,Rosa,8,3108
+T0279,Red,Alta,En progreso,Académico,Diego,48,348
+T0280,ERP,Crítica,Escalado,TI,Carlos,24,1558
+T0281,CRM,Baja,En progreso,TI,María,48,1149
+T0282,Base de datos,Crítica,En progreso,Operaciones,Rosa,8,202
+T0283,Mesa de ayuda,Baja,Resuelto,Operaciones,Rosa,8,3106
+T0284,ERP,Alta,Abierto,Académico,María,4,1768
+T0285,Mesa de ayuda,Media,Escalado,TI,Carlos,2,1427
+T0286,CRM,Alta,Abierto,Operaciones,Carlos,24,1802
+T0287,ERP,Alta,Resuelto,Operaciones,Diego,2,3791
+T0288,ERP,Media,En progreso,Finanzas,Luis,48,3440
+T0289,Mesa de ayuda,Alta,Abierto,TI,Ana,48,2208
+T0290,Base de datos,Alta,Abierto,RRHH,Ana,8,837
+T0291,CRM,Baja,Cerrado,TI,Luis,24,1213
+T0292,Correo,Crítica,Cerrado,RRHH,Rosa,8,360
+T0293,Base de datos,Alta,Resuelto,Académico,María,2,3971
+T0294,CRM,Crítica,En progreso,Académico,Ana,8,646
+T0295,Mesa de ayuda,Media,Resuelto,RRHH,María,48,2757
+T0296,Base de datos,Crítica,Resuelto,Finanzas,Rosa,2,3823
+T0297,VPN,Media,En progreso,TI,María,2,3892
+T0298,VPN,Crítica,En progreso,Ventas,Diego,24,3577
+T0299,ERP,Alta,Resuelto,RRHH,Luis,24,3338
+T0300,ERP,Baja,Resuelto,Ventas,Luis,2,3899
+T0301,Mesa de ayuda,Alta,Abierto,RRHH,Ana,24,2289
+T0302,Mesa de ayuda,Alta,En progreso,Finanzas,Rosa,8,2517
+T0303,Red,Alta,Resuelto,RRHH,Diego,4,3600
+T0304,CRM,Alta,Resuelto,Académico,Rosa,24,3268
+T0305,VPN,Baja,Escalado,Operaciones,Diego,24,1215
+T0306,Correo,Alta,Abierto,Operaciones,Rosa,24,1337
+T0307,ERP,Baja,Abierto,Ventas,Rosa,8,2710
+T0308,Correo,Media,Cerrado,Académico,Luis,24,3446
+T0309,Base de datos,Baja,Escalado,RRHH,María,4,123
+T0310,CRM,Media,Escalado,Ventas,Rosa,2,2308
+T0311,Base de datos,Media,Resuelto,Académico,Carlos,24,1608
+T0312,Base de datos,Baja,Cerrado,RRHH,Carlos,2,1104
+T0313,Red,Alta,Resuelto,Académico,Ana,8,1838
+T0314,Red,Alta,Escalado,Ventas,Diego,4,3198
+T0315,VPN,Crítica,Escalado,TI,Carlos,4,2482
+T0316,Mesa de ayuda,Crítica,Abierto,RRHH,Ana,8,3741
+T0317,CRM,Crítica,Abierto,TI,Luis,8,2198
+T0318,ERP,Alta,Escalado,RRHH,María,4,1193
+T0319,Base de datos,Alta,Resuelto,Operaciones,Rosa,4,2269
+T0320,VPN,Alta,Abierto,Finanzas,Ana,48,424
+T0321,Mesa de ayuda,Baja,Cerrado,Finanzas,Luis,8,1239
+T0322,Correo,Alta,En progreso,Finanzas,Carlos,2,3335
+T0323,Base de datos,Baja,Cerrado,Ventas,María,8,3535
+T0324,Correo,Crítica,Abierto,TI,María,24,87
+T0325,Correo,Alta,Abierto,Académico,Diego,24,800
+T0326,Base de datos,Media,Resuelto,RRHH,Diego,2,1242
+T0327,CRM,Baja,En progreso,Finanzas,Carlos,48,1935
+T0328,Red,Media,Cerrado,Finanzas,Luis,24,2302
+T0329,CRM,Baja,Resuelto,Académico,Diego,48,1006
+T0330,Red,Crítica,Cerrado,Académico,Rosa,8,3129
+T0331,Mesa de ayuda,Crítica,Cerrado,Ventas,Diego,2,1632
+T0332,Base de datos,Alta,Cerrado,Operaciones,Rosa,48,451
+T0333,VPN,Media,Resuelto,Ventas,María,2,395
+T0334,Mesa de ayuda,Alta,En progreso,RRHH,Diego,4,348
+T0335,ERP,Baja,Escalado,RRHH,Diego,48,3120
+T0336,ERP,Crítica,Cerrado,Operaciones,Rosa,8,3038
+T0337,CRM,Alta,Abierto,Operaciones,María,48,2457
+T0338,Red,Crítica,Resuelto,Académico,Luis,48,3260
+T0339,Red,Baja,Resuelto,Académico,Luis,8,1894
+T0340,VPN,Baja,Escalado,TI,María,2,3778
+T0341,Correo,Baja,Abierto,RRHH,Luis,2,668
+T0342,Mesa de ayuda,Crítica,En progreso,Ventas,Rosa,2,164
+T0343,Red,Baja,En progreso,Académico,Diego,24,577
+T0344,VPN,Baja,Cerrado,Finanzas,Carlos,2,1788
+T0345,CRM,Media,Escalado,Operaciones,Diego,8,2314
+T0346,VPN,Alta,En progreso,Operaciones,Diego,4,3293
+T0347,Mesa de ayuda,Media,Escalado,TI,Carlos,24,1900
+T0348,ERP,Media,En progreso,Ventas,Diego,24,45
+T0349,CRM,Baja,En progreso,Ventas,Rosa,2,27
+T0350,CRM,Alta,En progreso,Académico,Ana,48,1883
+T0351,CRM,Crítica,Abierto,TI,Rosa,48,645
+T0352,Correo,Media,Escalado,Ventas,Carlos,2,3805
+T0353,ERP,Media,Resuelto,RRHH,Diego,8,1509
+T0354,Mesa de ayuda,Baja,Resuelto,TI,Diego,4,322
+T0355,Mesa de ayuda,Alta,Abierto,Académico,Luis,8,735
+T0356,CRM,Crítica,En progreso,TI,Diego,24,1357
+T0357,Mesa de ayuda,Media,Escalado,Académico,Rosa,4,693
+T0358,Correo,Alta,En progreso,Finanzas,Diego,4,592
+T0359,ERP,Baja,Abierto,Operaciones,Ana,2,566
+T0360,Mesa de ayuda,Baja,Cerrado,Académico,Rosa,8,1244
+T0361,Mesa de ayuda,Crítica,En progreso,TI,Rosa,24,3174
+T0362,Red,Baja,Resuelto,Operaciones,Diego,8,2178
+T0363,Correo,Alta,En progreso,Académico,Carlos,4,3445
+T0364,Red,Baja,Cerrado,Académico,Carlos,2,2290
+T0365,Red,Media,En progreso,Finanzas,Carlos,24,3161
+T0366,VPN,Media,Cerrado,Ventas,Diego,48,3594
+T0367,ERP,Baja,Resuelto,Ventas,María,2,807
+T0368,Red,Media,Escalado,Ventas,Ana,48,1276
+T0369,CRM,Crítica,Resuelto,Operaciones,Diego,2,2490
+T0370,CRM,Crítica,Resuelto,Académico,Rosa,24,184
+T0371,VPN,Media,Resuelto,Académico,Ana,48,3377
+T0372,Correo,Baja,Escalado,Académico,Rosa,24,716
+T0373,Red,Crítica,Abierto,Operaciones,Ana,48,3667
+T0374,VPN,Alta,En progreso,Ventas,Ana,24,3421
+T0375,Base de datos,Crítica,Abierto,RRHH,María,2,1292
+T0376,Correo,Media,En progreso,Académico,Diego,2,1367
+T0377,Base de datos,Media,En progreso,TI,María,8,2119
+T0378,Correo,Baja,Cerrado,Académico,María,2,271
+T0379,ERP,Alta,Resuelto,Finanzas,Luis,24,187
+T0380,CRM,Alta,Escalado,RRHH,Luis,2,1279
+T0381,CRM,Media,Abierto,Operaciones,Rosa,48,3429
+T0382,VPN,Crítica,Escalado,RRHH,Ana,2,3765
+T0383,Correo,Alta,Abierto,Ventas,Carlos,48,2571
+T0384,Correo,Alta,Abierto,Ventas,María,8,1890
+T0385,Correo,Alta,Resuelto,Académico,María,4,3066
+T0386,Base de datos,Alta,Resuelto,Finanzas,Rosa,8,734
+T0387,CRM,Alta,Escalado,Operaciones,Rosa,4,3426
+T0388,ERP,Media,En progreso,Ventas,Carlos,8,2862
+T0389,Red,Media,Abierto,RRHH,Carlos,48,1494
+T0390,CRM,Baja,En progreso,Finanzas,Diego,24,642
+T0391,Mesa de ayuda,Alta,Cerrado,Operaciones,María,8,854
+T0392,CRM,Media,Abierto,TI,Luis,8,898
+T0393,Red,Media,Abierto,Finanzas,Diego,4,1951
+T0394,ERP,Baja,Escalado,Operaciones,Carlos,48,1552
+T0395,VPN,Crítica,Resuelto,Académico,Ana,8,3565
+T0396,Correo,Alta,Cerrado,RRHH,Carlos,8,2658
+T0397,Correo,Alta,Resuelto,Operaciones,Luis,24,2244
+T0398,ERP,Crítica,Cerrado,TI,Rosa,48,2364
+T0399,VPN,Baja,Cerrado,RRHH,Luis,8,2967
+T0400,CRM,Media,Cerrado,Académico,Rosa,8,169
+T0401,ERP,Crítica,Cerrado,RRHH,Carlos,48,1646
+T0402,Mesa de ayuda,Crítica,En progreso,TI,Luis,8,3636
+T0403,Mesa de ayuda,Alta,Escalado,Ventas,Luis,8,3234
+T0404,Correo,Crítica,Resuelto,Ventas,Carlos,24,1626
+T0405,ERP,Baja,Abierto,Académico,Luis,4,3621
+T0406,ERP,Media,Resuelto,Finanzas,Luis,4,3518
+T0407,ERP,Baja,Abierto,Académico,Luis,4,2809
+T0408,Mesa de ayuda,Media,Abierto,RRHH,Luis,8,414
+T0409,Red,Baja,En progreso,RRHH,María,24,3410
+T0410,Red,Alta,Abierto,RRHH,Luis,8,3130
+T0411,ERP,Baja,Resuelto,Operaciones,María,24,2450
+T0412,Red,Crítica,Resuelto,RRHH,María,48,115
+T0413,ERP,Alta,En progreso,Operaciones,Carlos,8,2058
+T0414,Base de datos,Crítica,Escalado,TI,Rosa,2,2649
+T0415,ERP,Alta,Cerrado,Ventas,Ana,4,1241
+T0416,Red,Crítica,Resuelto,RRHH,María,4,1748
+T0417,ERP,Media,Resuelto,RRHH,María,24,147
+T0418,CRM,Baja,En progreso,Ventas,Rosa,48,3422
+T0419,Correo,Baja,Abierto,Operaciones,María,2,2691
+T0420,Base de datos,Baja,Abierto,Ventas,Carlos,4,2358
+T0421,Mesa de ayuda,Baja,Cerrado,Finanzas,Rosa,24,1735
+T0422,Base de datos,Crítica,Resuelto,RRHH,Carlos,2,2477
+T0423,Base de datos,Baja,Escalado,Operaciones,Rosa,8,3462
+T0424,Mesa de ayuda,Media,Abierto,Ventas,Rosa,48,3116
+T0425,Red,Crítica,En progreso,Finanzas,Carlos,48,1061
+T0426,ERP,Baja,Cerrado,Finanzas,Rosa,8,168
+T0427,Correo,Baja,Cerrado,Operaciones,Ana,48,2816
+T0428,CRM,Media,Cerrado,Operaciones,María,8,3145
+T0429,Base de datos,Crítica,Escalado,Operaciones,Luis,8,1466
+T0430,Red,Crítica,Cerrado,Operaciones,Carlos,2,2445
+T0431,Correo,Media,Abierto,TI,María,24,1023
+T0432,ERP,Crítica,Escalado,Finanzas,Luis,4,2597
+T0433,Red,Baja,Resuelto,Operaciones,Rosa,48,1004
+T0434,Base de datos,Baja,Abierto,Finanzas,Carlos,8,161
+T0435,ERP,Crítica,Cerrado,TI,María,2,1388
+T0436,VPN,Media,Cerrado,RRHH,Ana,4,3897
+T0437,VPN,Media,Abierto,RRHH,Ana,4,2343
+T0438,CRM,Media,Escalado,TI,Diego,4,2848
+T0439,Base de datos,Crítica,Resuelto,TI,Rosa,4,3120
+T0440,Red,Media,En progreso,Operaciones,Diego,2,2481
+T0441,Red,Alta,Resuelto,Operaciones,Ana,24,853
+T0442,Correo,Baja,En progreso,Operaciones,Carlos,24,2458
+T0443,Base de datos,Media,Abierto,Ventas,Luis,2,2909
+T0444,CRM,Alta,Abierto,TI,Carlos,48,3392
+T0445,Red,Baja,Escalado,Operaciones,Diego,24,1953
+T0446,Mesa de ayuda,Crítica,Resuelto,Operaciones,Carlos,8,3374
+T0447,Red,Alta,Cerrado,Académico,Rosa,4,2185
+T0448,VPN,Alta,Cerrado,Operaciones,Rosa,2,2711
+T0449,Base de datos,Crítica,Cerrado,TI,Carlos,2,855
+T0450,VPN,Media,Resuelto,Operaciones,Carlos,24,2767
+T0451,Red,Crítica,En progreso,TI,Diego,4,2561
+T0452,CRM,Baja,Cerrado,Finanzas,Carlos,48,3052
+T0453,Red,Alta,Cerrado,TI,Luis,24,2491
+T0454,Base de datos,Crítica,Abierto,RRHH,Luis,4,458
+T0455,Mesa de ayuda,Media,En progreso,Ventas,María,24,2258
+T0456,Red,Media,En progreso,RRHH,Diego,8,1313
+T0457,Base de datos,Media,Abierto,Académico,María,8,2062
+T0458,Mesa de ayuda,Baja,En progreso,RRHH,Rosa,24,1177
+T0459,Base de datos,Baja,En progreso,Ventas,Rosa,8,18
+T0460,Mesa de ayuda,Media,Cerrado,Académico,Luis,2,1575
+T0461,Mesa de ayuda,Baja,Cerrado,RRHH,Luis,2,2539
+T0462,ERP,Alta,Escalado,TI,Diego,2,2460
+T0463,Mesa de ayuda,Baja,Abierto,Operaciones,Diego,4,686
+T0464,Mesa de ayuda,Baja,Abierto,Operaciones,Ana,48,3623
+T0465,Base de datos,Baja,Escalado,TI,Luis,4,1880
+T0466,CRM,Alta,En progreso,RRHH,María,4,1326
+T0467,ERP,Media,Abierto,Finanzas,Luis,48,1893
+T0468,Red,Alta,Escalado,RRHH,Luis,4,3989
+T0469,Red,Crítica,Escalado,Operaciones,Luis,4,1898
+T0470,VPN,Crítica,Abierto,Académico,Ana,24,3556
+T0471,Mesa de ayuda,Baja,Cerrado,Finanzas,Rosa,8,3623
+T0472,VPN,Crítica,Escalado,Académico,Diego,2,1801
+T0473,Red,Crítica,Resuelto,RRHH,María,2,1493
+T0474,Red,Baja,Cerrado,Finanzas,Ana,4,3474
+T0475,CRM,Crítica,En progreso,Operaciones,Rosa,8,586
+T0476,ERP,Baja,En progreso,Operaciones,Ana,8,2634
+T0477,VPN,Crítica,Cerrado,Académico,Rosa,4,3105
+T0478,CRM,Media,Resuelto,Académico,Rosa,8,3230
+T0479,Red,Media,Escalado,Operaciones,Diego,2,3123
+T0480,ERP,Alta,Escalado,Operaciones,Ana,4,3610
+T0481,CRM,Media,Resuelto,Operaciones,María,4,2330
+T0482,VPN,Media,Cerrado,Académico,Rosa,8,637
+T0483,VPN,Alta,En progreso,TI,Carlos,24,1058
+T0484,VPN,Alta,Abierto,Ventas,Diego,8,612
+T0485,Mesa de ayuda,Crítica,Resuelto,Operaciones,María,48,3058
+T0486,Base de datos,Baja,Cerrado,TI,Luis,8,2642
+T0487,ERP,Media,Escalado,Operaciones,Rosa,24,2660
+T0488,ERP,Baja,En progreso,RRHH,Rosa,2,2744
+T0489,Correo,Media,En progreso,Operaciones,Luis,4,619
+T0490,CRM,Crítica,En progreso,Operaciones,Rosa,24,2337
+T0491,VPN,Crítica,Escalado,Ventas,María,4,1494
+T0492,VPN,Crítica,Cerrado,Académico,Ana,8,2083
+T0493,Correo,Media,Escalado,TI,María,48,3579
+T0494,Correo,Crítica,Cerrado,TI,Diego,4,1007
+T0495,CRM,Alta,En progreso,Ventas,María,24,731
+T0496,Correo,Media,Escalado,Operaciones,Ana,4,3008
+T0497,Base de datos,Crítica,En progreso,TI,Carlos,2,855
+T0498,ERP,Alta,Escalado,TI,Rosa,24,407
+T0499,Mesa de ayuda,Crítica,Resuelto,Académico,Ana,4,1964
+T0500,Correo,Baja,Abierto,RRHH,Luis,2,2226
+T0501,Mesa de ayuda,Alta,Escalado,RRHH,Carlos,48,44
+T0502,Mesa de ayuda,Baja,Abierto,Académico,Rosa,4,2417
+T0503,Base de datos,Baja,Abierto,Operaciones,Rosa,48,1113
+T0504,Red,Alta,Resuelto,TI,Rosa,48,1167
+T0505,VPN,Media,Resuelto,TI,Luis,8,1132
+T0506,VPN,Media,Cerrado,Finanzas,Luis,24,31
+T0507,CRM,Baja,Cerrado,Ventas,Luis,2,3119
+T0508,Red,Media,Abierto,RRHH,Carlos,48,3374
+T0509,ERP,Alta,Abierto,Ventas,Luis,8,2060
+T0510,CRM,Media,Escalado,RRHH,Ana,8,3804
+T0511,Mesa de ayuda,Alta,Escalado,Académico,Luis,8,645
+T0512,ERP,Baja,En progreso,Ventas,Diego,4,1338
+T0513,Mesa de ayuda,Baja,Escalado,RRHH,María,8,941
+T0514,CRM,Baja,Resuelto,Operaciones,Luis,8,1371
+T0515,VPN,Media,Resuelto,RRHH,Carlos,24,2312
+T0516,Red,Baja,Abierto,RRHH,Ana,24,1453
+T0517,VPN,Alta,Cerrado,Operaciones,Ana,4,859
+T0518,VPN,Media,Resuelto,Operaciones,Ana,8,1756
+T0519,Base de datos,Baja,Resuelto,TI,Diego,4,3271
+T0520,ERP,Baja,Resuelto,Finanzas,Ana,4,662
+T0521,CRM,Baja,Escalado,RRHH,Ana,24,2822
+T0522,VPN,Baja,En progreso,Operaciones,Diego,48,1541
+T0523,Correo,Crítica,Abierto,Académico,Carlos,8,2208
+T0524,CRM,Baja,Resuelto,Finanzas,Rosa,4,3612
+T0525,VPN,Crítica,Resuelto,Académico,Rosa,4,3584
+T0526,ERP,Media,Escalado,Ventas,Diego,2,1800
+T0527,ERP,Media,Escalado,TI,María,8,2285
+T0528,Mesa de ayuda,Media,Abierto,Ventas,Ana,8,3925
+T0529,Base de datos,Media,Cerrado,Académico,Luis,4,1320
+T0530,Red,Alta,Cerrado,Operaciones,Carlos,4,2780
+T0531,VPN,Media,Resuelto,TI,María,2,579
+T0532,Correo,Baja,Cerrado,RRHH,Rosa,2,3411
+T0533,Mesa de ayuda,Crítica,Escalado,Operaciones,Ana,48,1795
+T0534,Correo,Media,Escalado,RRHH,Carlos,48,1372
+T0535,VPN,Crítica,Abierto,TI,Ana,48,3202
+T0536,Correo,Alta,Escalado,Finanzas,Diego,24,2503
+T0537,VPN,Alta,Abierto,Académico,Rosa,8,1912
+T0538,Red,Alta,Resuelto,Finanzas,Luis,48,1396
+T0539,Red,Baja,Abierto,RRHH,Diego,8,31
+T0540,Mesa de ayuda,Baja,Abierto,Finanzas,Luis,8,1754
+T0541,ERP,Media,En progreso,TI,María,8,2185
+T0542,Red,Alta,Escalado,Operaciones,María,48,630
+T0543,ERP,Alta,En progreso,Operaciones,Luis,2,112
+T0544,Mesa de ayuda,Crítica,En progreso,TI,Carlos,2,1346
+T0545,Base de datos,Media,En progreso,Académico,Luis,4,1245
+T0546,ERP,Baja,Resuelto,Ventas,Luis,8,116
+T0547,ERP,Baja,Abierto,RRHH,Ana,24,3558
+T0548,VPN,Alta,Cerrado,Finanzas,Rosa,24,1640
+T0549,ERP,Alta,Cerrado,TI,Ana,2,3975
+T0550,ERP,Crítica,En progreso,Ventas,Ana,24,3038
+T0551,Mesa de ayuda,Media,Resuelto,RRHH,Luis,4,376
+T0552,Base de datos,Media,Cerrado,Operaciones,Diego,2,3875
+T0553,Red,Crítica,Abierto,RRHH,Rosa,24,3943
+T0554,Base de datos,Crítica,Resuelto,Operaciones,Carlos,2,1783
+T0555,Base de datos,Media,En progreso,Académico,Ana,24,3592
+T0556,Red,Crítica,Resuelto,Académico,María,8,190
+T0557,ERP,Alta,En progreso,TI,Ana,4,2129
+T0558,ERP,Alta,Cerrado,Finanzas,Ana,48,3291
+T0559,ERP,Media,Resuelto,TI,Rosa,4,1722
+T0560,ERP,Alta,Escalado,Ventas,María,4,1500
+T0561,Correo,Alta,Abierto,RRHH,Luis,8,1658
+T0562,VPN,Media,Resuelto,TI,Carlos,2,3213
+T0563,Correo,Media,Abierto,RRHH,Ana,4,3747
+T0564,Red,Crítica,Escalado,RRHH,Diego,48,700
+T0565,ERP,Crítica,Abierto,Operaciones,Luis,2,1724
+T0566,Correo,Crítica,Cerrado,RRHH,Rosa,48,1808
+T0567,ERP,Crítica,Resuelto,RRHH,Rosa,8,530
+T0568,CRM,Media,Escalado,Académico,María,2,1962
+T0569,Red,Alta,En progreso,Ventas,Diego,4,3304
+T0570,ERP,Alta,Abierto,Académico,Ana,24,1161
+T0571,Mesa de ayuda,Crítica,En progreso,Ventas,Carlos,4,2995
+T0572,VPN,Media,Resuelto,Académico,Rosa,48,2134
+T0573,Mesa de ayuda,Media,En progreso,Operaciones,Rosa,8,2713
+T0574,ERP,Crítica,Cerrado,Académico,Ana,4,751
+T0575,Correo,Alta,Abierto,Ventas,Luis,24,1326
+T0576,Correo,Baja,Cerrado,Operaciones,Luis,48,1666
+T0577,Red,Alta,Cerrado,TI,Carlos,48,1806
+T0578,Correo,Media,Escalado,Operaciones,Carlos,4,1050
+T0579,CRM,Baja,Escalado,RRHH,María,2,2741
+T0580,Base de datos,Media,Escalado,Operaciones,Ana,8,1752
+T0581,VPN,Crítica,Escalado,Ventas,Ana,4,3998
+T0582,Red,Crítica,Abierto,TI,María,8,522
+T0583,Base de datos,Media,Resuelto,RRHH,Rosa,48,3853
+T0584,Correo,Alta,Cerrado,TI,Luis,4,3445
+T0585,VPN,Alta,Abierto,Ventas,María,8,2157
+T0586,Mesa de ayuda,Alta,Escalado,TI,Diego,2,3282
+T0587,Mesa de ayuda,Media,Escalado,Ventas,María,48,688
+T0588,CRM,Alta,Abierto,Académico,Luis,48,931
+T0589,Base de datos,Alta,Escalado,TI,Rosa,4,1145
+T0590,Correo,Baja,Resuelto,RRHH,Diego,24,3665
+T0591,Red,Baja,Resuelto,Ventas,María,8,6
+T0592,Correo,Media,Escalado,Académico,Carlos,4,3785
+T0593,VPN,Crítica,Abierto,RRHH,Luis,4,1974
+T0594,Base de datos,Alta,En progreso,RRHH,Luis,24,1606
+T0595,Mesa de ayuda,Alta,En progreso,Operaciones,Ana,4,3950
+T0596,CRM,Alta,Cerrado,Finanzas,María,48,3873
+T0597,VPN,Alta,En progreso,RRHH,Luis,8,3120
+T0598,CRM,Crítica,Abierto,TI,Carlos,48,425
+T0599,Base de datos,Baja,En progreso,Académico,Rosa,8,3372
+T0600,Correo,Baja,En progreso,Finanzas,María,8,3589
+T0601,CRM,Crítica,Cerrado,Operaciones,Ana,24,1749
+T0602,Mesa de ayuda,Alta,Cerrado,Operaciones,Luis,48,427
+T0603,Correo,Media,En progreso,Académico,Rosa,24,1732
+T0604,Correo,Crítica,Resuelto,Académico,María,8,3710
+T0605,CRM,Media,Cerrado,Académico,Carlos,8,345
+T0606,Correo,Crítica,Cerrado,Ventas,Diego,24,911
+T0607,Mesa de ayuda,Baja,Resuelto,Finanzas,María,24,2301
+T0608,Mesa de ayuda,Baja,Escalado,TI,María,24,177
+T0609,Mesa de ayuda,Crítica,Escalado,Académico,Ana,48,393
+T0610,Correo,Alta,Resuelto,TI,María,48,1732
+T0611,Base de datos,Baja,Abierto,Operaciones,María,24,3495
+T0612,Red,Crítica,Cerrado,Académico,María,24,2745
+T0613,Correo,Alta,Escalado,Ventas,Ana,8,409
+T0614,CRM,Baja,Abierto,Académico,Rosa,8,1473
+T0615,Base de datos,Media,Resuelto,Ventas,Carlos,24,3215
+T0616,Correo,Media,Cerrado,Académico,María,8,3153
+T0617,Base de datos,Alta,En progreso,TI,Diego,8,3038
+T0618,Red,Media,En progreso,RRHH,Ana,8,1445
+T0619,Mesa de ayuda,Alta,Resuelto,Operaciones,Ana,2,2624
+T0620,Red,Media,Escalado,RRHH,María,4,3103
+T0621,Red,Alta,Resuelto,Académico,Rosa,8,1385
+T0622,Base de datos,Baja,Resuelto,Ventas,Luis,8,70
+T0623,Correo,Alta,Escalado,Operaciones,Diego,48,1218
+T0624,Base de datos,Alta,Cerrado,TI,María,2,818
+T0625,Correo,Crítica,Escalado,Académico,Rosa,8,602
+T0626,VPN,Media,Escalado,Operaciones,Rosa,4,3778
+T0627,Red,Crítica,Resuelto,TI,Diego,2,1331
+T0628,ERP,Baja,Abierto,Ventas,Diego,4,2739
+T0629,CRM,Crítica,Cerrado,Ventas,María,4,1009
+T0630,ERP,Baja,En progreso,Ventas,Ana,8,1003
+T0631,Correo,Baja,Cerrado,RRHH,Diego,48,2331
+T0632,ERP,Baja,En progreso,TI,Diego,24,2574
+T0633,Mesa de ayuda,Baja,Resuelto,Académico,Carlos,8,1771
+T0634,CRM,Media,En progreso,Operaciones,Diego,8,320
+T0635,VPN,Alta,Resuelto,Académico,Luis,48,2376
+T0636,ERP,Crítica,Escalado,Académico,Rosa,48,1289
+T0637,Correo,Alta,Resuelto,Académico,María,48,3368
+T0638,ERP,Baja,Resuelto,TI,Ana,24,2539
+T0639,Red,Baja,Escalado,RRHH,Ana,4,95
+T0640,Mesa de ayuda,Baja,Escalado,Académico,Ana,8,1957
+T0641,Base de datos,Alta,Abierto,Académico,Carlos,2,3915
+T0642,VPN,Media,Escalado,Operaciones,María,2,2927
+T0643,Mesa de ayuda,Baja,Cerrado,Académico,Luis,24,886
+T0644,VPN,Baja,Resuelto,TI,María,8,1358
+T0645,ERP,Baja,En progreso,TI,María,48,1293
+T0646,Base de datos,Crítica,Escalado,Finanzas,María,8,2411
+T0647,Correo,Crítica,Escalado,Finanzas,Diego,24,2996
+T0648,ERP,Alta,En progreso,TI,Luis,4,125
+T0649,VPN,Baja,Abierto,Operaciones,Ana,2,3880
+T0650,Red,Baja,Cerrado,RRHH,María,24,572
+T0651,Base de datos,Media,En progreso,Finanzas,Carlos,8,731
+T0652,VPN,Baja,Resuelto,RRHH,Ana,4,1072
+T0653,Red,Alta,En progreso,Operaciones,María,2,1396
+T0654,Red,Crítica,Escalado,Operaciones,Ana,48,254
+T0655,Mesa de ayuda,Crítica,Resuelto,Finanzas,Luis,2,3951
+T0656,Mesa de ayuda,Crítica,Abierto,Operaciones,Rosa,8,118
+T0657,Base de datos,Media,Abierto,Ventas,Luis,48,2045
+T0658,ERP,Alta,Resuelto,Finanzas,María,4,2461
+T0659,CRM,Alta,Cerrado,Académico,Luis,48,614
+T0660,Base de datos,Baja,Abierto,TI,Ana,48,3643
+T0661,Base de datos,Crítica,Resuelto,Operaciones,Ana,8,2802
+T0662,ERP,Alta,Abierto,RRHH,Luis,48,640
+T0663,Mesa de ayuda,Media,Cerrado,Académico,Diego,24,3216
+T0664,Red,Crítica,Escalado,Finanzas,Carlos,4,1502
+T0665,ERP,Alta,Cerrado,Ventas,Rosa,2,1472
+T0666,Correo,Baja,Escalado,Finanzas,Diego,2,2722
+T0667,VPN,Media,Escalado,TI,Diego,48,2141
+T0668,Red,Alta,Resuelto,Operaciones,Luis,24,3132
+T0669,ERP,Media,Cerrado,RRHH,Rosa,24,342
+T0670,Red,Crítica,Cerrado,Finanzas,Carlos,48,1987
+T0671,Mesa de ayuda,Baja,Resuelto,RRHH,Carlos,2,2165
+T0672,Base de datos,Crítica,En progreso,Finanzas,Carlos,48,3068
+T0673,Mesa de ayuda,Alta,Resuelto,Académico,Ana,48,119
+T0674,Correo,Media,Cerrado,Ventas,Carlos,48,219
+T0675,Base de datos,Baja,Escalado,TI,Luis,48,1523
+T0676,VPN,Crítica,En progreso,Finanzas,Rosa,4,3660
+T0677,ERP,Media,Abierto,Académico,Luis,24,851
+T0678,Mesa de ayuda,Crítica,Abierto,RRHH,Luis,2,3790
+T0679,CRM,Crítica,En progreso,Académico,Carlos,4,1602
+T0680,Base de datos,Alta,Resuelto,RRHH,Ana,4,585
+T0681,Mesa de ayuda,Alta,Escalado,Académico,Carlos,24,2791
+T0682,Mesa de ayuda,Media,En progreso,Académico,María,8,1681
+T0683,VPN,Crítica,Cerrado,RRHH,Rosa,8,3456
+T0684,ERP,Baja,Resuelto,TI,Ana,24,176
+T0685,VPN,Baja,En progreso,Académico,María,4,293
+T0686,VPN,Crítica,Abierto,Ventas,Rosa,2,756
+T0687,Mesa de ayuda,Media,En progreso,Académico,Carlos,24,1171
+T0688,Mesa de ayuda,Media,Resuelto,TI,Carlos,2,3122
+T0689,Correo,Baja,En progreso,Finanzas,Diego,24,827
+T0690,ERP,Crítica,Cerrado,RRHH,Ana,2,941
+T0691,Correo,Baja,En progreso,Finanzas,María,2,995
+T0692,Red,Media,Cerrado,Académico,Luis,24,2450
+T0693,Base de datos,Crítica,Escalado,Ventas,Luis,8,184
+T0694,Mesa de ayuda,Crítica,En progreso,Operaciones,Carlos,4,1439
+T0695,Red,Alta,Abierto,RRHH,Rosa,4,3883
+T0696,CRM,Crítica,En progreso,Ventas,María,4,1380
+T0697,VPN,Baja,Abierto,RRHH,Ana,4,2469
+T0698,Mesa de ayuda,Media,Escalado,Ventas,Luis,48,3954
+T0699,CRM,Crítica,Abierto,Académico,Ana,24,2126
+T0700,Mesa de ayuda,Crítica,Escalado,Académico,Luis,8,1522
+T0701,Correo,Alta,Abierto,Académico,Luis,2,1566
+T0702,Correo,Crítica,Cerrado,TI,Ana,4,3126
+T0703,VPN,Crítica,Escalado,TI,Ana,2,2662
+T0704,Base de datos,Baja,Escalado,Académico,Rosa,8,2813
+T0705,Mesa de ayuda,Baja,Cerrado,Académico,Luis,24,2514
+T0706,CRM,Media,Cerrado,RRHH,Luis,24,2202
+T0707,CRM,Alta,En progreso,Operaciones,María,4,3949
+T0708,Red,Media,En progreso,Operaciones,María,2,1773
+T0709,Base de datos,Media,En progreso,Finanzas,Rosa,24,2915
+T0710,Mesa de ayuda,Alta,Cerrado,Ventas,María,8,857
+T0711,Red,Baja,Cerrado,RRHH,María,24,1823
+T0712,Red,Baja,Resuelto,Operaciones,Carlos,24,550
+T0713,VPN,Alta,En progreso,Ventas,María,4,2333
+T0714,ERP,Media,Cerrado,TI,Rosa,8,2642
+T0715,CRM,Alta,Cerrado,Ventas,Rosa,2,2228
+T0716,VPN,Baja,Resuelto,TI,Rosa,2,821
+T0717,ERP,Media,Escalado,Ventas,María,24,3843
+T0718,Mesa de ayuda,Baja,En progreso,RRHH,Ana,4,1585
+T0719,Mesa de ayuda,Alta,Resuelto,Académico,María,48,3155
+T0720,ERP,Baja,Escalado,Ventas,Luis,24,1301
+T0721,Red,Alta,En progreso,RRHH,Carlos,48,3826
+T0722,Base de datos,Crítica,Abierto,Finanzas,Ana,2,40
+T0723,Base de datos,Crítica,Resuelto,Finanzas,Carlos,8,836
+T0724,VPN,Alta,En progreso,Operaciones,Ana,8,2557
+T0725,CRM,Baja,Cerrado,Operaciones,María,4,1191
+T0726,CRM,Crítica,Escalado,Ventas,Luis,4,1705
+T0727,Correo,Baja,En progreso,TI,Diego,24,2871
+T0728,CRM,Alta,Abierto,Académico,Luis,24,402
+T0729,Base de datos,Crítica,En progreso,RRHH,Rosa,24,1958
+T0730,ERP,Crítica,Escalado,Académico,Carlos,24,2400
+T0731,Mesa de ayuda,Alta,Cerrado,Finanzas,Rosa,48,1413
+T0732,CRM,Crítica,Resuelto,Finanzas,Luis,4,2561
+T0733,CRM,Baja,En progreso,Finanzas,María,4,3943
+T0734,VPN,Media,Resuelto,Académico,Ana,8,2474
+T0735,Base de datos,Baja,Abierto,TI,Diego,24,697
+T0736,CRM,Media,En progreso,TI,Carlos,48,3708
+T0737,Correo,Baja,Resuelto,Ventas,Ana,4,2874
+T0738,CRM,Media,Cerrado,RRHH,Carlos,2,1122
+T0739,VPN,Baja,Abierto,Operaciones,Diego,2,540
+T0740,Base de datos,Crítica,Escalado,Finanzas,Carlos,24,822
+T0741,Red,Baja,Cerrado,Finanzas,María,8,2859
+T0742,Red,Media,Resuelto,TI,Rosa,24,2902
+T0743,CRM,Alta,Resuelto,Académico,Carlos,48,795
+T0744,Red,Media,Resuelto,Finanzas,Rosa,2,3304
+T0745,VPN,Media,Escalado,Finanzas,Ana,4,3307
+T0746,Base de datos,Crítica,En progreso,Finanzas,Luis,8,271
+T0747,ERP,Alta,Abierto,Finanzas,Ana,2,3021
+T0748,Base de datos,Media,Escalado,Finanzas,Luis,48,2569
+T0749,Base de datos,Baja,Resuelto,Académico,Ana,48,504
+T0750,Correo,Alta,En progreso,Académico,Ana,4,380
+T0751,VPN,Crítica,Abierto,RRHH,María,4,866
+T0752,Correo,Crítica,Cerrado,Operaciones,María,48,794
+T0753,Red,Alta,Cerrado,TI,María,4,1926
+T0754,CRM,Crítica,Cerrado,Ventas,Diego,2,330
+T0755,ERP,Alta,Resuelto,Ventas,Diego,48,3989
+T0756,ERP,Crítica,Abierto,Ventas,Luis,8,3102
+T0757,ERP,Alta,Cerrado,Académico,Diego,8,2468
+T0758,Red,Media,En progreso,RRHH,Carlos,8,3017
+T0759,ERP,Crítica,Resuelto,Operaciones,Luis,2,257
+T0760,Correo,Baja,Resuelto,Académico,Ana,48,3100
+T0761,Base de datos,Baja,Abierto,Académico,María,24,54
+T0762,VPN,Crítica,Resuelto,TI,Carlos,48,2782
+T0763,Correo,Media,Resuelto,RRHH,Carlos,24,1522
+T0764,Red,Media,Cerrado,Operaciones,Diego,4,939
+T0765,Mesa de ayuda,Alta,Abierto,Académico,Carlos,24,1909
+T0766,Red,Media,Cerrado,RRHH,Rosa,24,630
+T0767,ERP,Baja,Cerrado,Finanzas,Luis,8,1567
+T0768,Base de datos,Alta,Cerrado,Operaciones,Ana,24,3246
+T0769,Base de datos,Alta,En progreso,TI,Luis,4,393
+T0770,Correo,Baja,Cerrado,Ventas,Carlos,8,815
+T0771,Correo,Baja,Cerrado,Ventas,Carlos,48,1142
+T0772,ERP,Alta,Cerrado,TI,María,24,1777
+T0773,Red,Alta,Cerrado,Académico,Ana,8,3943
+T0774,Correo,Crítica,Resuelto,Académico,Rosa,48,1190
+T0775,ERP,Alta,Escalado,RRHH,Luis,24,2014
+T0776,Correo,Media,En progreso,Operaciones,María,8,2806
+T0777,Mesa de ayuda,Baja,Escalado,Finanzas,Diego,4,2174
+T0778,CRM,Media,Resuelto,Académico,Luis,8,2320
+T0779,Red,Crítica,Abierto,RRHH,Carlos,24,1013
+T0780,ERP,Media,En progreso,Operaciones,María,24,3227
+T0781,CRM,Media,Escalado,Operaciones,María,4,3699
+T0782,ERP,Media,Escalado,Ventas,María,48,2501
+T0783,ERP,Alta,Cerrado,TI,Rosa,2,1288
+T0784,Mesa de ayuda,Crítica,Cerrado,Ventas,Diego,8,338
+T0785,Mesa de ayuda,Baja,Cerrado,TI,María,8,279
+T0786,Red,Baja,En progreso,Operaciones,María,4,1495
+T0787,Base de datos,Crítica,Cerrado,Ventas,Luis,2,1345
+T0788,CRM,Baja,Escalado,Ventas,Carlos,8,1990
+T0789,CRM,Alta,En progreso,TI,Diego,2,1215
+T0790,VPN,Crítica,En progreso,TI,Diego,8,1021
+T0791,Base de datos,Baja,Cerrado,Académico,Ana,8,1074
+T0792,ERP,Alta,Resuelto,Finanzas,Ana,24,327
+T0793,CRM,Baja,En progreso,RRHH,María,24,2279
+T0794,ERP,Baja,Resuelto,Finanzas,Carlos,24,1135
+T0795,ERP,Baja,Resuelto,Ventas,Diego,4,1327
+T0796,Correo,Crítica,Abierto,Operaciones,Diego,24,1515
+T0797,ERP,Media,Cerrado,TI,Ana,24,2652
+T0798,CRM,Baja,En progreso,Operaciones,Diego,2,2641
+T0799,CRM,Media,Escalado,TI,Ana,48,233
+T0800,VPN,Alta,Cerrado,Finanzas,Ana,4,625
+T0801,Correo,Alta,En progreso,Finanzas,Carlos,8,1390
+T0802,Correo,Baja,Resuelto,Finanzas,Rosa,24,2237
+T0803,Correo,Baja,Cerrado,Académico,Luis,48,3375
+T0804,Correo,Alta,Cerrado,Ventas,Ana,8,936
+T0805,ERP,Crítica,Escalado,Finanzas,Ana,4,1965
+T0806,Correo,Crítica,En progreso,Ventas,Luis,4,2055
+T0807,CRM,Media,Cerrado,Académico,María,24,83
+T0808,Mesa de ayuda,Media,Cerrado,Finanzas,María,24,2257
+T0809,Correo,Crítica,En progreso,TI,Ana,4,945
+T0810,Mesa de ayuda,Baja,Abierto,Operaciones,María,2,2387
+T0811,CRM,Alta,Cerrado,Ventas,Luis,48,35
+T0812,VPN,Media,Resuelto,TI,Carlos,48,1595
+T0813,ERP,Alta,Escalado,Operaciones,Carlos,4,1344
+T0814,CRM,Baja,Abierto,Académico,Carlos,24,123
+T0815,Red,Baja,En progreso,Ventas,Ana,2,1592
+T0816,Base de datos,Crítica,En progreso,Ventas,Diego,8,3416
+T0817,VPN,Alta,Escalado,Operaciones,Carlos,24,227
+T0818,VPN,Alta,Escalado,Operaciones,Luis,48,102
+T0819,CRM,Crítica,En progreso,Ventas,Carlos,4,2051
+T0820,VPN,Baja,Resuelto,RRHH,Rosa,48,3092
+T0821,ERP,Baja,Cerrado,TI,Diego,8,3261
+T0822,VPN,Alta,Abierto,TI,Ana,2,3497
+T0823,Correo,Crítica,Abierto,Operaciones,Ana,8,1827
+T0824,Red,Alta,Abierto,Finanzas,Carlos,4,2650
+T0825,ERP,Baja,Resuelto,Finanzas,Carlos,24,2682
+T0826,Correo,Media,Abierto,Finanzas,Carlos,4,1081
+T0827,Red,Alta,Abierto,Académico,María,2,3610
+T0828,Red,Alta,Abierto,Finanzas,Ana,4,1869
+T0829,Base de datos,Media,Resuelto,Finanzas,María,48,1969
+T0830,Correo,Alta,En progreso,Finanzas,Rosa,24,127
+T0831,Correo,Baja,Cerrado,RRHH,Rosa,4,3990
+T0832,Correo,Crítica,Abierto,Operaciones,María,8,2949
+T0833,Red,Alta,Resuelto,Finanzas,María,8,3950
+T0834,Base de datos,Alta,En progreso,Académico,Rosa,2,2668
+T0835,Correo,Baja,Escalado,Académico,Rosa,4,2935
+T0836,Base de datos,Crítica,Resuelto,Operaciones,Ana,48,1509
+T0837,Red,Baja,Escalado,Ventas,Carlos,8,2979
+T0838,Mesa de ayuda,Alta,Resuelto,Académico,María,8,1672
+T0839,ERP,Baja,Resuelto,RRHH,Carlos,8,609
+T0840,Base de datos,Baja,Escalado,RRHH,Carlos,24,359
+T0841,Mesa de ayuda,Media,En progreso,Operaciones,Carlos,24,1851
+T0842,Base de datos,Alta,Abierto,Operaciones,Diego,4,2457
+T0843,CRM,Alta,Escalado,Ventas,Luis,24,339
+T0844,Base de datos,Baja,Abierto,TI,Diego,2,2133
+T0845,Correo,Crítica,Resuelto,TI,María,4,3034
+T0846,ERP,Media,Cerrado,Finanzas,Carlos,8,2251
+T0847,Red,Baja,En progreso,TI,Carlos,24,2822
+T0848,Base de datos,Crítica,En progreso,Académico,María,24,642
+T0849,Base de datos,Alta,Abierto,TI,Ana,24,596
+T0850,Correo,Media,En progreso,RRHH,Carlos,4,2224
+T0851,VPN,Crítica,En progreso,Finanzas,Ana,2,1216
+T0852,Correo,Alta,En progreso,Académico,Ana,2,1043
+T0853,Red,Crítica,Cerrado,Operaciones,María,24,48
+T0854,VPN,Media,Resuelto,RRHH,Carlos,4,1249
+T0855,Red,Baja,Escalado,TI,Ana,24,134
+T0856,Red,Media,Resuelto,Finanzas,Carlos,24,3532
+T0857,Base de datos,Baja,Escalado,Finanzas,Rosa,48,2545
+T0858,CRM,Baja,Abierto,RRHH,Ana,24,3114
+T0859,Correo,Baja,Resuelto,TI,Ana,2,1010
+T0860,VPN,Crítica,Cerrado,RRHH,María,8,993
+T0861,Mesa de ayuda,Baja,Abierto,Operaciones,Carlos,48,3188
+T0862,VPN,Baja,En progreso,TI,Rosa,2,47
+T0863,VPN,Alta,Escalado,Académico,Ana,48,1825
+T0864,Correo,Alta,Cerrado,Operaciones,María,48,1594
+T0865,Base de datos,Crítica,Resuelto,TI,Ana,48,2016
+T0866,ERP,Baja,Resuelto,Ventas,Ana,8,2467
+T0867,CRM,Baja,Abierto,Académico,Luis,2,820
+T0868,Red,Baja,En progreso,Finanzas,Rosa,4,3169
+T0869,Red,Crítica,Resuelto,Ventas,Luis,8,3550
+T0870,VPN,Baja,En progreso,Académico,Rosa,2,420
+T0871,ERP,Alta,En progreso,Académico,Diego,48,101
+T0872,Red,Baja,Resuelto,Académico,Rosa,2,2906
+T0873,Mesa de ayuda,Media,Escalado,Finanzas,Rosa,24,142
+T0874,CRM,Baja,Escalado,Académico,Rosa,2,271
+T0875,Correo,Media,Resuelto,RRHH,Rosa,48,3770
+T0876,ERP,Alta,Abierto,Finanzas,Luis,2,2341
+T0877,ERP,Alta,Cerrado,Académico,Diego,8,2287
+T0878,CRM,Baja,Abierto,Académico,Luis,48,1697
+T0879,Correo,Crítica,En progreso,Ventas,Luis,8,550
+T0880,VPN,Baja,Abierto,Operaciones,Ana,48,3233
+T0881,Correo,Crítica,Escalado,Académico,Carlos,48,2178
+T0882,Correo,Media,En progreso,Operaciones,Luis,24,3286
+T0883,ERP,Alta,Cerrado,RRHH,Rosa,4,410
+T0884,ERP,Baja,Escalado,Académico,María,48,3522
+T0885,Base de datos,Crítica,En progreso,Académico,Luis,48,600
+T0886,Base de datos,Crítica,Cerrado,TI,Ana,48,679
+T0887,ERP,Baja,Resuelto,Ventas,Carlos,24,249
+T0888,Base de datos,Baja,Abierto,Operaciones,Rosa,2,793
+T0889,VPN,Media,Cerrado,RRHH,Diego,4,3071
+T0890,ERP,Baja,Escalado,TI,Rosa,4,993
+T0891,Mesa de ayuda,Media,Cerrado,Finanzas,Rosa,48,131
+T0892,Red,Crítica,Escalado,Finanzas,María,4,3170
+T0893,VPN,Crítica,Resuelto,Operaciones,Rosa,8,1907
+T0894,VPN,Media,Resuelto,TI,Diego,8,3770
+T0895,CRM,Baja,Escalado,RRHH,Rosa,48,2852
+T0896,Mesa de ayuda,Alta,Cerrado,Operaciones,Ana,24,3999
+T0897,CRM,Crítica,Resuelto,Académico,Carlos,8,3587
+T0898,CRM,Alta,Resuelto,Operaciones,Luis,48,788
+T0899,CRM,Media,En progreso,Operaciones,Diego,24,1145
+T0900,CRM,Baja,En progreso,TI,Luis,8,783
+T0901,VPN,Media,Escalado,TI,Carlos,4,3273
+T0902,Red,Alta,Abierto,Académico,María,8,2620
+T0903,ERP,Alta,Escalado,Académico,Carlos,4,3639
+T0904,VPN,Baja,Resuelto,Ventas,Rosa,24,2942
+T0905,CRM,Baja,Escalado,Operaciones,Luis,8,2487
+T0906,Correo,Media,Abierto,RRHH,Diego,24,18
+T0907,Correo,Alta,Resuelto,RRHH,Rosa,48,2395
+T0908,Base de datos,Media,Escalado,TI,Rosa,4,1093
+T0909,Correo,Baja,Cerrado,TI,Ana,24,1795
+T0910,Red,Media,Abierto,Ventas,Luis,2,1485
+T0911,Base de datos,Crítica,Abierto,Finanzas,Carlos,2,2251
+T0912,Mesa de ayuda,Media,En progreso,Finanzas,María,24,844
+T0913,Correo,Crítica,Abierto,Finanzas,Carlos,48,2952
+T0914,CRM,Media,Cerrado,Ventas,Luis,4,2537
+T0915,Mesa de ayuda,Media,Escalado,Operaciones,Luis,4,99
+T0916,Mesa de ayuda,Media,En progreso,Ventas,Rosa,4,2223
+T0917,Mesa de ayuda,Crítica,En progreso,Finanzas,Diego,48,3994
+T0918,CRM,Baja,Abierto,Finanzas,Luis,24,910
+T0919,ERP,Baja,Escalado,Ventas,Luis,4,1149
+T0920,Correo,Crítica,En progreso,Académico,Carlos,24,2379
+T0921,Base de datos,Baja,Cerrado,Ventas,Luis,2,3475
+T0922,Correo,Baja,Cerrado,RRHH,Luis,24,3489
+T0923,Mesa de ayuda,Baja,Abierto,TI,Carlos,4,3616
+T0924,VPN,Baja,Cerrado,TI,Carlos,8,89
+T0925,Red,Baja,Cerrado,TI,Luis,8,596
+T0926,VPN,Crítica,Escalado,Académico,María,24,694
+T0927,Base de datos,Baja,En progreso,Ventas,Carlos,8,1664
+T0928,CRM,Alta,Resuelto,Ventas,Rosa,48,3600
+T0929,Red,Crítica,Escalado,Ventas,María,2,1857
+T0930,VPN,Crítica,Cerrado,TI,Carlos,8,1565
+T0931,Correo,Baja,Cerrado,Académico,Rosa,24,371
+T0932,Red,Media,Resuelto,Ventas,Carlos,8,3738
+T0933,CRM,Baja,En progreso,Ventas,Luis,48,2646
+T0934,Mesa de ayuda,Alta,Abierto,RRHH,Carlos,2,3120
+T0935,ERP,Crítica,En progreso,Finanzas,Diego,48,210
+T0936,CRM,Crítica,Escalado,Operaciones,Rosa,4,1205
+T0937,ERP,Baja,Resuelto,Ventas,Luis,24,1281
+T0938,ERP,Crítica,En progreso,Finanzas,Diego,2,2350
+T0939,VPN,Alta,Resuelto,TI,Rosa,24,3670
+T0940,ERP,Alta,Abierto,Ventas,Diego,2,280
+T0941,Base de datos,Crítica,Resuelto,Ventas,Diego,2,3196
+T0942,Red,Media,En progreso,Ventas,Diego,4,1011
+T0943,Base de datos,Crítica,Resuelto,Ventas,Carlos,48,3336
+T0944,Correo,Crítica,Cerrado,Ventas,Luis,2,1926
+T0945,ERP,Alta,En progreso,TI,Carlos,48,3212
+T0946,CRM,Baja,En progreso,RRHH,Luis,2,2927
+T0947,ERP,Alta,Escalado,Finanzas,Ana,24,561
+T0948,Correo,Media,Cerrado,TI,Rosa,24,2259
+T0949,Mesa de ayuda,Baja,Escalado,RRHH,María,48,1454
+T0950,Base de datos,Baja,Resuelto,TI,Rosa,4,2065
+T0951,Base de datos,Baja,En progreso,Finanzas,Luis,2,2461
+T0952,CRM,Media,Abierto,TI,Rosa,24,1544
+T0953,CRM,Media,Abierto,Operaciones,Rosa,4,3078
+T0954,Correo,Alta,Cerrado,Académico,Luis,24,3548
+T0955,Mesa de ayuda,Alta,Resuelto,RRHH,Luis,4,72
+T0956,ERP,Baja,Resuelto,RRHH,Rosa,24,2924
+T0957,Red,Media,En progreso,RRHH,Luis,24,3935
+T0958,Correo,Alta,En progreso,Académico,Ana,8,1537
+T0959,Correo,Media,Cerrado,RRHH,María,24,324
+T0960,Mesa de ayuda,Media,Resuelto,TI,Diego,24,170
+T0961,Base de datos,Baja,Abierto,Operaciones,Carlos,4,1276
+T0962,Mesa de ayuda,Alta,Abierto,Finanzas,Luis,48,1109
+T0963,Correo,Crítica,Escalado,Ventas,María,48,1525
+T0964,Correo,Baja,Cerrado,Operaciones,Diego,24,1426
+T0965,Mesa de ayuda,Media,Resuelto,Operaciones,Ana,48,2403
+T0966,Correo,Baja,Cerrado,RRHH,Diego,2,2734
+T0967,Base de datos,Crítica,En progreso,RRHH,Carlos,24,3001
+T0968,VPN,Media,En progreso,Ventas,Luis,2,2531
+T0969,Red,Media,Cerrado,Ventas,Ana,2,1245
+T0970,Correo,Alta,En progreso,RRHH,Diego,4,1715
+T0971,Base de datos,Alta,Cerrado,TI,Diego,8,3757
+T0972,ERP,Crítica,Abierto,Ventas,Ana,8,2983
+T0973,Red,Crítica,En progreso,RRHH,Luis,24,472
+T0974,Correo,Baja,Resuelto,TI,María,8,3489
+T0975,Red,Media,Escalado,TI,Diego,8,2591
+T0976,VPN,Media,Escalado,Ventas,María,48,2135
+T0977,VPN,Media,Escalado,Ventas,Luis,2,1782
+T0978,Red,Media,Resuelto,TI,Carlos,24,3989
+T0979,VPN,Baja,Abierto,TI,Carlos,8,441
+T0980,Base de datos,Alta,Escalado,Ventas,Luis,4,1906
+T0981,ERP,Crítica,Escalado,TI,Carlos,24,3046
+T0982,Red,Baja,Escalado,Operaciones,Carlos,2,998
+T0983,ERP,Baja,Abierto,Operaciones,Ana,24,1667
+T0984,Base de datos,Baja,En progreso,RRHH,Rosa,2,1372
+T0985,CRM,Crítica,Resuelto,Ventas,Rosa,24,3805
+T0986,Red,Alta,Cerrado,RRHH,Luis,8,1001
+T0987,Mesa de ayuda,Alta,Resuelto,Ventas,Diego,8,2435
+T0988,Red,Crítica,Abierto,Finanzas,Ana,2,619
+T0989,Mesa de ayuda,Baja,Cerrado,Finanzas,María,4,215
+T0990,Correo,Baja,En progreso,Finanzas,Luis,8,3460
+T0991,CRM,Media,Escalado,Finanzas,Ana,4,3662
+T0992,CRM,Media,Abierto,Finanzas,Diego,2,166
+T0993,Mesa de ayuda,Crítica,En progreso,Ventas,Rosa,24,445
+T0994,CRM,Media,Escalado,TI,Ana,48,1170
+T0995,ERP,Crítica,Cerrado,TI,Carlos,4,2640
+T0996,Base de datos,Crítica,Cerrado,TI,Luis,8,136
+T0997,Red,Media,En progreso,Académico,Rosa,24,1474
+T0998,Mesa de ayuda,Media,Resuelto,Académico,María,24,1717
+T0999,Base de datos,Alta,Resuelto,Académico,Carlos,4,990
+T1000,Red,Alta,En progreso,Finanzas,Ana,2,2412

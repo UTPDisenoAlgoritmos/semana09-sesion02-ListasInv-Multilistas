@@ -1,0 +1,1001 @@
+id,sku,categoria,almacen,zona,estado,proveedor,cantidad
+M0001,SKU-4785,Teclado,Tienda Sur,Z2,Ingresado,TechData,166
+M0002,SKU-6646,Servidor,Tienda Sur,Z3,Despachado,Proveedor Local,359
+M0003,SKU-9004,Teclado,Tienda Norte,Despacho,En conteo,Deltron,45
+M0004,SKU-2054,Servidor,Tienda Sur,Z3,En conteo,Intcomex,220
+M0005,SKU-8270,Teclado,A01,Despacho,Ingresado,Proveedor Local,317
+M0006,SKU-9077,Mouse,A03,Z3,Despachado,Deltron,314
+M0007,SKU-7656,Teclado,A03,Z1,Observado,TechData,160
+M0008,SKU-2828,Impresora,LAB,Z4,En conteo,Intcomex,479
+M0009,SKU-1130,Router,A01,Picking,Despachado,Deltron,378
+M0010,SKU-9262,Router,A02,Z1,Ingresado,TechData,402
+M0011,SKU-4140,Router,A01,Z1,Observado,Proveedor Local,244
+M0012,SKU-3543,Monitor,A03,Z2,Despachado,Proveedor Local,144
+M0013,SKU-9871,Router,Tienda Sur,Z2,Observado,Proveedor Local,86
+M0014,SKU-8857,Mouse,LAB,Picking,Ingresado,Proveedor Local,322
+M0015,SKU-9518,Router,A03,Z4,Ingresado,Ingram,412
+M0016,SKU-9292,Laptop,A03,Z1,Despachado,Intcomex,466
+M0017,SKU-5915,Impresora,A01,Z1,Observado,Intcomex,225
+M0018,SKU-4965,Teclado,Tienda Norte,Z4,En conteo,TechData,54
+M0019,SKU-6667,Teclado,A03,Z3,En conteo,Ingram,177
+M0020,SKU-5014,Impresora,A02,Z4,Ingresado,Proveedor Local,456
+M0021,SKU-8166,Mouse,A03,Despacho,En conteo,Intcomex,254
+M0022,SKU-3228,Laptop,Tienda Sur,Z3,Despachado,TechData,474
+M0023,SKU-5897,Impresora,Tienda Norte,Z1,Ingresado,Proveedor Local,354
+M0024,SKU-3509,Servidor,Tienda Norte,Z3,En conteo,TechData,379
+M0025,SKU-3515,Router,Tienda Norte,Z3,Ingresado,Intcomex,44
+M0026,SKU-6855,Teclado,Tienda Sur,Despacho,Despachado,Proveedor Local,126
+M0027,SKU-1321,Servidor,LAB,Z4,Observado,Deltron,282
+M0028,SKU-3273,Laptop,A02,Z4,Despachado,TechData,134
+M0029,SKU-4564,Impresora,A03,Z4,En conteo,Proveedor Local,137
+M0030,SKU-5727,Servidor,LAB,Z1,En conteo,Proveedor Local,313
+M0031,SKU-1366,Router,LAB,Z3,Ingresado,Proveedor Local,357
+M0032,SKU-2639,Impresora,Tienda Norte,Z1,En conteo,TechData,192
+M0033,SKU-7067,Laptop,A02,Picking,Observado,Deltron,50
+M0034,SKU-6026,Impresora,A02,Z3,Despachado,Ingram,220
+M0035,SKU-5515,Impresora,Tienda Norte,Z2,Despachado,Proveedor Local,400
+M0036,SKU-6510,Servidor,Tienda Norte,Z4,Observado,TechData,228
+M0037,SKU-8116,Teclado,LAB,Z3,Ingresado,TechData,10
+M0038,SKU-6925,Teclado,A03,Despacho,Observado,Intcomex,327
+M0039,SKU-6012,Monitor,LAB,Picking,En conteo,TechData,53
+M0040,SKU-6509,Router,LAB,Picking,Despachado,Intcomex,372
+M0041,SKU-1043,Router,Tienda Norte,Z3,Ingresado,TechData,208
+M0042,SKU-4948,Teclado,A01,Z3,Despachado,Deltron,304
+M0043,SKU-8599,Mouse,A01,Z1,Ingresado,Ingram,64
+M0044,SKU-6456,Servidor,A03,Z4,En conteo,Intcomex,393
+M0045,SKU-5714,Impresora,A03,Z2,Ingresado,Deltron,356
+M0046,SKU-9790,Mouse,A02,Z2,Observado,Deltron,240
+M0047,SKU-9199,Teclado,LAB,Z3,Ingresado,Intcomex,176
+M0048,SKU-5429,Servidor,Tienda Sur,Despacho,En conteo,Deltron,49
+M0049,SKU-7447,Impresora,A03,Despacho,Observado,TechData,110
+M0050,SKU-6145,Monitor,A02,Z2,Observado,Deltron,179
+M0051,SKU-1289,Router,Tienda Sur,Despacho,Observado,TechData,383
+M0052,SKU-5938,Router,LAB,Z3,Ingresado,TechData,207
+M0053,SKU-1725,Monitor,Tienda Norte,Z3,Ingresado,Intcomex,211
+M0054,SKU-3746,Monitor,A02,Despacho,Observado,TechData,1
+M0055,SKU-5924,Laptop,LAB,Z1,Observado,TechData,414
+M0056,SKU-8284,Servidor,Tienda Sur,Z1,Observado,TechData,343
+M0057,SKU-9014,Servidor,Tienda Sur,Z2,Observado,Ingram,285
+M0058,SKU-6722,Servidor,A03,Picking,Observado,Ingram,266
+M0059,SKU-4551,Mouse,A03,Z3,En conteo,Ingram,63
+M0060,SKU-8560,Laptop,A02,Picking,En conteo,Ingram,10
+M0061,SKU-2275,Mouse,A03,Picking,Ingresado,Ingram,389
+M0062,SKU-2718,Mouse,Tienda Sur,Z1,En conteo,TechData,294
+M0063,SKU-5418,Impresora,A01,Z4,En conteo,Proveedor Local,92
+M0064,SKU-9667,Teclado,A03,Despacho,Ingresado,TechData,463
+M0065,SKU-3557,Laptop,Tienda Sur,Z3,Despachado,Proveedor Local,395
+M0066,SKU-7950,Mouse,LAB,Despacho,Despachado,Deltron,102
+M0067,SKU-8019,Mouse,A02,Z3,Observado,Proveedor Local,305
+M0068,SKU-7676,Laptop,LAB,Z1,En conteo,Intcomex,69
+M0069,SKU-9748,Impresora,A02,Z3,Ingresado,Intcomex,119
+M0070,SKU-6659,Router,A01,Z2,Ingresado,Ingram,140
+M0071,SKU-4105,Laptop,Tienda Norte,Z4,Observado,Intcomex,253
+M0072,SKU-6075,Impresora,A02,Z4,En conteo,Intcomex,161
+M0073,SKU-8860,Servidor,Tienda Sur,Picking,En conteo,TechData,394
+M0074,SKU-2024,Servidor,A03,Picking,Ingresado,Intcomex,361
+M0075,SKU-1180,Servidor,A01,Z4,Despachado,Deltron,397
+M0076,SKU-8159,Router,A03,Picking,Despachado,TechData,423
+M0077,SKU-1412,Impresora,A02,Z3,Despachado,TechData,122
+M0078,SKU-8714,Router,Tienda Norte,Z3,Ingresado,Intcomex,454
+M0079,SKU-9299,Router,Tienda Norte,Z4,En conteo,Proveedor Local,54
+M0080,SKU-2449,Router,A02,Despacho,Despachado,Intcomex,408
+M0081,SKU-3723,Laptop,A03,Despacho,Despachado,Deltron,444
+M0082,SKU-3606,Router,LAB,Z1,Ingresado,Proveedor Local,251
+M0083,SKU-9954,Impresora,A02,Z3,Observado,TechData,389
+M0084,SKU-6217,Mouse,A03,Despacho,Observado,TechData,469
+M0085,SKU-7099,Servidor,A02,Z2,Observado,Deltron,144
+M0086,SKU-5692,Laptop,A01,Picking,Ingresado,Proveedor Local,341
+M0087,SKU-6613,Laptop,A02,Z4,En conteo,Intcomex,262
+M0088,SKU-1299,Servidor,A03,Z2,Ingresado,Intcomex,283
+M0089,SKU-9845,Laptop,Tienda Sur,Picking,Despachado,TechData,429
+M0090,SKU-8026,Impresora,A03,Z1,Observado,TechData,481
+M0091,SKU-2315,Teclado,LAB,Despacho,Despachado,Intcomex,15
+M0092,SKU-2220,Teclado,Tienda Sur,Picking,Despachado,Intcomex,125
+M0093,SKU-6302,Teclado,A01,Z1,Ingresado,Intcomex,227
+M0094,SKU-3768,Impresora,A02,Z4,Ingresado,Intcomex,1
+M0095,SKU-9325,Mouse,LAB,Z3,En conteo,TechData,24
+M0096,SKU-1173,Mouse,Tienda Sur,Despacho,En conteo,TechData,56
+M0097,SKU-9904,Monitor,LAB,Z4,Despachado,Proveedor Local,192
+M0098,SKU-1042,Mouse,LAB,Despacho,En conteo,Ingram,326
+M0099,SKU-7816,Monitor,A01,Z4,Despachado,Ingram,145
+M0100,SKU-9939,Impresora,Tienda Norte,Z4,Ingresado,Deltron,53
+M0101,SKU-9208,Mouse,Tienda Norte,Z2,Ingresado,Intcomex,454
+M0102,SKU-3651,Mouse,A03,Despacho,Observado,TechData,132
+M0103,SKU-8035,Mouse,A03,Z1,Ingresado,TechData,19
+M0104,SKU-6290,Servidor,Tienda Sur,Z2,Ingresado,TechData,402
+M0105,SKU-5098,Router,Tienda Norte,Z1,En conteo,Ingram,118
+M0106,SKU-5888,Monitor,A03,Despacho,Ingresado,Proveedor Local,231
+M0107,SKU-1869,Laptop,Tienda Norte,Z1,Observado,Proveedor Local,294
+M0108,SKU-2635,Monitor,LAB,Picking,Despachado,Proveedor Local,201
+M0109,SKU-8611,Laptop,LAB,Z3,Despachado,Ingram,492
+M0110,SKU-6441,Monitor,A01,Picking,Despachado,TechData,374
+M0111,SKU-3269,Router,A03,Z2,En conteo,Ingram,72
+M0112,SKU-3854,Laptop,LAB,Picking,Ingresado,Proveedor Local,363
+M0113,SKU-9356,Mouse,A03,Z3,Ingresado,Intcomex,443
+M0114,SKU-4799,Monitor,A03,Picking,Despachado,Proveedor Local,424
+M0115,SKU-5883,Monitor,Tienda Sur,Picking,Ingresado,Ingram,210
+M0116,SKU-6932,Mouse,A02,Z3,Ingresado,TechData,160
+M0117,SKU-6538,Teclado,LAB,Picking,Despachado,Deltron,63
+M0118,SKU-1425,Monitor,Tienda Sur,Z1,Observado,Ingram,465
+M0119,SKU-2448,Monitor,Tienda Norte,Z2,Despachado,Ingram,293
+M0120,SKU-6413,Teclado,Tienda Norte,Despacho,En conteo,Proveedor Local,297
+M0121,SKU-1195,Monitor,A03,Picking,En conteo,Ingram,253
+M0122,SKU-9076,Laptop,LAB,Despacho,Ingresado,Intcomex,17
+M0123,SKU-6659,Mouse,Tienda Norte,Z4,Ingresado,Proveedor Local,156
+M0124,SKU-2207,Monitor,A03,Despacho,En conteo,Ingram,169
+M0125,SKU-2527,Mouse,A03,Picking,Despachado,Proveedor Local,303
+M0126,SKU-6255,Monitor,A02,Z4,En conteo,Proveedor Local,133
+M0127,SKU-2889,Router,Tienda Norte,Z4,En conteo,TechData,238
+M0128,SKU-8136,Router,A01,Z1,En conteo,Deltron,115
+M0129,SKU-6081,Teclado,Tienda Sur,Despacho,En conteo,Intcomex,432
+M0130,SKU-2311,Servidor,LAB,Z2,Ingresado,Intcomex,116
+M0131,SKU-3900,Teclado,Tienda Norte,Z4,En conteo,Deltron,468
+M0132,SKU-9189,Teclado,A03,Z1,Ingresado,Deltron,278
+M0133,SKU-5602,Impresora,A01,Picking,Observado,TechData,372
+M0134,SKU-4558,Router,A01,Picking,Ingresado,Deltron,199
+M0135,SKU-1320,Router,A03,Z3,Despachado,TechData,27
+M0136,SKU-8454,Impresora,Tienda Norte,Z3,Observado,TechData,212
+M0137,SKU-2922,Laptop,A01,Z1,En conteo,Proveedor Local,243
+M0138,SKU-7425,Teclado,LAB,Z3,Observado,Deltron,215
+M0139,SKU-6593,Mouse,A02,Picking,En conteo,Intcomex,86
+M0140,SKU-7347,Servidor,Tienda Norte,Z2,Observado,Proveedor Local,173
+M0141,SKU-5396,Servidor,A01,Z2,Ingresado,Proveedor Local,260
+M0142,SKU-5224,Servidor,LAB,Picking,Observado,TechData,6
+M0143,SKU-8108,Mouse,Tienda Sur,Picking,Despachado,TechData,35
+M0144,SKU-4579,Impresora,A02,Z4,En conteo,Ingram,320
+M0145,SKU-8255,Mouse,LAB,Z4,Observado,TechData,21
+M0146,SKU-4360,Impresora,Tienda Norte,Z4,Despachado,TechData,115
+M0147,SKU-9142,Mouse,Tienda Norte,Z2,En conteo,Ingram,344
+M0148,SKU-2399,Laptop,LAB,Z2,Observado,Ingram,67
+M0149,SKU-7872,Monitor,A02,Despacho,Ingresado,TechData,277
+M0150,SKU-3751,Teclado,A02,Z2,Despachado,Intcomex,351
+M0151,SKU-4962,Laptop,A02,Z2,Despachado,Deltron,144
+M0152,SKU-7210,Laptop,LAB,Despacho,Ingresado,TechData,290
+M0153,SKU-5236,Servidor,A02,Despacho,Ingresado,TechData,314
+M0154,SKU-6632,Servidor,A02,Z2,Observado,TechData,276
+M0155,SKU-7419,Teclado,A02,Picking,Observado,Ingram,70
+M0156,SKU-9287,Teclado,A02,Z4,Ingresado,Ingram,403
+M0157,SKU-7267,Router,A03,Z3,Observado,Deltron,273
+M0158,SKU-8845,Router,A03,Z2,Ingresado,Ingram,493
+M0159,SKU-9524,Router,A01,Z3,Despachado,Deltron,180
+M0160,SKU-6095,Monitor,Tienda Norte,Z1,Observado,Intcomex,499
+M0161,SKU-8275,Mouse,A03,Z2,Observado,Deltron,410
+M0162,SKU-1489,Mouse,Tienda Norte,Z4,En conteo,Proveedor Local,204
+M0163,SKU-1449,Servidor,A02,Z1,Despachado,Proveedor Local,487
+M0164,SKU-3130,Monitor,A01,Z2,Ingresado,TechData,18
+M0165,SKU-2524,Impresora,Tienda Sur,Z3,En conteo,TechData,473
+M0166,SKU-4421,Impresora,Tienda Norte,Despacho,Despachado,Proveedor Local,416
+M0167,SKU-8732,Impresora,Tienda Norte,Z4,Despachado,Proveedor Local,255
+M0168,SKU-4325,Router,Tienda Sur,Z1,Observado,Intcomex,413
+M0169,SKU-6074,Impresora,A03,Z4,Despachado,Proveedor Local,419
+M0170,SKU-2853,Mouse,Tienda Sur,Picking,En conteo,Deltron,154
+M0171,SKU-2881,Mouse,A01,Z2,Despachado,Intcomex,278
+M0172,SKU-9299,Laptop,LAB,Z1,Ingresado,Deltron,41
+M0173,SKU-1677,Monitor,Tienda Norte,Z4,Observado,Deltron,351
+M0174,SKU-2299,Monitor,A01,Z2,Despachado,Ingram,43
+M0175,SKU-9013,Teclado,A03,Z3,Observado,Ingram,204
+M0176,SKU-5512,Impresora,LAB,Picking,Despachado,Ingram,29
+M0177,SKU-5408,Mouse,LAB,Z2,En conteo,Deltron,333
+M0178,SKU-1293,Router,A01,Z3,Despachado,TechData,349
+M0179,SKU-8328,Teclado,A03,Z2,Ingresado,Intcomex,445
+M0180,SKU-7524,Laptop,LAB,Picking,Observado,Deltron,377
+M0181,SKU-9894,Router,A02,Z2,Ingresado,Proveedor Local,496
+M0182,SKU-7102,Impresora,LAB,Z2,Despachado,Proveedor Local,111
+M0183,SKU-7519,Impresora,Tienda Sur,Despacho,Ingresado,TechData,26
+M0184,SKU-2440,Router,A03,Z3,En conteo,Proveedor Local,79
+M0185,SKU-4753,Monitor,LAB,Z4,Ingresado,Deltron,380
+M0186,SKU-9708,Teclado,Tienda Norte,Despacho,Ingresado,Proveedor Local,325
+M0187,SKU-8541,Laptop,A01,Z3,Ingresado,Ingram,290
+M0188,SKU-8082,Mouse,Tienda Norte,Z4,Despachado,Ingram,317
+M0189,SKU-3115,Teclado,A01,Picking,Despachado,Ingram,62
+M0190,SKU-3535,Impresora,Tienda Sur,Despacho,Observado,Intcomex,122
+M0191,SKU-4716,Servidor,A02,Picking,En conteo,Ingram,426
+M0192,SKU-5401,Impresora,Tienda Sur,Z2,En conteo,Proveedor Local,175
+M0193,SKU-9282,Monitor,Tienda Norte,Z1,Observado,Proveedor Local,494
+M0194,SKU-7094,Teclado,A01,Z1,En conteo,Intcomex,411
+M0195,SKU-8268,Laptop,A03,Picking,Despachado,Ingram,463
+M0196,SKU-8645,Teclado,LAB,Z3,Ingresado,Deltron,469
+M0197,SKU-4006,Teclado,Tienda Norte,Z4,Despachado,Proveedor Local,211
+M0198,SKU-3596,Mouse,A02,Z3,Ingresado,Proveedor Local,474
+M0199,SKU-9936,Monitor,Tienda Sur,Z1,Despachado,Deltron,335
+M0200,SKU-8697,Servidor,LAB,Z2,En conteo,TechData,246
+M0201,SKU-3815,Router,A03,Z3,Despachado,Deltron,102
+M0202,SKU-6613,Router,A03,Picking,En conteo,Proveedor Local,254
+M0203,SKU-3699,Impresora,LAB,Z3,En conteo,Ingram,173
+M0204,SKU-7653,Router,Tienda Sur,Z3,Despachado,Proveedor Local,444
+M0205,SKU-1704,Router,A02,Picking,Ingresado,Intcomex,139
+M0206,SKU-9748,Servidor,A01,Despacho,Observado,Intcomex,151
+M0207,SKU-8715,Impresora,LAB,Z1,Ingresado,Ingram,291
+M0208,SKU-5703,Laptop,Tienda Norte,Z1,En conteo,Deltron,248
+M0209,SKU-4736,Mouse,LAB,Z2,Observado,Intcomex,208
+M0210,SKU-7257,Servidor,Tienda Sur,Z2,Despachado,Deltron,134
+M0211,SKU-3519,Laptop,A02,Z4,Despachado,Ingram,305
+M0212,SKU-2384,Servidor,A03,Despacho,Ingresado,Ingram,348
+M0213,SKU-6440,Monitor,LAB,Z2,Ingresado,Ingram,386
+M0214,SKU-8538,Monitor,A02,Z4,Observado,Ingram,133
+M0215,SKU-9050,Router,A03,Z4,Ingresado,Ingram,325
+M0216,SKU-2077,Impresora,A03,Z2,Despachado,Intcomex,169
+M0217,SKU-9642,Servidor,A03,Z4,Observado,Intcomex,81
+M0218,SKU-9826,Servidor,A02,Despacho,Observado,Proveedor Local,214
+M0219,SKU-7806,Servidor,LAB,Z4,Ingresado,Deltron,128
+M0220,SKU-1325,Router,A02,Z2,En conteo,Intcomex,380
+M0221,SKU-5934,Mouse,Tienda Sur,Z2,En conteo,Deltron,6
+M0222,SKU-1699,Servidor,A02,Z2,Ingresado,Proveedor Local,20
+M0223,SKU-1910,Mouse,A03,Z4,En conteo,Ingram,443
+M0224,SKU-6107,Teclado,A02,Z4,En conteo,Intcomex,432
+M0225,SKU-6322,Teclado,A03,Despacho,Ingresado,Deltron,91
+M0226,SKU-5072,Laptop,LAB,Picking,En conteo,Proveedor Local,74
+M0227,SKU-2002,Servidor,LAB,Z4,Observado,Deltron,485
+M0228,SKU-4680,Impresora,A02,Z3,Despachado,Proveedor Local,205
+M0229,SKU-1314,Teclado,A03,Z2,Despachado,Deltron,90
+M0230,SKU-9411,Mouse,Tienda Norte,Despacho,Despachado,Deltron,234
+M0231,SKU-4246,Monitor,Tienda Norte,Z1,Despachado,Intcomex,11
+M0232,SKU-8887,Monitor,A03,Z3,Despachado,Intcomex,26
+M0233,SKU-3962,Monitor,LAB,Z3,Ingresado,Intcomex,79
+M0234,SKU-5802,Router,LAB,Z3,Ingresado,Proveedor Local,276
+M0235,SKU-7132,Monitor,Tienda Sur,Z4,Despachado,Ingram,124
+M0236,SKU-4770,Teclado,A01,Z3,Ingresado,TechData,25
+M0237,SKU-3056,Monitor,A02,Z3,Ingresado,Ingram,250
+M0238,SKU-2470,Teclado,A03,Z3,En conteo,Ingram,412
+M0239,SKU-5370,Servidor,Tienda Sur,Z1,Observado,Intcomex,78
+M0240,SKU-5901,Teclado,LAB,Z3,Ingresado,Ingram,304
+M0241,SKU-3560,Teclado,A03,Z1,Despachado,Deltron,120
+M0242,SKU-9367,Router,A01,Z4,Ingresado,Proveedor Local,47
+M0243,SKU-5087,Router,Tienda Sur,Z3,Ingresado,Deltron,367
+M0244,SKU-4657,Servidor,Tienda Sur,Z3,Observado,Ingram,316
+M0245,SKU-8707,Laptop,A03,Despacho,En conteo,Deltron,184
+M0246,SKU-9129,Laptop,LAB,Z4,Despachado,Intcomex,491
+M0247,SKU-9436,Servidor,Tienda Sur,Z2,Observado,TechData,126
+M0248,SKU-1285,Router,LAB,Z1,En conteo,Intcomex,433
+M0249,SKU-2219,Servidor,Tienda Sur,Picking,Observado,TechData,122
+M0250,SKU-6176,Monitor,A01,Z1,En conteo,TechData,482
+M0251,SKU-2198,Teclado,A01,Z3,Despachado,Ingram,161
+M0252,SKU-7314,Impresora,A03,Despacho,En conteo,Proveedor Local,229
+M0253,SKU-8546,Laptop,A03,Z2,Despachado,TechData,13
+M0254,SKU-9276,Laptop,Tienda Sur,Picking,Ingresado,Ingram,23
+M0255,SKU-2288,Teclado,LAB,Despacho,Ingresado,Ingram,376
+M0256,SKU-4547,Impresora,A02,Z4,Ingresado,Proveedor Local,305
+M0257,SKU-4393,Laptop,A03,Z4,Ingresado,TechData,481
+M0258,SKU-4982,Impresora,Tienda Norte,Z1,En conteo,Proveedor Local,243
+M0259,SKU-9776,Servidor,A03,Z1,Observado,TechData,477
+M0260,SKU-1749,Teclado,Tienda Sur,Z1,En conteo,Deltron,205
+M0261,SKU-9786,Router,A02,Z4,En conteo,Intcomex,269
+M0262,SKU-1561,Laptop,LAB,Z2,En conteo,Intcomex,422
+M0263,SKU-1029,Servidor,Tienda Sur,Picking,Ingresado,Deltron,230
+M0264,SKU-3528,Servidor,A02,Z4,Despachado,Deltron,216
+M0265,SKU-5632,Laptop,LAB,Picking,Despachado,Ingram,492
+M0266,SKU-9740,Monitor,A01,Z4,En conteo,Proveedor Local,390
+M0267,SKU-7082,Laptop,Tienda Sur,Z3,Observado,Deltron,312
+M0268,SKU-9988,Monitor,LAB,Z4,Ingresado,Deltron,199
+M0269,SKU-8877,Teclado,Tienda Norte,Z1,En conteo,TechData,270
+M0270,SKU-9439,Servidor,LAB,Z4,Observado,Ingram,445
+M0271,SKU-6531,Router,LAB,Z1,Ingresado,TechData,156
+M0272,SKU-6805,Mouse,A01,Z3,Observado,TechData,107
+M0273,SKU-5975,Monitor,A01,Picking,Ingresado,TechData,108
+M0274,SKU-3401,Laptop,Tienda Sur,Z1,Despachado,Deltron,271
+M0275,SKU-6670,Mouse,A03,Z2,Despachado,TechData,361
+M0276,SKU-8812,Mouse,A02,Z1,Despachado,Ingram,194
+M0277,SKU-9112,Servidor,Tienda Norte,Z4,Ingresado,Proveedor Local,401
+M0278,SKU-3635,Router,LAB,Z1,Observado,Deltron,281
+M0279,SKU-8872,Servidor,A02,Z1,Ingresado,Intcomex,135
+M0280,SKU-1943,Monitor,A03,Z3,Observado,Deltron,13
+M0281,SKU-1947,Teclado,A03,Picking,Ingresado,Proveedor Local,382
+M0282,SKU-1597,Servidor,Tienda Norte,Picking,Despachado,Proveedor Local,434
+M0283,SKU-9126,Mouse,Tienda Sur,Z4,Despachado,Proveedor Local,262
+M0284,SKU-8836,Monitor,A03,Z4,Ingresado,TechData,110
+M0285,SKU-1216,Monitor,A03,Z2,Despachado,Ingram,15
+M0286,SKU-1490,Impresora,A01,Z3,Despachado,Deltron,81
+M0287,SKU-6033,Impresora,A02,Z1,En conteo,Deltron,55
+M0288,SKU-8170,Impresora,Tienda Norte,Despacho,En conteo,Deltron,139
+M0289,SKU-7771,Router,LAB,Z2,En conteo,Intcomex,184
+M0290,SKU-2634,Impresora,Tienda Norte,Z4,Despachado,Intcomex,173
+M0291,SKU-3542,Mouse,A03,Despacho,En conteo,Ingram,3
+M0292,SKU-3718,Monitor,A02,Z1,Despachado,Intcomex,460
+M0293,SKU-5701,Laptop,A03,Z4,En conteo,TechData,437
+M0294,SKU-2672,Monitor,A03,Z1,Observado,Proveedor Local,289
+M0295,SKU-1712,Router,A03,Z1,Despachado,Proveedor Local,452
+M0296,SKU-1196,Teclado,A01,Z4,En conteo,TechData,23
+M0297,SKU-9884,Router,A01,Z2,Despachado,Proveedor Local,66
+M0298,SKU-8992,Impresora,Tienda Norte,Z3,Observado,TechData,326
+M0299,SKU-1551,Impresora,Tienda Norte,Z4,Despachado,TechData,43
+M0300,SKU-6347,Monitor,LAB,Z4,Observado,Proveedor Local,415
+M0301,SKU-5617,Teclado,A03,Z2,Ingresado,Intcomex,82
+M0302,SKU-5252,Servidor,Tienda Norte,Z2,Observado,Proveedor Local,279
+M0303,SKU-7437,Monitor,Tienda Sur,Z1,Despachado,TechData,121
+M0304,SKU-8569,Laptop,A03,Z3,Ingresado,Intcomex,483
+M0305,SKU-2207,Router,A01,Picking,Ingresado,Intcomex,195
+M0306,SKU-7236,Servidor,Tienda Norte,Z1,Observado,Ingram,310
+M0307,SKU-5072,Servidor,Tienda Norte,Z4,Ingresado,TechData,44
+M0308,SKU-1401,Teclado,LAB,Z1,Ingresado,Ingram,418
+M0309,SKU-3051,Servidor,A03,Z4,Despachado,Deltron,372
+M0310,SKU-8965,Mouse,Tienda Norte,Picking,Despachado,Deltron,33
+M0311,SKU-1741,Monitor,A03,Z1,Observado,Ingram,102
+M0312,SKU-2142,Impresora,A01,Z1,Ingresado,Deltron,5
+M0313,SKU-6600,Laptop,Tienda Sur,Despacho,Despachado,Intcomex,162
+M0314,SKU-2897,Mouse,Tienda Norte,Despacho,Ingresado,Deltron,160
+M0315,SKU-8379,Laptop,Tienda Norte,Z3,En conteo,Ingram,294
+M0316,SKU-5503,Router,A01,Z4,En conteo,Ingram,152
+M0317,SKU-9246,Mouse,Tienda Norte,Z2,Ingresado,Ingram,102
+M0318,SKU-2713,Teclado,A03,Z4,Observado,Deltron,243
+M0319,SKU-3050,Router,A02,Z4,Observado,TechData,308
+M0320,SKU-5403,Router,A01,Z4,Observado,Ingram,114
+M0321,SKU-4519,Router,LAB,Z3,Observado,Proveedor Local,322
+M0322,SKU-9605,Mouse,A01,Picking,Despachado,Intcomex,312
+M0323,SKU-2745,Servidor,A02,Z4,Observado,Ingram,96
+M0324,SKU-7627,Teclado,A01,Z1,En conteo,Ingram,115
+M0325,SKU-3749,Mouse,LAB,Z3,Despachado,Ingram,360
+M0326,SKU-1745,Teclado,LAB,Z4,Despachado,Ingram,351
+M0327,SKU-1593,Laptop,A01,Picking,En conteo,Deltron,152
+M0328,SKU-7668,Router,A01,Z2,Observado,Intcomex,203
+M0329,SKU-1613,Mouse,A03,Z1,Ingresado,Deltron,226
+M0330,SKU-5761,Impresora,LAB,Z4,Observado,Proveedor Local,194
+M0331,SKU-9500,Impresora,A03,Picking,Observado,Proveedor Local,36
+M0332,SKU-8656,Laptop,Tienda Sur,Z2,En conteo,Ingram,13
+M0333,SKU-1877,Mouse,LAB,Z1,Ingresado,TechData,249
+M0334,SKU-4635,Servidor,LAB,Z3,Observado,Proveedor Local,102
+M0335,SKU-4309,Router,A01,Z4,Ingresado,Ingram,477
+M0336,SKU-2210,Mouse,A01,Picking,En conteo,Ingram,19
+M0337,SKU-5555,Impresora,A01,Z2,Ingresado,Deltron,147
+M0338,SKU-5812,Laptop,A03,Z3,En conteo,TechData,144
+M0339,SKU-4726,Monitor,A02,Despacho,Observado,Proveedor Local,374
+M0340,SKU-7670,Servidor,A03,Z3,Despachado,Intcomex,291
+M0341,SKU-2784,Mouse,Tienda Sur,Z1,Despachado,Intcomex,185
+M0342,SKU-4994,Laptop,A01,Z3,Despachado,TechData,321
+M0343,SKU-7622,Teclado,A02,Despacho,En conteo,Ingram,491
+M0344,SKU-8825,Servidor,LAB,Z2,Ingresado,TechData,111
+M0345,SKU-5971,Router,LAB,Despacho,Despachado,Deltron,260
+M0346,SKU-9115,Servidor,Tienda Sur,Z2,Despachado,Proveedor Local,422
+M0347,SKU-6717,Router,Tienda Norte,Z4,Observado,Intcomex,428
+M0348,SKU-3513,Router,LAB,Despacho,En conteo,Proveedor Local,233
+M0349,SKU-2515,Teclado,Tienda Sur,Z1,Despachado,Deltron,296
+M0350,SKU-4289,Router,A01,Z4,En conteo,TechData,480
+M0351,SKU-1546,Mouse,A01,Z3,Observado,Proveedor Local,329
+M0352,SKU-2659,Mouse,A02,Z3,En conteo,Proveedor Local,65
+M0353,SKU-2940,Servidor,A01,Z4,Despachado,Deltron,13
+M0354,SKU-7442,Servidor,Tienda Norte,Picking,Despachado,Deltron,385
+M0355,SKU-5308,Mouse,A03,Z4,Despachado,Proveedor Local,274
+M0356,SKU-8337,Laptop,A01,Z3,Observado,Deltron,249
+M0357,SKU-1080,Router,A02,Picking,Despachado,Deltron,339
+M0358,SKU-3167,Mouse,Tienda Sur,Z1,En conteo,TechData,489
+M0359,SKU-3472,Teclado,A03,Z2,Ingresado,Deltron,13
+M0360,SKU-3844,Mouse,A01,Z1,Ingresado,Ingram,402
+M0361,SKU-2820,Servidor,Tienda Sur,Z1,Ingresado,Deltron,218
+M0362,SKU-2209,Mouse,A01,Picking,En conteo,Intcomex,288
+M0363,SKU-5225,Router,A03,Despacho,Ingresado,Intcomex,486
+M0364,SKU-2437,Router,A02,Z1,Ingresado,Proveedor Local,263
+M0365,SKU-3292,Servidor,A02,Picking,Observado,TechData,427
+M0366,SKU-1839,Router,Tienda Sur,Despacho,En conteo,TechData,66
+M0367,SKU-4221,Servidor,A02,Z1,Ingresado,Deltron,341
+M0368,SKU-5299,Impresora,A01,Z4,En conteo,Intcomex,322
+M0369,SKU-7761,Router,A03,Z3,En conteo,Ingram,311
+M0370,SKU-3269,Monitor,A01,Picking,Despachado,Intcomex,11
+M0371,SKU-7728,Monitor,A01,Picking,En conteo,Deltron,63
+M0372,SKU-8875,Mouse,A01,Despacho,Despachado,Ingram,80
+M0373,SKU-4106,Mouse,A03,Z1,En conteo,Proveedor Local,123
+M0374,SKU-7939,Impresora,A02,Z3,Ingresado,TechData,434
+M0375,SKU-8576,Mouse,A03,Z1,Despachado,Intcomex,116
+M0376,SKU-2109,Servidor,Tienda Norte,Despacho,Despachado,Intcomex,176
+M0377,SKU-3292,Router,Tienda Norte,Z2,En conteo,TechData,467
+M0378,SKU-2666,Monitor,LAB,Picking,Despachado,TechData,299
+M0379,SKU-5260,Impresora,Tienda Norte,Picking,Observado,Intcomex,480
+M0380,SKU-4055,Teclado,A02,Picking,En conteo,Deltron,133
+M0381,SKU-5936,Servidor,Tienda Norte,Z3,Despachado,TechData,393
+M0382,SKU-9882,Mouse,Tienda Norte,Z1,Ingresado,Ingram,159
+M0383,SKU-4646,Monitor,A01,Z4,Observado,Ingram,310
+M0384,SKU-9515,Laptop,A03,Picking,En conteo,TechData,44
+M0385,SKU-6471,Teclado,Tienda Sur,Z3,Ingresado,TechData,358
+M0386,SKU-3734,Router,LAB,Picking,En conteo,Proveedor Local,27
+M0387,SKU-3813,Teclado,Tienda Norte,Z1,Despachado,Ingram,366
+M0388,SKU-5365,Mouse,A02,Z4,Despachado,Ingram,212
+M0389,SKU-3925,Servidor,LAB,Z4,Ingresado,Intcomex,75
+M0390,SKU-4117,Teclado,Tienda Norte,Z3,Ingresado,Proveedor Local,408
+M0391,SKU-1109,Monitor,Tienda Norte,Z3,Observado,Proveedor Local,302
+M0392,SKU-9023,Mouse,A02,Despacho,En conteo,Proveedor Local,101
+M0393,SKU-6881,Mouse,Tienda Norte,Z3,Observado,Ingram,289
+M0394,SKU-3392,Teclado,Tienda Sur,Z4,Observado,Ingram,38
+M0395,SKU-2054,Mouse,Tienda Sur,Z2,En conteo,TechData,7
+M0396,SKU-4578,Servidor,Tienda Norte,Z4,Despachado,Deltron,202
+M0397,SKU-8586,Router,LAB,Z1,Ingresado,Intcomex,187
+M0398,SKU-5778,Servidor,A02,Z2,Despachado,Ingram,408
+M0399,SKU-1236,Impresora,A01,Z3,En conteo,Intcomex,17
+M0400,SKU-9325,Servidor,A02,Picking,Despachado,Deltron,327
+M0401,SKU-3282,Impresora,LAB,Z2,Despachado,Ingram,21
+M0402,SKU-8728,Servidor,Tienda Sur,Picking,Despachado,Ingram,88
+M0403,SKU-8231,Monitor,Tienda Sur,Z4,Observado,Deltron,279
+M0404,SKU-6716,Monitor,A02,Z1,En conteo,Intcomex,4
+M0405,SKU-2049,Impresora,LAB,Z1,Observado,Intcomex,279
+M0406,SKU-8699,Teclado,Tienda Sur,Z1,En conteo,Intcomex,251
+M0407,SKU-8043,Router,A02,Despacho,En conteo,Deltron,34
+M0408,SKU-3572,Impresora,Tienda Sur,Despacho,Observado,Deltron,170
+M0409,SKU-2497,Servidor,Tienda Sur,Z1,Ingresado,Deltron,454
+M0410,SKU-2323,Laptop,Tienda Norte,Z1,Observado,Proveedor Local,394
+M0411,SKU-5193,Servidor,A02,Z2,En conteo,Intcomex,107
+M0412,SKU-1780,Laptop,A02,Z4,Ingresado,TechData,69
+M0413,SKU-3113,Monitor,A03,Z1,Despachado,Proveedor Local,119
+M0414,SKU-1046,Servidor,A02,Despacho,Observado,Intcomex,450
+M0415,SKU-5499,Monitor,LAB,Z3,Despachado,Proveedor Local,59
+M0416,SKU-8122,Router,Tienda Norte,Z2,Ingresado,Proveedor Local,58
+M0417,SKU-7808,Servidor,LAB,Z2,Ingresado,TechData,431
+M0418,SKU-7984,Impresora,LAB,Picking,En conteo,Deltron,5
+M0419,SKU-5075,Monitor,A01,Z3,Observado,Deltron,466
+M0420,SKU-5140,Laptop,A01,Z4,Ingresado,TechData,201
+M0421,SKU-5323,Impresora,LAB,Z1,Ingresado,Proveedor Local,148
+M0422,SKU-5753,Router,Tienda Sur,Z3,Ingresado,Ingram,169
+M0423,SKU-2556,Mouse,LAB,Z3,Despachado,Proveedor Local,485
+M0424,SKU-7764,Router,Tienda Sur,Z2,Ingresado,Proveedor Local,67
+M0425,SKU-5845,Laptop,A01,Z3,Ingresado,Deltron,419
+M0426,SKU-1297,Servidor,Tienda Norte,Z4,En conteo,Ingram,375
+M0427,SKU-4197,Laptop,A03,Z2,Observado,Deltron,82
+M0428,SKU-5006,Servidor,A02,Z2,Ingresado,Deltron,258
+M0429,SKU-9982,Monitor,LAB,Despacho,En conteo,Deltron,121
+M0430,SKU-6731,Teclado,Tienda Sur,Z1,Observado,TechData,208
+M0431,SKU-3856,Teclado,Tienda Sur,Despacho,Despachado,Proveedor Local,187
+M0432,SKU-1765,Router,A01,Z1,Ingresado,Deltron,398
+M0433,SKU-3607,Router,A03,Z3,En conteo,Intcomex,238
+M0434,SKU-8296,Servidor,Tienda Norte,Picking,Despachado,TechData,21
+M0435,SKU-4621,Laptop,LAB,Z3,Ingresado,Intcomex,11
+M0436,SKU-5173,Teclado,Tienda Norte,Picking,Ingresado,Proveedor Local,242
+M0437,SKU-2928,Router,Tienda Norte,Z4,Ingresado,Deltron,424
+M0438,SKU-3150,Monitor,Tienda Norte,Z2,Observado,Deltron,492
+M0439,SKU-5833,Servidor,Tienda Sur,Z3,Despachado,Ingram,167
+M0440,SKU-6777,Impresora,LAB,Z4,Observado,TechData,254
+M0441,SKU-2446,Laptop,Tienda Sur,Z2,En conteo,Proveedor Local,409
+M0442,SKU-9982,Monitor,A01,Despacho,Observado,Deltron,240
+M0443,SKU-7744,Monitor,LAB,Z3,Observado,Ingram,45
+M0444,SKU-7374,Laptop,Tienda Norte,Picking,Observado,Proveedor Local,293
+M0445,SKU-8614,Laptop,A01,Z3,Despachado,Intcomex,60
+M0446,SKU-4360,Monitor,LAB,Despacho,En conteo,Ingram,4
+M0447,SKU-9421,Monitor,A03,Z4,En conteo,Ingram,67
+M0448,SKU-9316,Servidor,Tienda Norte,Picking,Despachado,Ingram,352
+M0449,SKU-9123,Teclado,LAB,Z1,Ingresado,Intcomex,375
+M0450,SKU-8850,Impresora,Tienda Norte,Z2,En conteo,Ingram,325
+M0451,SKU-6379,Servidor,LAB,Z1,Despachado,Intcomex,267
+M0452,SKU-8958,Servidor,Tienda Norte,Picking,Observado,Intcomex,263
+M0453,SKU-6988,Servidor,Tienda Sur,Picking,En conteo,Proveedor Local,334
+M0454,SKU-2718,Impresora,A03,Z2,En conteo,TechData,357
+M0455,SKU-4976,Laptop,Tienda Sur,Picking,Ingresado,Ingram,241
+M0456,SKU-4886,Mouse,Tienda Norte,Z3,Observado,Deltron,161
+M0457,SKU-8578,Servidor,Tienda Sur,Despacho,Observado,Deltron,142
+M0458,SKU-2807,Router,A01,Z4,En conteo,Proveedor Local,464
+M0459,SKU-3791,Servidor,LAB,Z2,En conteo,Deltron,146
+M0460,SKU-4805,Teclado,LAB,Z3,Ingresado,TechData,16
+M0461,SKU-5245,Monitor,A03,Picking,Despachado,Proveedor Local,265
+M0462,SKU-6396,Servidor,Tienda Sur,Despacho,Ingresado,TechData,416
+M0463,SKU-8031,Teclado,Tienda Norte,Z3,En conteo,Proveedor Local,388
+M0464,SKU-4653,Servidor,LAB,Z3,En conteo,Proveedor Local,37
+M0465,SKU-7199,Mouse,Tienda Norte,Z3,Despachado,Deltron,347
+M0466,SKU-1638,Mouse,Tienda Sur,Z2,Ingresado,TechData,334
+M0467,SKU-2603,Router,Tienda Sur,Z4,En conteo,TechData,49
+M0468,SKU-4167,Teclado,Tienda Sur,Z1,Ingresado,TechData,261
+M0469,SKU-9758,Monitor,LAB,Picking,Despachado,Intcomex,98
+M0470,SKU-4233,Servidor,Tienda Sur,Picking,Observado,Deltron,7
+M0471,SKU-4871,Monitor,LAB,Picking,Observado,Intcomex,489
+M0472,SKU-6456,Servidor,A01,Despacho,Despachado,Intcomex,45
+M0473,SKU-3264,Router,Tienda Sur,Z4,Observado,Intcomex,82
+M0474,SKU-8513,Monitor,A03,Despacho,Observado,Ingram,146
+M0475,SKU-8380,Monitor,A03,Picking,Ingresado,Intcomex,72
+M0476,SKU-3096,Monitor,A03,Z4,En conteo,Ingram,150
+M0477,SKU-7944,Router,Tienda Norte,Z3,Ingresado,Proveedor Local,125
+M0478,SKU-6848,Teclado,A03,Z3,En conteo,Ingram,468
+M0479,SKU-3437,Laptop,A01,Z4,Ingresado,TechData,129
+M0480,SKU-2206,Monitor,LAB,Z3,Observado,Deltron,289
+M0481,SKU-5490,Router,LAB,Z4,Ingresado,Intcomex,56
+M0482,SKU-5084,Servidor,Tienda Norte,Z1,Despachado,TechData,347
+M0483,SKU-1233,Router,LAB,Z3,Ingresado,TechData,377
+M0484,SKU-7639,Laptop,A02,Z2,Despachado,Proveedor Local,333
+M0485,SKU-4880,Servidor,Tienda Sur,Despacho,Ingresado,Deltron,198
+M0486,SKU-5850,Teclado,LAB,Picking,Observado,Intcomex,344
+M0487,SKU-1071,Teclado,A03,Z3,Observado,Deltron,298
+M0488,SKU-6455,Laptop,A02,Z4,Despachado,Deltron,220
+M0489,SKU-1108,Mouse,LAB,Z4,Observado,Intcomex,119
+M0490,SKU-3242,Mouse,LAB,Z2,Ingresado,Deltron,348
+M0491,SKU-7734,Laptop,A01,Picking,Despachado,Intcomex,205
+M0492,SKU-7177,Servidor,Tienda Sur,Z2,En conteo,Proveedor Local,9
+M0493,SKU-4010,Servidor,A02,Z2,Ingresado,Proveedor Local,228
+M0494,SKU-7136,Teclado,Tienda Sur,Z1,En conteo,Ingram,235
+M0495,SKU-1608,Mouse,Tienda Sur,Z4,Ingresado,Ingram,490
+M0496,SKU-6583,Servidor,A01,Z2,Ingresado,Ingram,107
+M0497,SKU-4420,Teclado,A03,Picking,Ingresado,TechData,224
+M0498,SKU-8792,Monitor,A01,Z4,Despachado,Ingram,283
+M0499,SKU-4172,Servidor,A02,Despacho,Despachado,Proveedor Local,377
+M0500,SKU-2188,Servidor,Tienda Norte,Z2,En conteo,Proveedor Local,76
+M0501,SKU-2842,Laptop,A03,Z2,Ingresado,TechData,44
+M0502,SKU-3615,Monitor,LAB,Z1,Ingresado,Proveedor Local,65
+M0503,SKU-3380,Impresora,A02,Despacho,En conteo,TechData,384
+M0504,SKU-5583,Monitor,LAB,Z1,Observado,Deltron,318
+M0505,SKU-6310,Mouse,Tienda Sur,Picking,En conteo,Intcomex,457
+M0506,SKU-9970,Monitor,A01,Z4,Despachado,Intcomex,82
+M0507,SKU-9495,Router,Tienda Sur,Despacho,Ingresado,Ingram,86
+M0508,SKU-7904,Impresora,Tienda Norte,Z1,Observado,Deltron,213
+M0509,SKU-7866,Teclado,Tienda Norte,Picking,Observado,Intcomex,380
+M0510,SKU-5435,Mouse,LAB,Z1,En conteo,Ingram,332
+M0511,SKU-7989,Router,A03,Z4,Despachado,Deltron,470
+M0512,SKU-6613,Monitor,A03,Z4,Despachado,TechData,282
+M0513,SKU-8631,Servidor,A03,Z4,En conteo,Proveedor Local,464
+M0514,SKU-9787,Teclado,A01,Z4,Ingresado,Proveedor Local,140
+M0515,SKU-7825,Teclado,LAB,Z4,En conteo,Ingram,223
+M0516,SKU-2415,Monitor,Tienda Norte,Picking,En conteo,Intcomex,280
+M0517,SKU-6018,Monitor,LAB,Picking,Ingresado,Proveedor Local,70
+M0518,SKU-9399,Router,A02,Z4,Ingresado,TechData,132
+M0519,SKU-2958,Mouse,A01,Z1,Observado,Intcomex,444
+M0520,SKU-9072,Laptop,Tienda Sur,Picking,En conteo,Ingram,172
+M0521,SKU-7343,Servidor,Tienda Sur,Z4,Ingresado,Intcomex,39
+M0522,SKU-7576,Mouse,A03,Z4,Observado,Ingram,74
+M0523,SKU-8638,Impresora,Tienda Norte,Z2,Ingresado,Intcomex,390
+M0524,SKU-5300,Monitor,Tienda Norte,Despacho,Observado,Intcomex,192
+M0525,SKU-5424,Laptop,LAB,Z1,Ingresado,Proveedor Local,310
+M0526,SKU-2402,Impresora,Tienda Norte,Despacho,Observado,Proveedor Local,11
+M0527,SKU-9557,Mouse,A01,Despacho,Ingresado,TechData,1
+M0528,SKU-9428,Router,Tienda Sur,Despacho,En conteo,TechData,447
+M0529,SKU-2683,Teclado,A02,Z1,En conteo,TechData,333
+M0530,SKU-2695,Servidor,A01,Z4,Observado,Ingram,146
+M0531,SKU-4704,Monitor,LAB,Picking,Observado,TechData,306
+M0532,SKU-7214,Mouse,Tienda Sur,Z2,Observado,TechData,43
+M0533,SKU-1879,Teclado,A01,Z1,Ingresado,Proveedor Local,474
+M0534,SKU-1008,Laptop,Tienda Sur,Z4,Ingresado,Ingram,255
+M0535,SKU-6932,Laptop,Tienda Sur,Z2,Ingresado,Deltron,25
+M0536,SKU-3434,Teclado,Tienda Sur,Z3,En conteo,Intcomex,352
+M0537,SKU-4762,Servidor,Tienda Sur,Picking,Despachado,Ingram,42
+M0538,SKU-1195,Servidor,A02,Picking,En conteo,Deltron,464
+M0539,SKU-8755,Teclado,Tienda Sur,Z4,Observado,Intcomex,445
+M0540,SKU-7918,Teclado,Tienda Norte,Despacho,En conteo,Deltron,131
+M0541,SKU-3736,Teclado,A02,Z4,Observado,Intcomex,29
+M0542,SKU-5608,Laptop,LAB,Z3,Ingresado,Deltron,399
+M0543,SKU-4460,Mouse,A03,Z1,Observado,Ingram,462
+M0544,SKU-4074,Monitor,LAB,Picking,Despachado,TechData,405
+M0545,SKU-7942,Router,LAB,Despacho,En conteo,TechData,274
+M0546,SKU-2887,Servidor,Tienda Sur,Z4,Ingresado,Proveedor Local,164
+M0547,SKU-6627,Mouse,A01,Z4,Observado,Proveedor Local,337
+M0548,SKU-1760,Router,A03,Picking,Observado,Proveedor Local,371
+M0549,SKU-7405,Impresora,Tienda Norte,Z1,Observado,Deltron,302
+M0550,SKU-1571,Impresora,A01,Z2,Observado,Proveedor Local,206
+M0551,SKU-3800,Teclado,Tienda Sur,Z1,Observado,TechData,131
+M0552,SKU-5350,Teclado,A01,Picking,En conteo,Intcomex,94
+M0553,SKU-5234,Teclado,A02,Z3,Despachado,TechData,378
+M0554,SKU-2790,Laptop,A01,Z1,Ingresado,Proveedor Local,191
+M0555,SKU-2160,Impresora,A03,Z4,En conteo,Proveedor Local,313
+M0556,SKU-6267,Impresora,A02,Z2,Ingresado,Intcomex,183
+M0557,SKU-7751,Laptop,Tienda Norte,Despacho,Despachado,Ingram,420
+M0558,SKU-8437,Servidor,Tienda Sur,Z2,Observado,Proveedor Local,5
+M0559,SKU-1653,Monitor,A02,Despacho,En conteo,Deltron,80
+M0560,SKU-6671,Impresora,LAB,Despacho,Despachado,Ingram,172
+M0561,SKU-6437,Teclado,Tienda Norte,Z2,En conteo,Proveedor Local,443
+M0562,SKU-2670,Servidor,Tienda Norte,Z2,Ingresado,Deltron,241
+M0563,SKU-5184,Impresora,Tienda Sur,Picking,Observado,TechData,157
+M0564,SKU-7333,Laptop,A03,Z2,Despachado,TechData,491
+M0565,SKU-2698,Mouse,Tienda Sur,Picking,Observado,TechData,407
+M0566,SKU-3953,Laptop,A03,Z4,Ingresado,TechData,94
+M0567,SKU-9176,Teclado,Tienda Norte,Z1,Observado,Deltron,410
+M0568,SKU-3360,Impresora,A02,Z4,En conteo,TechData,318
+M0569,SKU-9248,Impresora,Tienda Sur,Picking,En conteo,Proveedor Local,278
+M0570,SKU-9597,Mouse,LAB,Z3,Observado,Deltron,169
+M0571,SKU-9400,Teclado,LAB,Z3,Ingresado,Intcomex,143
+M0572,SKU-1069,Laptop,Tienda Norte,Z2,Despachado,TechData,456
+M0573,SKU-1053,Servidor,A03,Picking,En conteo,Intcomex,357
+M0574,SKU-8433,Teclado,Tienda Sur,Z1,Despachado,Deltron,193
+M0575,SKU-5082,Impresora,Tienda Norte,Z1,Ingresado,Intcomex,431
+M0576,SKU-5567,Router,Tienda Norte,Z3,Observado,TechData,310
+M0577,SKU-4971,Mouse,Tienda Sur,Despacho,Observado,TechData,61
+M0578,SKU-2145,Teclado,LAB,Picking,En conteo,Intcomex,362
+M0579,SKU-3167,Servidor,A02,Z1,En conteo,Ingram,337
+M0580,SKU-7863,Teclado,Tienda Norte,Z3,Ingresado,Deltron,496
+M0581,SKU-4802,Laptop,LAB,Z1,Despachado,Intcomex,231
+M0582,SKU-5907,Monitor,A02,Z1,Despachado,TechData,492
+M0583,SKU-3887,Router,Tienda Sur,Despacho,En conteo,Ingram,275
+M0584,SKU-7780,Servidor,Tienda Sur,Z2,Observado,Deltron,234
+M0585,SKU-6769,Mouse,A02,Z1,Ingresado,Intcomex,321
+M0586,SKU-2253,Monitor,Tienda Norte,Despacho,Ingresado,TechData,279
+M0587,SKU-4047,Impresora,LAB,Picking,Ingresado,TechData,214
+M0588,SKU-2270,Teclado,Tienda Sur,Z3,Observado,Proveedor Local,442
+M0589,SKU-9366,Teclado,Tienda Norte,Z4,En conteo,Intcomex,182
+M0590,SKU-8094,Teclado,Tienda Sur,Z3,Ingresado,Proveedor Local,477
+M0591,SKU-1470,Monitor,Tienda Sur,Picking,Despachado,Deltron,72
+M0592,SKU-2245,Monitor,Tienda Sur,Picking,En conteo,TechData,300
+M0593,SKU-1679,Teclado,Tienda Norte,Z3,En conteo,Proveedor Local,473
+M0594,SKU-9617,Router,A03,Z2,Despachado,Proveedor Local,147
+M0595,SKU-8356,Laptop,A03,Z2,Ingresado,Intcomex,41
+M0596,SKU-4608,Router,Tienda Sur,Z2,En conteo,Ingram,406
+M0597,SKU-3745,Monitor,Tienda Sur,Z2,Ingresado,Intcomex,445
+M0598,SKU-8087,Mouse,Tienda Norte,Z4,Observado,Intcomex,404
+M0599,SKU-8250,Router,Tienda Sur,Z4,En conteo,Intcomex,219
+M0600,SKU-9873,Servidor,Tienda Sur,Z3,Despachado,TechData,74
+M0601,SKU-9670,Mouse,Tienda Sur,Z4,Ingresado,Intcomex,77
+M0602,SKU-1103,Impresora,LAB,Z4,Despachado,Deltron,225
+M0603,SKU-2310,Servidor,A01,Z4,Despachado,Proveedor Local,117
+M0604,SKU-4635,Teclado,Tienda Sur,Despacho,Observado,Deltron,246
+M0605,SKU-4976,Teclado,LAB,Z2,Despachado,Intcomex,440
+M0606,SKU-8420,Mouse,Tienda Sur,Despacho,Ingresado,Ingram,131
+M0607,SKU-6416,Monitor,A03,Picking,Observado,Proveedor Local,241
+M0608,SKU-4577,Laptop,A02,Z4,Despachado,Intcomex,88
+M0609,SKU-6642,Router,LAB,Z1,Observado,Intcomex,404
+M0610,SKU-5170,Laptop,Tienda Sur,Z2,Observado,Deltron,173
+M0611,SKU-5757,Mouse,Tienda Norte,Picking,Despachado,Proveedor Local,408
+M0612,SKU-8370,Mouse,Tienda Sur,Z1,Observado,Ingram,54
+M0613,SKU-7808,Mouse,Tienda Norte,Picking,Ingresado,Deltron,404
+M0614,SKU-7903,Servidor,A03,Z4,En conteo,Intcomex,271
+M0615,SKU-7405,Router,A03,Z4,Ingresado,Deltron,494
+M0616,SKU-5563,Impresora,Tienda Sur,Z3,En conteo,TechData,383
+M0617,SKU-4739,Monitor,A02,Despacho,Despachado,Proveedor Local,435
+M0618,SKU-2155,Servidor,A02,Z3,Observado,Deltron,274
+M0619,SKU-8622,Servidor,LAB,Z1,Ingresado,TechData,457
+M0620,SKU-3648,Monitor,Tienda Sur,Picking,Observado,Deltron,299
+M0621,SKU-5571,Monitor,LAB,Z3,Ingresado,TechData,212
+M0622,SKU-1393,Servidor,Tienda Norte,Picking,Observado,Intcomex,31
+M0623,SKU-2394,Monitor,Tienda Sur,Z1,Despachado,Intcomex,295
+M0624,SKU-9382,Laptop,Tienda Sur,Z1,Despachado,Proveedor Local,256
+M0625,SKU-2492,Router,LAB,Z2,Despachado,Intcomex,183
+M0626,SKU-7951,Impresora,Tienda Norte,Z1,Observado,Proveedor Local,397
+M0627,SKU-2240,Laptop,Tienda Norte,Despacho,Ingresado,Ingram,188
+M0628,SKU-4579,Monitor,LAB,Z3,Despachado,Deltron,207
+M0629,SKU-8510,Laptop,A02,Despacho,En conteo,TechData,85
+M0630,SKU-9380,Router,LAB,Z1,Observado,TechData,188
+M0631,SKU-8069,Servidor,Tienda Norte,Z3,En conteo,Proveedor Local,342
+M0632,SKU-5846,Teclado,LAB,Z3,Observado,Proveedor Local,292
+M0633,SKU-7076,Teclado,A01,Z3,Observado,Intcomex,353
+M0634,SKU-7336,Monitor,Tienda Norte,Despacho,Ingresado,TechData,59
+M0635,SKU-5921,Impresora,A03,Z3,Ingresado,Proveedor Local,115
+M0636,SKU-6652,Monitor,Tienda Sur,Z3,Despachado,Deltron,74
+M0637,SKU-2010,Mouse,Tienda Sur,Picking,Despachado,Ingram,202
+M0638,SKU-6133,Laptop,A01,Picking,Despachado,Ingram,154
+M0639,SKU-7131,Mouse,A03,Despacho,Observado,Deltron,77
+M0640,SKU-1983,Router,A02,Z1,Despachado,TechData,323
+M0641,SKU-7319,Router,Tienda Norte,Z3,En conteo,Intcomex,14
+M0642,SKU-9403,Servidor,Tienda Norte,Z2,Observado,Ingram,97
+M0643,SKU-6937,Servidor,A02,Z2,Ingresado,Intcomex,378
+M0644,SKU-5661,Teclado,A01,Despacho,Despachado,Proveedor Local,103
+M0645,SKU-8151,Monitor,A03,Despacho,Ingresado,Proveedor Local,129
+M0646,SKU-2478,Monitor,Tienda Sur,Z1,Ingresado,Deltron,368
+M0647,SKU-3699,Teclado,LAB,Picking,Observado,Proveedor Local,291
+M0648,SKU-2001,Servidor,A01,Z3,En conteo,Proveedor Local,468
+M0649,SKU-5143,Laptop,A02,Despacho,Despachado,Intcomex,167
+M0650,SKU-5955,Mouse,A01,Z1,Ingresado,Ingram,105
+M0651,SKU-5957,Servidor,Tienda Sur,Z2,Observado,Proveedor Local,364
+M0652,SKU-7011,Mouse,A01,Z2,Despachado,Proveedor Local,393
+M0653,SKU-8084,Servidor,A02,Z4,En conteo,Proveedor Local,213
+M0654,SKU-2428,Monitor,LAB,Z2,Observado,Intcomex,60
+M0655,SKU-2908,Monitor,A01,Z2,Ingresado,Intcomex,258
+M0656,SKU-2369,Monitor,A01,Z1,Observado,Proveedor Local,440
+M0657,SKU-6002,Impresora,A01,Z2,Ingresado,Proveedor Local,280
+M0658,SKU-9655,Servidor,A01,Picking,En conteo,TechData,155
+M0659,SKU-6905,Monitor,A02,Z1,Ingresado,Proveedor Local,445
+M0660,SKU-1591,Impresora,A02,Z1,Despachado,Intcomex,165
+M0661,SKU-7431,Impresora,Tienda Sur,Despacho,Despachado,Ingram,227
+M0662,SKU-3483,Monitor,LAB,Despacho,En conteo,TechData,28
+M0663,SKU-5921,Servidor,Tienda Sur,Z1,En conteo,Ingram,6
+M0664,SKU-4566,Servidor,Tienda Norte,Picking,Ingresado,Proveedor Local,59
+M0665,SKU-9293,Router,LAB,Z3,Ingresado,Deltron,417
+M0666,SKU-1494,Laptop,A02,Despacho,Despachado,Intcomex,12
+M0667,SKU-5079,Teclado,A03,Picking,Observado,TechData,15
+M0668,SKU-9078,Laptop,A03,Picking,En conteo,TechData,177
+M0669,SKU-1950,Router,Tienda Sur,Z4,En conteo,Deltron,385
+M0670,SKU-3514,Teclado,Tienda Sur,Despacho,En conteo,Intcomex,116
+M0671,SKU-2232,Router,LAB,Despacho,Despachado,Ingram,202
+M0672,SKU-1427,Router,A02,Despacho,En conteo,Proveedor Local,373
+M0673,SKU-2258,Laptop,Tienda Sur,Despacho,Ingresado,Deltron,395
+M0674,SKU-8200,Router,A01,Z2,En conteo,Intcomex,31
+M0675,SKU-7955,Mouse,LAB,Z1,Ingresado,Deltron,305
+M0676,SKU-5602,Mouse,Tienda Norte,Z4,En conteo,Proveedor Local,126
+M0677,SKU-3243,Router,A02,Z2,En conteo,Ingram,15
+M0678,SKU-9079,Laptop,Tienda Sur,Despacho,Observado,Proveedor Local,420
+M0679,SKU-1145,Router,A01,Picking,En conteo,Ingram,141
+M0680,SKU-1795,Impresora,LAB,Z2,Despachado,Intcomex,111
+M0681,SKU-5886,Monitor,A01,Z4,Observado,Proveedor Local,399
+M0682,SKU-9043,Teclado,A03,Despacho,Despachado,Proveedor Local,449
+M0683,SKU-3803,Monitor,LAB,Z3,Ingresado,Proveedor Local,253
+M0684,SKU-4055,Monitor,Tienda Norte,Z3,Despachado,Deltron,282
+M0685,SKU-6532,Servidor,A03,Z3,Observado,Ingram,109
+M0686,SKU-2873,Impresora,LAB,Z1,Despachado,Deltron,266
+M0687,SKU-3704,Router,A02,Z4,En conteo,Proveedor Local,288
+M0688,SKU-4378,Impresora,Tienda Sur,Z4,Despachado,TechData,450
+M0689,SKU-4154,Monitor,A02,Picking,Ingresado,Ingram,133
+M0690,SKU-4856,Mouse,A03,Z4,Observado,Proveedor Local,160
+M0691,SKU-7771,Mouse,A03,Picking,En conteo,TechData,484
+M0692,SKU-5354,Laptop,LAB,Z2,En conteo,Ingram,67
+M0693,SKU-1632,Mouse,A02,Z1,En conteo,Deltron,177
+M0694,SKU-3763,Impresora,LAB,Z4,En conteo,Ingram,63
+M0695,SKU-5262,Teclado,Tienda Norte,Z3,Ingresado,Proveedor Local,53
+M0696,SKU-2817,Servidor,A03,Z3,Ingresado,Deltron,225
+M0697,SKU-3920,Impresora,A01,Despacho,Observado,Intcomex,360
+M0698,SKU-7213,Laptop,A01,Z4,En conteo,Ingram,53
+M0699,SKU-6028,Mouse,A01,Z2,En conteo,Ingram,46
+M0700,SKU-9460,Impresora,A02,Z4,Ingresado,Deltron,175
+M0701,SKU-6567,Servidor,Tienda Sur,Z3,En conteo,Deltron,466
+M0702,SKU-5230,Monitor,Tienda Sur,Z4,Despachado,TechData,260
+M0703,SKU-5185,Router,A02,Z4,En conteo,Ingram,137
+M0704,SKU-1447,Monitor,A03,Despacho,Observado,Deltron,144
+M0705,SKU-6537,Router,Tienda Norte,Z3,En conteo,TechData,15
+M0706,SKU-1145,Monitor,A01,Z1,Ingresado,Proveedor Local,490
+M0707,SKU-7777,Servidor,A02,Z2,En conteo,Intcomex,490
+M0708,SKU-4613,Impresora,LAB,Picking,En conteo,Deltron,352
+M0709,SKU-3059,Servidor,A01,Despacho,En conteo,Intcomex,200
+M0710,SKU-9689,Monitor,Tienda Norte,Z3,Ingresado,Proveedor Local,167
+M0711,SKU-8388,Laptop,Tienda Norte,Z2,Observado,Ingram,400
+M0712,SKU-2393,Mouse,Tienda Sur,Z3,Ingresado,Proveedor Local,59
+M0713,SKU-2140,Monitor,LAB,Despacho,Observado,Ingram,124
+M0714,SKU-5507,Router,Tienda Norte,Despacho,Observado,Proveedor Local,140
+M0715,SKU-4093,Router,Tienda Sur,Z4,En conteo,Ingram,8
+M0716,SKU-7880,Monitor,LAB,Picking,Observado,Proveedor Local,172
+M0717,SKU-3033,Teclado,A02,Picking,Observado,Deltron,146
+M0718,SKU-7343,Mouse,Tienda Norte,Z3,Observado,Intcomex,428
+M0719,SKU-2385,Servidor,Tienda Sur,Z4,Observado,TechData,67
+M0720,SKU-8776,Teclado,A02,Picking,Ingresado,Ingram,58
+M0721,SKU-7797,Servidor,Tienda Sur,Z1,En conteo,Intcomex,139
+M0722,SKU-6014,Mouse,Tienda Norte,Despacho,Observado,Deltron,300
+M0723,SKU-4016,Monitor,A03,Despacho,Ingresado,TechData,365
+M0724,SKU-4487,Impresora,A02,Z2,En conteo,Deltron,466
+M0725,SKU-9427,Impresora,LAB,Despacho,Ingresado,Ingram,28
+M0726,SKU-2482,Mouse,A01,Z4,Ingresado,Intcomex,350
+M0727,SKU-5650,Servidor,Tienda Sur,Z3,En conteo,TechData,488
+M0728,SKU-2227,Servidor,Tienda Sur,Z2,Ingresado,Deltron,448
+M0729,SKU-5943,Impresora,A03,Z1,Observado,Intcomex,321
+M0730,SKU-5017,Teclado,Tienda Sur,Z3,Despachado,Proveedor Local,104
+M0731,SKU-4494,Mouse,A02,Despacho,En conteo,Deltron,441
+M0732,SKU-7641,Servidor,LAB,Picking,Ingresado,Intcomex,25
+M0733,SKU-3269,Mouse,A03,Z4,Observado,TechData,487
+M0734,SKU-8739,Laptop,A01,Z3,Despachado,Ingram,428
+M0735,SKU-9596,Router,LAB,Z1,Observado,Ingram,478
+M0736,SKU-1033,Mouse,Tienda Sur,Picking,Ingresado,Ingram,214
+M0737,SKU-2953,Laptop,A03,Z4,Observado,Deltron,196
+M0738,SKU-2338,Laptop,Tienda Norte,Picking,Despachado,Ingram,389
+M0739,SKU-8495,Teclado,A03,Z2,Observado,TechData,109
+M0740,SKU-9457,Impresora,Tienda Sur,Z3,Despachado,Intcomex,255
+M0741,SKU-8911,Teclado,Tienda Norte,Despacho,En conteo,TechData,3
+M0742,SKU-1925,Mouse,Tienda Norte,Picking,Ingresado,Intcomex,175
+M0743,SKU-4969,Monitor,A03,Z1,Despachado,Ingram,385
+M0744,SKU-1504,Impresora,A02,Z2,En conteo,TechData,293
+M0745,SKU-1989,Impresora,LAB,Despacho,En conteo,TechData,373
+M0746,SKU-1319,Monitor,Tienda Norte,Z4,Observado,Intcomex,282
+M0747,SKU-4522,Router,Tienda Norte,Despacho,Observado,TechData,33
+M0748,SKU-7715,Teclado,LAB,Despacho,Despachado,Ingram,394
+M0749,SKU-1019,Router,A01,Z2,En conteo,Ingram,426
+M0750,SKU-1346,Mouse,A01,Z2,En conteo,Proveedor Local,398
+M0751,SKU-1995,Impresora,Tienda Sur,Picking,En conteo,TechData,385
+M0752,SKU-4683,Monitor,A01,Z4,Ingresado,Proveedor Local,494
+M0753,SKU-9435,Monitor,A03,Picking,Observado,Proveedor Local,80
+M0754,SKU-8130,Mouse,Tienda Sur,Z3,En conteo,TechData,479
+M0755,SKU-3883,Impresora,LAB,Z3,Ingresado,TechData,409
+M0756,SKU-5692,Servidor,A03,Z3,En conteo,Deltron,227
+M0757,SKU-3182,Mouse,LAB,Z4,Observado,Deltron,46
+M0758,SKU-9353,Monitor,Tienda Norte,Z1,En conteo,Proveedor Local,139
+M0759,SKU-9165,Mouse,Tienda Norte,Z3,Ingresado,Ingram,100
+M0760,SKU-6035,Teclado,A02,Z2,Ingresado,Intcomex,224
+M0761,SKU-3941,Mouse,Tienda Norte,Z2,Ingresado,Intcomex,65
+M0762,SKU-7372,Servidor,A03,Z3,Despachado,Deltron,488
+M0763,SKU-8263,Monitor,A02,Z1,Ingresado,TechData,386
+M0764,SKU-5225,Router,A01,Despacho,En conteo,Intcomex,172
+M0765,SKU-2417,Mouse,Tienda Norte,Z3,Despachado,Intcomex,140
+M0766,SKU-8618,Mouse,Tienda Sur,Z4,Observado,Ingram,65
+M0767,SKU-6613,Servidor,Tienda Norte,Z2,En conteo,Proveedor Local,304
+M0768,SKU-1405,Laptop,Tienda Sur,Z3,Despachado,TechData,371
+M0769,SKU-7687,Impresora,A02,Z2,Despachado,TechData,223
+M0770,SKU-4777,Monitor,A03,Z2,Despachado,Proveedor Local,484
+M0771,SKU-6815,Servidor,LAB,Z2,Despachado,TechData,72
+M0772,SKU-4589,Mouse,Tienda Sur,Z2,Despachado,Deltron,385
+M0773,SKU-4406,Laptop,A01,Z2,Despachado,TechData,423
+M0774,SKU-1871,Laptop,Tienda Norte,Despacho,Observado,Intcomex,336
+M0775,SKU-4401,Teclado,A01,Z2,En conteo,Ingram,137
+M0776,SKU-4236,Monitor,A02,Z2,Ingresado,Proveedor Local,455
+M0777,SKU-9431,Monitor,Tienda Norte,Z3,Observado,TechData,325
+M0778,SKU-2351,Monitor,A03,Despacho,En conteo,Proveedor Local,321
+M0779,SKU-1207,Teclado,LAB,Z2,En conteo,Ingram,304
+M0780,SKU-9581,Router,Tienda Sur,Despacho,Observado,Ingram,245
+M0781,SKU-7897,Impresora,Tienda Sur,Z4,Ingresado,TechData,152
+M0782,SKU-7054,Router,Tienda Sur,Z3,Observado,Deltron,373
+M0783,SKU-3360,Laptop,A03,Z4,Despachado,TechData,318
+M0784,SKU-3577,Mouse,A03,Z1,Observado,Intcomex,366
+M0785,SKU-3383,Servidor,LAB,Z2,En conteo,Proveedor Local,272
+M0786,SKU-6941,Impresora,A02,Z3,Despachado,Proveedor Local,285
+M0787,SKU-4496,Servidor,Tienda Norte,Z1,Despachado,Proveedor Local,234
+M0788,SKU-8679,Servidor,Tienda Sur,Picking,Despachado,Intcomex,42
+M0789,SKU-7099,Laptop,A02,Z2,Ingresado,Proveedor Local,262
+M0790,SKU-7129,Router,Tienda Norte,Despacho,En conteo,Deltron,409
+M0791,SKU-6944,Router,A01,Despacho,Ingresado,Intcomex,170
+M0792,SKU-1191,Mouse,LAB,Z4,En conteo,Ingram,207
+M0793,SKU-8499,Monitor,A03,Z4,En conteo,TechData,48
+M0794,SKU-5879,Router,Tienda Norte,Picking,En conteo,Intcomex,73
+M0795,SKU-6871,Servidor,Tienda Norte,Z1,Ingresado,Intcomex,271
+M0796,SKU-6487,Monitor,A03,Z2,En conteo,TechData,87
+M0797,SKU-3501,Laptop,A03,Z3,En conteo,Intcomex,465
+M0798,SKU-8237,Teclado,A02,Picking,En conteo,Intcomex,306
+M0799,SKU-5213,Impresora,A03,Picking,Observado,Ingram,103
+M0800,SKU-6699,Teclado,Tienda Sur,Z3,En conteo,Deltron,223
+M0801,SKU-7029,Monitor,A01,Z4,Ingresado,Proveedor Local,252
+M0802,SKU-4558,Laptop,A01,Z2,Ingresado,Ingram,340
+M0803,SKU-3399,Servidor,LAB,Z2,En conteo,TechData,114
+M0804,SKU-3748,Teclado,Tienda Sur,Z4,En conteo,Intcomex,369
+M0805,SKU-4045,Monitor,Tienda Sur,Z2,Observado,Proveedor Local,232
+M0806,SKU-5389,Impresora,A02,Picking,Ingresado,TechData,342
+M0807,SKU-7413,Laptop,A01,Picking,Ingresado,Ingram,309
+M0808,SKU-1170,Teclado,Tienda Norte,Picking,En conteo,TechData,369
+M0809,SKU-1375,Servidor,LAB,Z2,Despachado,TechData,159
+M0810,SKU-5984,Router,LAB,Picking,Despachado,TechData,264
+M0811,SKU-6855,Impresora,A03,Despacho,Observado,Ingram,248
+M0812,SKU-8057,Router,A01,Picking,Ingresado,Proveedor Local,102
+M0813,SKU-9120,Laptop,LAB,Z3,Observado,Proveedor Local,56
+M0814,SKU-1237,Teclado,A03,Z4,Despachado,Deltron,215
+M0815,SKU-8132,Impresora,A03,Z3,En conteo,Intcomex,353
+M0816,SKU-4830,Impresora,LAB,Picking,Ingresado,Deltron,67
+M0817,SKU-9211,Impresora,A01,Despacho,Observado,TechData,224
+M0818,SKU-6648,Laptop,Tienda Norte,Z2,En conteo,Proveedor Local,410
+M0819,SKU-5963,Servidor,LAB,Z4,Ingresado,Proveedor Local,271
+M0820,SKU-9843,Impresora,A02,Z4,Observado,Intcomex,418
+M0821,SKU-5325,Teclado,A01,Picking,En conteo,Proveedor Local,164
+M0822,SKU-4511,Impresora,A01,Z4,Despachado,Deltron,30
+M0823,SKU-3454,Monitor,A01,Picking,En conteo,Deltron,202
+M0824,SKU-3709,Teclado,A02,Z3,Despachado,Deltron,129
+M0825,SKU-9657,Mouse,Tienda Norte,Z3,Despachado,Ingram,96
+M0826,SKU-2673,Servidor,A03,Z4,Ingresado,Intcomex,259
+M0827,SKU-8403,Laptop,A01,Picking,Ingresado,Intcomex,170
+M0828,SKU-6084,Mouse,Tienda Norte,Z3,En conteo,TechData,1
+M0829,SKU-5909,Impresora,A01,Z2,En conteo,TechData,133
+M0830,SKU-8230,Teclado,LAB,Z4,Ingresado,Ingram,219
+M0831,SKU-2328,Monitor,A02,Z1,Observado,Ingram,387
+M0832,SKU-4895,Servidor,Tienda Norte,Despacho,En conteo,Deltron,180
+M0833,SKU-7697,Servidor,Tienda Norte,Despacho,Ingresado,Proveedor Local,463
+M0834,SKU-1727,Laptop,A03,Z1,Observado,Proveedor Local,309
+M0835,SKU-4630,Monitor,A02,Z3,Despachado,Proveedor Local,213
+M0836,SKU-7571,Laptop,A01,Z2,Observado,Deltron,384
+M0837,SKU-1005,Router,A01,Z2,Observado,TechData,99
+M0838,SKU-9497,Laptop,A01,Z1,Ingresado,Intcomex,439
+M0839,SKU-5821,Router,A03,Z4,Ingresado,Proveedor Local,48
+M0840,SKU-7140,Impresora,A01,Z4,Ingresado,Proveedor Local,152
+M0841,SKU-2899,Monitor,LAB,Despacho,Observado,Ingram,450
+M0842,SKU-6836,Teclado,A01,Picking,Ingresado,Proveedor Local,114
+M0843,SKU-7746,Impresora,LAB,Z1,En conteo,TechData,40
+M0844,SKU-8913,Laptop,Tienda Norte,Z1,Observado,Proveedor Local,486
+M0845,SKU-3418,Impresora,A02,Despacho,Despachado,Proveedor Local,465
+M0846,SKU-6990,Laptop,LAB,Despacho,Ingresado,Proveedor Local,217
+M0847,SKU-2371,Monitor,Tienda Norte,Z2,Despachado,Intcomex,39
+M0848,SKU-4190,Teclado,Tienda Norte,Z3,Despachado,Intcomex,22
+M0849,SKU-5344,Laptop,Tienda Sur,Z1,Despachado,TechData,447
+M0850,SKU-2196,Mouse,LAB,Z3,Observado,TechData,80
+M0851,SKU-8355,Teclado,Tienda Norte,Z1,En conteo,TechData,55
+M0852,SKU-2118,Servidor,A02,Z4,Despachado,Ingram,333
+M0853,SKU-4760,Laptop,LAB,Picking,Observado,Ingram,220
+M0854,SKU-6210,Mouse,Tienda Sur,Z1,Despachado,Ingram,61
+M0855,SKU-8071,Laptop,Tienda Sur,Z1,Ingresado,Ingram,342
+M0856,SKU-3158,Router,Tienda Sur,Despacho,Despachado,Proveedor Local,433
+M0857,SKU-4631,Monitor,A01,Z2,Observado,Deltron,299
+M0858,SKU-9322,Router,LAB,Picking,Despachado,Ingram,220
+M0859,SKU-3468,Monitor,A01,Z3,Observado,Proveedor Local,221
+M0860,SKU-9272,Servidor,Tienda Norte,Z1,Ingresado,Proveedor Local,361
+M0861,SKU-7339,Servidor,A01,Picking,En conteo,Proveedor Local,25
+M0862,SKU-5721,Teclado,A01,Z3,Despachado,Ingram,34
+M0863,SKU-3309,Router,A01,Z2,En conteo,Ingram,266
+M0864,SKU-3006,Mouse,A03,Z1,Ingresado,Deltron,131
+M0865,SKU-7669,Router,A01,Picking,Ingresado,Proveedor Local,256
+M0866,SKU-2674,Teclado,A01,Picking,Despachado,Deltron,218
+M0867,SKU-6335,Teclado,A03,Picking,Observado,Ingram,420
+M0868,SKU-7618,Laptop,Tienda Norte,Despacho,Observado,Proveedor Local,18
+M0869,SKU-7782,Router,A02,Despacho,En conteo,Deltron,175
+M0870,SKU-7526,Mouse,Tienda Norte,Picking,Despachado,Proveedor Local,327
+M0871,SKU-9951,Router,A03,Picking,Ingresado,TechData,133
+M0872,SKU-3320,Impresora,A03,Z1,Observado,Intcomex,341
+M0873,SKU-1263,Teclado,Tienda Norte,Z3,En conteo,TechData,465
+M0874,SKU-8062,Monitor,A03,Z2,Observado,TechData,208
+M0875,SKU-7398,Impresora,A01,Picking,Observado,Intcomex,23
+M0876,SKU-2568,Mouse,A03,Z4,Despachado,Proveedor Local,323
+M0877,SKU-7567,Laptop,LAB,Z3,En conteo,Proveedor Local,164
+M0878,SKU-1234,Monitor,Tienda Sur,Z4,Despachado,Proveedor Local,413
+M0879,SKU-8307,Mouse,A01,Z1,En conteo,TechData,71
+M0880,SKU-9849,Mouse,LAB,Z1,Despachado,Deltron,306
+M0881,SKU-9553,Monitor,A03,Z4,En conteo,TechData,334
+M0882,SKU-1753,Laptop,LAB,Z3,En conteo,Intcomex,430
+M0883,SKU-9153,Servidor,LAB,Despacho,Observado,Ingram,81
+M0884,SKU-2030,Teclado,LAB,Z2,Despachado,Ingram,368
+M0885,SKU-3416,Teclado,A02,Z3,Despachado,Intcomex,175
+M0886,SKU-3480,Teclado,Tienda Sur,Z4,Ingresado,Ingram,267
+M0887,SKU-6259,Servidor,Tienda Norte,Picking,Observado,Proveedor Local,200
+M0888,SKU-2024,Mouse,A02,Z1,Observado,Ingram,174
+M0889,SKU-3460,Laptop,Tienda Sur,Z3,Despachado,Deltron,102
+M0890,SKU-2436,Monitor,Tienda Sur,Z1,Observado,Deltron,471
+M0891,SKU-7778,Laptop,A03,Picking,Despachado,Deltron,340
+M0892,SKU-3447,Monitor,A02,Z2,Ingresado,Ingram,310
+M0893,SKU-2395,Monitor,Tienda Norte,Z3,Observado,Intcomex,372
+M0894,SKU-2785,Router,A03,Despacho,Ingresado,Deltron,442
+M0895,SKU-1507,Router,Tienda Norte,Z4,Despachado,Deltron,356
+M0896,SKU-4224,Servidor,Tienda Sur,Z4,En conteo,Proveedor Local,391
+M0897,SKU-9912,Monitor,Tienda Sur,Z3,Ingresado,Intcomex,50
+M0898,SKU-2880,Mouse,Tienda Norte,Z2,Despachado,Ingram,112
+M0899,SKU-9062,Impresora,Tienda Norte,Despacho,Ingresado,Proveedor Local,56
+M0900,SKU-1253,Laptop,Tienda Sur,Picking,En conteo,Intcomex,442
+M0901,SKU-6091,Monitor,LAB,Z3,En conteo,Proveedor Local,396
+M0902,SKU-8130,Router,A02,Despacho,Observado,Deltron,259
+M0903,SKU-8757,Mouse,A03,Z3,Despachado,TechData,110
+M0904,SKU-5923,Impresora,Tienda Norte,Picking,Despachado,Intcomex,384
+M0905,SKU-9093,Router,Tienda Sur,Z2,Observado,Deltron,152
+M0906,SKU-4042,Monitor,Tienda Sur,Z3,Despachado,Deltron,60
+M0907,SKU-2107,Mouse,Tienda Norte,Despacho,Despachado,Proveedor Local,13
+M0908,SKU-6425,Laptop,A02,Z3,Observado,Deltron,118
+M0909,SKU-9638,Monitor,Tienda Norte,Z4,Despachado,Ingram,135
+M0910,SKU-8231,Mouse,LAB,Z4,En conteo,TechData,363
+M0911,SKU-1725,Impresora,A02,Picking,En conteo,Deltron,165
+M0912,SKU-9201,Mouse,A01,Despacho,Despachado,Ingram,321
+M0913,SKU-8743,Teclado,A02,Z1,Despachado,TechData,285
+M0914,SKU-6896,Impresora,A02,Z1,Observado,Intcomex,203
+M0915,SKU-3103,Laptop,Tienda Sur,Despacho,Ingresado,TechData,431
+M0916,SKU-5842,Servidor,A01,Z3,Observado,Intcomex,2
+M0917,SKU-2995,Laptop,LAB,Z1,Observado,Deltron,183
+M0918,SKU-3332,Impresora,Tienda Norte,Z4,Observado,Deltron,363
+M0919,SKU-8558,Teclado,A03,Z2,Despachado,Ingram,305
+M0920,SKU-8845,Laptop,A01,Despacho,Observado,Intcomex,117
+M0921,SKU-4981,Teclado,Tienda Norte,Z4,Despachado,Proveedor Local,222
+M0922,SKU-8657,Laptop,A01,Z1,Ingresado,Intcomex,406
+M0923,SKU-5956,Monitor,A03,Z3,En conteo,Deltron,379
+M0924,SKU-9892,Servidor,A03,Picking,En conteo,Ingram,376
+M0925,SKU-9694,Impresora,Tienda Norte,Z1,En conteo,Proveedor Local,207
+M0926,SKU-1879,Servidor,A02,Z1,Observado,Proveedor Local,303
+M0927,SKU-3514,Mouse,Tienda Norte,Z3,Despachado,TechData,224
+M0928,SKU-4597,Impresora,A02,Z4,Observado,Proveedor Local,445
+M0929,SKU-1737,Monitor,A02,Z1,Despachado,Intcomex,96
+M0930,SKU-4753,Router,Tienda Norte,Z3,Observado,Proveedor Local,21
+M0931,SKU-8192,Laptop,A03,Z4,Despachado,Ingram,160
+M0932,SKU-9607,Monitor,LAB,Picking,En conteo,Deltron,236
+M0933,SKU-8726,Servidor,LAB,Z3,Ingresado,TechData,10
+M0934,SKU-4623,Mouse,LAB,Z4,Observado,TechData,7
+M0935,SKU-1061,Servidor,LAB,Z4,Despachado,Intcomex,438
+M0936,SKU-3533,Laptop,A02,Despacho,Despachado,Ingram,298
+M0937,SKU-4482,Router,Tienda Norte,Z4,Despachado,TechData,285
+M0938,SKU-5285,Router,LAB,Z2,En conteo,Deltron,363
+M0939,SKU-4530,Impresora,A02,Z2,Ingresado,Deltron,370
+M0940,SKU-6900,Servidor,Tienda Norte,Z4,Despachado,Ingram,461
+M0941,SKU-7591,Mouse,Tienda Sur,Z4,Ingresado,Deltron,279
+M0942,SKU-6772,Monitor,A01,Z2,Despachado,Deltron,335
+M0943,SKU-5335,Monitor,A03,Picking,Observado,Proveedor Local,450
+M0944,SKU-2500,Laptop,Tienda Norte,Despacho,Observado,TechData,180
+M0945,SKU-2606,Monitor,A03,Z2,Ingresado,Ingram,447
+M0946,SKU-7370,Servidor,A02,Z4,Ingresado,TechData,388
+M0947,SKU-1310,Teclado,Tienda Norte,Despacho,Despachado,TechData,130
+M0948,SKU-9667,Laptop,A01,Despacho,En conteo,Deltron,297
+M0949,SKU-6728,Teclado,Tienda Sur,Picking,Observado,Proveedor Local,478
+M0950,SKU-5227,Monitor,A01,Picking,Despachado,TechData,294
+M0951,SKU-4233,Laptop,A02,Z4,Despachado,TechData,173
+M0952,SKU-9135,Monitor,LAB,Z4,En conteo,TechData,267
+M0953,SKU-9067,Mouse,LAB,Z3,Despachado,Deltron,404
+M0954,SKU-7965,Laptop,A02,Z3,Ingresado,TechData,132
+M0955,SKU-2195,Impresora,A03,Z2,Ingresado,Proveedor Local,335
+M0956,SKU-9919,Router,A03,Z2,En conteo,TechData,438
+M0957,SKU-3134,Monitor,A02,Picking,Ingresado,TechData,435
+M0958,SKU-7652,Laptop,A03,Z1,Ingresado,Ingram,39
+M0959,SKU-2343,Monitor,Tienda Norte,Z1,Observado,Deltron,270
+M0960,SKU-1003,Teclado,A03,Z2,Despachado,TechData,498
+M0961,SKU-5114,Mouse,Tienda Norte,Z2,Ingresado,Deltron,300
+M0962,SKU-1209,Laptop,A01,Despacho,En conteo,Ingram,410
+M0963,SKU-7299,Router,A03,Z4,Ingresado,Deltron,430
+M0964,SKU-2467,Teclado,LAB,Z2,Ingresado,TechData,233
+M0965,SKU-7240,Mouse,Tienda Sur,Z2,En conteo,TechData,93
+M0966,SKU-1599,Impresora,Tienda Sur,Z4,Ingresado,Ingram,411
+M0967,SKU-3969,Router,A02,Z4,Despachado,TechData,157
+M0968,SKU-4665,Servidor,A02,Z1,Observado,Proveedor Local,409
+M0969,SKU-7339,Impresora,Tienda Norte,Z4,Despachado,Deltron,467
+M0970,SKU-6948,Impresora,LAB,Z1,Observado,Deltron,469
+M0971,SKU-8273,Impresora,A02,Z2,En conteo,TechData,4
+M0972,SKU-2942,Laptop,Tienda Sur,Z3,Observado,Proveedor Local,50
+M0973,SKU-8643,Servidor,LAB,Z2,Despachado,TechData,3
+M0974,SKU-7946,Impresora,A03,Z4,En conteo,Ingram,18
+M0975,SKU-9581,Teclado,Tienda Sur,Picking,En conteo,Intcomex,483
+M0976,SKU-6681,Impresora,LAB,Z4,Observado,Intcomex,486
+M0977,SKU-4187,Router,LAB,Z3,Observado,TechData,27
+M0978,SKU-3756,Mouse,A02,Z2,En conteo,TechData,430
+M0979,SKU-9073,Servidor,LAB,Z3,En conteo,Deltron,377
+M0980,SKU-6485,Impresora,LAB,Despacho,En conteo,TechData,317
+M0981,SKU-5248,Router,Tienda Norte,Despacho,Observado,TechData,382
+M0982,SKU-2282,Teclado,A03,Despacho,Despachado,Deltron,438
+M0983,SKU-8263,Teclado,A03,Despacho,Ingresado,Intcomex,130
+M0984,SKU-1385,Router,A03,Z2,En conteo,TechData,87
+M0985,SKU-1091,Impresora,Tienda Sur,Z3,En conteo,Deltron,450
+M0986,SKU-4719,Servidor,Tienda Norte,Z3,Observado,Ingram,122
+M0987,SKU-8224,Router,A03,Z3,Ingresado,TechData,269
+M0988,SKU-1119,Teclado,A02,Picking,Despachado,Intcomex,374
+M0989,SKU-9743,Teclado,LAB,Picking,Despachado,Intcomex,370
+M0990,SKU-2980,Monitor,LAB,Picking,En conteo,Deltron,500
+M0991,SKU-9599,Laptop,Tienda Sur,Z3,Ingresado,TechData,114
+M0992,SKU-8513,Monitor,A01,Z3,Ingresado,Deltron,1
+M0993,SKU-7329,Monitor,A02,Despacho,Observado,Ingram,161
+M0994,SKU-2693,Laptop,Tienda Sur,Z2,En conteo,Deltron,265
+M0995,SKU-4775,Router,Tienda Norte,Z4,En conteo,Intcomex,104
+M0996,SKU-5773,Mouse,LAB,Z3,En conteo,Deltron,355
+M0997,SKU-7456,Router,LAB,Despacho,Ingresado,Intcomex,112
+M0998,SKU-3236,Mouse,A02,Picking,En conteo,Deltron,58
+M0999,SKU-6499,Impresora,A02,Z1,Observado,Ingram,28
+M1000,SKU-2454,Laptop,A02,Despacho,En conteo,TechData,23
